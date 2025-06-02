@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chatbot</title>
+
+    <!-- Verlinkung zu externer CSS-Datei -->
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- Verlinkung zu externer JavaScript-Datei -->
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <!-- Theme-Toggle oben rechts -->
+    <button class="toggle-theme" onclick="toggleTheme()">🌗</button>
+
+    <!-- Startbildschirm mit Button zum Chatstart -->
+    <div id="startScreen" class="centered">
+      <h1>Wie kann ich dir helfen?</h1>
+
+      <!-- Eingabefeld (Chat startet automatisch bei Enter) -->
+      <input
+        type="text"
+        id="initialInput"
+        placeholder="Stelle deine erste Frage oder gib deinen Namen ein..."
+        class="start-input"
+      />
+    </div>
+
+    <!-- Chatansicht (anfangs versteckt) -->
+    <div id="chatScreen" class="chat-container hidden">
+      <div class="chat-wrapper">
+        <!-- Nachrichtenbereich -->
+        <div class="messages" id="chatMessages"></div>
+
+        <!-- Eingabezeile mit Textfeld und Button -->
+        <div class="input-bar">
+          <input
+            type="text"
+            id="userInput"
+            placeholder="Nachricht eingeben..."
+          />
+          <button onclick="sendMessage()">Senden</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
