@@ -1,87 +1,88 @@
-# ========================
-# Flask-Anwendung (Backend-API)
-# ========================
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-import json
-import numpy as np
+import requests
+import chromadb
+import os
+from dotenv import load_dotenv
 
-# OPTIONAL: Später durch Embedding-Modell ersetzen
-from sklearn.metrics.pairwise import cosine_similarity
+load_dotenv()
 
-# ========================
-# Anwendung starten
-# ========================
+# Flask App starten
 app = Flask(__name__)
-CORS(app)  # Erlaubt Zugriff von deinem Frontend (Cross-Origin)
+CORS(app)
 
-# ========================
-# Dummy-Daten (simulierte Embeddings & Texte)
-# ========================
-# In der echten Version wird hier z. B. 'data/embeddings.json' geladen
-documents = [
-    {
-        "text": "Gemäß Artikel 5 der Bundesverfassung ist die Rechtsstaatlichkeit ein zentrales Prinzip.",
-        "embedding": [0.1, 0.3, 0.5, 0.2]
-    },
-    {
-        "text": "Das Datenschutzgesetz schützt die Persönlichkeit und die Grundrechte bei der Bearbeitung von Personendaten.",
-        "embedding": [0.4, 0.2, 0.6, 0.1]
-    },
-    {
-        "text": "Das Obligationenrecht regelt allgemeine Vertragsbestimmungen und besondere Vertragstypen.",
-        "embedding": [0.6, 0.1, 0.3, 0.2]
-    }
-]
+# ChromaDB-Verbindung
+client = chromadb.HttpClient(host="localhost", port=8000)
+collection = client.get_or_create_collection("gesetzestexte")
 
-# ========================
-# Hilfsfunktion: Dummy-Embedding
-# ========================
-def embed_question_dummy(question):
-    # Platzhalter für OpenAI oder SentenceTransformer
-    # Hier: einfach Länge & Vokalanzahl als Vektor (nur für Beispiel)
-    length = len(question)
-    vowels = sum(1 for c in question if c in "aeiouäöü")
-    return np.array([length % 10, vowels % 5, length % 7, vowels % 3])
+# API-Key von Together.ai
+TOGETHER_API_KEY = os.getenv("TOGETHER_API_KEY")
+MIXTRAL_MODEL = "mistralai/Mixtral-8x7B-Instruct-v0.1"
 
+# Ollama-Embedding-Funktion
+def get_embedding(text):
+    response = requests.post("http://localhost:11434/api/embeddings", json={
+        "model": "nomic-embed-text",
+        "prompt": text
+    })
+    response.raise_for_status()
+    return response.json()["embedding"]
 
-# ========================
-# Route: POST /answer
-# ========================
+# POST /answer
 @app.route("/answer", methods=["POST"])
 def answer():
     data = request.get_json()
-    question = data.get("question", "")
+    frage = data.get("question", "")
 
-    if not question:
+    if not frage:
         return jsonify({"answer": "Keine Frage erhalten."}), 400
 
-    # === Embedding erzeugen ===
-    question_vec = embed_question_dummy(question).reshape(1, -1)
+    try:
+        # 1. Embedding erzeugen
+        frage_embedding = get_embedding(frage)
 
-    # === Ähnlichsten Textabschnitt suchen ===
-    best_match = None
-    highest_sim = -1
+        # 2. Relevante Chunks aus Chroma holen
+        result = collection.query(
+            query_embeddings=[frage_embedding],
+            n_results=5,
+            include=["documents", "metadatas"]
+        )
 
-    for doc in documents:
-        doc_vec = np.array(doc["embedding"]).reshape(1, -1)
-        sim = cosine_similarity(question_vec, doc_vec)[0][0]
+        top_docs = result["documents"][0]
+        kontext = "\n\n".join(top_docs)
 
-        if sim > highest_sim:
-            highest_sim = sim
-            best_match = doc["text"]
+        # 3. Prompt zusammenbauen
+        prompt = f"""Beantworte die folgende Frage ausschließlich basierend auf dem gegebenen Kontext.
 
-    # === Antwort zusammenbauen ===
-    if best_match:
-        antwort = f"Ich habe folgendes gefunden:\n\n„{best_match}“"
-    else:
-        antwort = "Ich konnte leider keinen passenden Gesetzestext finden."
+Frage: {frage}
 
-    return jsonify({"answer": antwort})
+Kontext:
+{kontext}
 
+Antwort:"""
 
-# ========================
-# Startpunkt
-# ========================
+        # 4. Anfrage an Together.ai
+        response = requests.post(
+            "https://api.together.xyz/v1/completions",
+            headers={"Authorization": f"Bearer {TOGETHER_API_KEY}"},
+            json={
+                "model": MIXTRAL_MODEL,
+                "prompt": prompt,
+                "max_tokens": 1024,
+                "temperature": 0.1
+            }
+        )
+
+        response.raise_for_status()
+        response_json = response.json()
+        antwort = response_json["choices"][0]["text"]
+
+        return jsonify({"answer": antwort.strip()})
+
+    except Exception as e:
+        print("❌ Fehler:", e)
+        return jsonify({"answer": "Fehler bei der Verarbeitung deiner Frage."}), 500
+
+# Start
 if __name__ == "__main__":
     app.run(debug=True)

@@ -1,8 +1,8 @@
 import os
 
 # Parameter
-input_folder = "data/text"
-output_folder = "data/chunks"
+input_folder = "../data/text"
+output_folder = "../data/chunks"
 chunk_size = 500  # Wörter pro Chunk
 overlap = 50      # Überlappung in Wörtern
 
