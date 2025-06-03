@@ -114,3 +114,25 @@ function toggleTheme() {
   const isLight = document.body.classList.toggle("light");
   localStorage.setItem("theme", isLight ? "light" : "dark");
 }
+async function sendMessage() {
+  const input = document.getElementById("userInput");
+  const msg = input.value.trim();
+  if (!msg) return;
+
+  addMessage("Du: " + msg, "user");
+  input.value = "";
+
+  try {
+    const response = await fetch("http://127.0.0.1:5000/answer", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ question: msg }),
+    });
+
+    const data = await response.json();
+    addMessage("Bot: " + data.answer, "bot");
+  } catch (err) {
+    addMessage("Bot: Fehler bei der Verbindung zum Server.", "bot");
+    console.error("Fehler beim API-Request:", err);
+  }
+}
