@@ -1,0 +1,54 @@
+# ============================
+# Python
+# ============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+
+# Virtuelle Umgebung
+.venv/
+env/
+venv/
+
+# Bytecode
+*.pyc
+*.pkl
+
+# ============================
+# VS Code / IDEs
+# ============================
+.vscode/
+.idea/
+*.code-workspace
+
+# ============================
+# Betriebssystem
+# ============================
+.DS_Store
+Thumbs.db
+
+# ============================
+# Umgebung / Sicherheit
+# ============================
+.env
+.env.*
+
+# ============================
+# Daten / Ergebnisse
+# ============================
+data/text/
+data/chunks/
+data/embeddings.json
+data/__output__/
+data/*.txt
+
+# ============================
+# Sonstiges
+# ============================
+*.bak
+*.old
+*.tmp
