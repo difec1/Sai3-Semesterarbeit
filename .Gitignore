@@ -43,8 +43,15 @@ Thumbs.db
 data/text/
 data/chunks/
 data/embeddings.json
+data/embeddings_hf.json
 data/__output__/
 data/*.txt
+
+# ChromaDB Datenbank (wird lokal erstellt)
+chroma_data/
+
+# Docker Volumes (falls lokal gemountet)
+logs/
 
 # ============================
 # Sonstiges

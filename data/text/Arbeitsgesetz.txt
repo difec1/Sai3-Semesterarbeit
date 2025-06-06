@@ -112,7 +112,7 @@ Geltungsbereich
 --- Seite 3 ---
 Arbeitsgesetz 
 3 / 32 
-822.11
+822.11 
 a. 
 auf Personen geistlichen Standes und andere Personen, die im 
 Dienste von Kirchen stehen, sowie auf Angehörige von Ordens- 
@@ -234,7 +234,7 @@ Betriebe
 --- Seite 5 ---
 Arbeitsgesetz 
 5 / 32 
-822.11
+822.11 
 II. Gesundheitsschutz22 und Plangenehmigung23 
 Art. 624 
 1 Der Arbeitgeber ist verpflichtet, zum Schutze der Gesundheit der Ar-
@@ -354,7 +354,7 @@ Höchstarbeitszeit
 --- Seite 7 ---
 Arbeitsgesetz 
 7 / 32 
-822.11
+822.11 
 3 Für bestimmte Gruppen von Betrieben oder Arbeitnehmern kann die 
 wöchentliche Höchstarbeitszeit durch Verordnung zeitweise um höchs-
 tens vier Stunden verlängert werden, sofern sie im Jahresdurchschnitt 
@@ -465,7 +465,7 @@ beit
 --- Seite 9 ---
 Arbeitsgesetz 
 9 / 32 
-822.11
+822.11 
 2. Ruhezeit 
 Art. 15 
 1 Die Arbeit ist durch Pausen von folgender Mindestdauer zu unterbre-
@@ -575,7 +575,7 @@ Zeitzuschlag
 --- Seite 11 ---
 Arbeitsgesetz 
 11 / 32 
-822.11
+822.11 
 4 Ausgleichsregelungen nach Absatz 3 Buchstabe c sind dem SECO zur 
 Beurteilung vorzulegen; dieses stellt die Gleichwertigkeit mit der ge-
 setzlichen Ausgleichsruhezeit nach Absatz 2 fest. 
@@ -688,7 +688,7 @@ und Ersatzruhe
 --- Seite 13 ---
 Arbeitsgesetz 
 13 / 32 
-822.11
+822.11 
 Art. 20a52 
 1 Der Bundesfeiertag ist den Sonntagen gleichgestellt. Die Kantone 
 können höchstens acht weitere Feiertage im Jahr den Sonntagen gleich-
@@ -715,7 +715,7 @@ Geldleistungen oder andere Vergünstigungen abgegolten werden, aus-
 ser bei Beendigung des Arbeitsverhältnisses. 
  
 3. Ununterbrochener Betrieb55 
-Art. 2356 
+Art. 2356  
   
 52 
 Eingefügt durch Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000  
@@ -792,7 +792,7 @@ sel
 --- Seite 15 ---
 Arbeitsgesetz 
 15 / 32 
-822.11
+822.11 
 Art. 26 
 1 Über die Überzeit-, Nacht- und Sonntagsarbeit sowie über die Schicht-
 arbeit und den ununterbrochenen Betrieb können zum Schutze der Ar-
@@ -903,7 +903,7 @@ Abweichungen
 --- Seite 17 ---
 Arbeitsgesetz 
 17 / 32 
-822.11
+822.11 
 IV. Sonderschutzvorschriften65 
 1. Jugendliche Arbeitnehmer 
 Art. 29 
@@ -937,7 +937,7 @@ beschäftigt werden dürfen.67
 tersjahr endigt, können durch Verordnung ermächtigt werden, für schul-
 entlassene Jugendliche im Alter von mehr als 14 Jahren unter besonde-
 ren Voraussetzungen Ausnahmen zu bewilligen. 
- 
+    
   
 65 
 Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Aug. 2000  
@@ -1011,7 +1011,7 @@ des Arbeitgebers
 --- Seite 19 ---
 Arbeitsgesetz 
 19 / 32 
-822.11
+822.11 
 Art. 33 und 3473  
 2.74 Schwangere Frauen und stillende Mütter75 
 Art. 35 
@@ -1107,7 +1107,7 @@ keit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan.  202
 --- Seite 21 ---
 Arbeitsgesetz 
 21 / 32 
-822.11
+822.11 
 4.80 Andere Gruppen von Arbeitnehmern 
 Art. 36a 
 Durch Verordnung kann die Beschäftigung anderer Gruppen von Ar-
@@ -1202,7 +1202,7 @@ Kantone
 --- Seite 23 ---
 Arbeitsgesetz 
 23 / 32 
-822.11
+822.11 
 3 Bestehen Zweifel über die Anwendbarkeit des Gesetzes auf einzelne 
 nicht-industrielle Betriebe oder einzelne Arbeitnehmer in industriellen 
 oder nicht-industriellen Betrieben, so entscheidet die kantonale Behör-
@@ -1307,7 +1307,7 @@ gabe
 --- Seite 25 ---
 Arbeitsgesetz 
 25 / 32 
-822.11
+822.11 
 Art. 44b88 
 1 Die Kantone und das SECO führen zur Erfüllung der Aufgaben nach 
 diesem Gesetz Informations- oder Dokumentationssysteme. 
@@ -1423,7 +1423,7 @@ suche
 --- Seite 27 ---
 Arbeitsgesetz 
 27 / 32 
-822.11
+822.11 
 3 Für Arbeitszeitbewilligungen dürfen lediglich mässige Kanzleigebüh-
 ren erhoben werden.95  
 4. Verwaltungsverfügungen und Verwaltungsmassnahmen 
@@ -1528,7 +1528,7 @@ len Behörde
 --- Seite 29 ---
 Arbeitsgesetz 
 29 / 32 
-822.11
+822.11 
 Art. 5899 
 Zur Beschwerde gegen Verfügungen der kantonalen Behörden und der 
 Bundesbehörden sind auch die Verbände der beteiligten Arbeitgeber 
@@ -1635,7 +1635,7 @@ Gemeinden
 --- Seite 31 ---
 Arbeitsgesetz 
 31 / 32 
-822.11
+822.11 
 darf dabei jedoch nur zu Gunsten der Arbeitnehmer abgewichen 
 werden; 
 c. 

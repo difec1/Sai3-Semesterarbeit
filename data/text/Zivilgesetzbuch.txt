@@ -21,7 +21,7 @@ Art. 2
 1 Jedermann hat in der Ausübung seiner Rechte und in der Erfüllung 
 seiner Pflichten nach Treu und Glauben zu handeln. 
 2 Der offenbare Missbrauch eines Rechtes findet keinen Rechtsschutz. 
- 
+  
 Art. 3 
 1 Wo das Gesetz eine Rechtswirkung an den guten Glauben einer Per-
 son geknüpft hat, ist dessen Dasein zu vermuten. 
@@ -42,7 +42,7 @@ BBl 1904 IV 1, 1907 VI 367
 4 
 Ausdruck gemäss Ziff. I 1 des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 2000  
 (AS 1999 1118; BBl 1996 I 1). Diese Änd. ist im ganzen Erlass berücksichtigt. 
-210 
+210  
 A. Anwendung 
 des Rechts 
 B. Inhalt der 
@@ -86,7 +86,7 @@ Art. 9
 sie bezeugten Tatsachen vollen Beweis, solange nicht die Unrichtigkeit 
 ihres Inhaltes nachgewiesen ist. 
 2 Dieser Nachweis ist an keine besondere Form gebunden. 
-Art. 107 
+Art. 107  
   
 5 
 Ausdruck gemäss Ziff. I 1 des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 2000  
@@ -119,7 +119,7 @@ Urkunde
 --- Seite 3 ---
 Schweizerisches Zivilgesetzbuch  
 3 / 388 
-210
+210 
  
 Erster Teil: Das Personenrecht 
 Erster Titel: Die natürlichen Personen 
@@ -134,10 +134,10 @@ Rechte und Pflichten zu begründen.
  
 Art. 138 
 Die Handlungsfähigkeit besitzt, wer volljährig und urteilsfähig ist. 
-  
+     
 Art. 149 
 Volljährig ist, wer das 18. Lebensjahr zurückgelegt hat. 
-Art. 1510 
+Art. 1510    
 Art. 1611 
 Urteilsfähig im Sinne dieses Gesetzes ist jede Person, der nicht wegen 
 ihres Kindesalters, infolge geistiger Behinderung, psychischer Störung, 
@@ -179,7 +179,7 @@ keit
 Art. 1712 
 Handlungsunfähig sind urteilsunfähige Personen, Minderjährige sowie 
 Personen unter umfassender Beistandschaft. 
- 
+  
 Art. 18 
 Wer nicht urteilsfähig ist, vermag unter Vorbehalt der gesetzlichen 
 Ausnahmen durch seine Handlungen keine rechtliche Wirkung herbei-
@@ -241,7 +241,7 @@ Zustimmung
 --- Seite 5 ---
 Schweizerisches Zivilgesetzbuch  
 5 / 388 
-210
+210 
 verwendet worden ist oder als sie zur Zeit der Rückforderung noch berei-
 chert ist oder sich böswillig der Bereicherung entäussert hat. 
 2 Hat die handlungsunfähige Person den andern Teil zur irrtümlichen 
@@ -361,13 +361,13 @@ Minderjähriger25
 --- Seite 7 ---
 Schweizerisches Zivilgesetzbuch  
 7 / 388 
-210
+210 
 2 Bevormundete Kinder haben ihren Wohnsitz am Sitz der Kindes-
 schutzbehörde.27 
 Art. 2628 
 Volljährige unter umfassender Beistandschaft haben ihren Wohnsitz 
 am Sitz der Erwachsenenschutzbehörde. 
- 
+   
 Art. 27 
 1 Auf die Rechts- und Handlungsfähigkeit kann niemand ganz oder zum 
 Teil verzichten. 
@@ -482,7 +482,7 @@ Nachstellungen
 --- Seite 9 ---
 Schweizerisches Zivilgesetzbuch  
 9 / 388 
-210
+210 
 4 Die Kantone bezeichnen eine Stelle, die im Krisenfall die sofortige 
 Ausweisung der verletzenden Person aus der gemeinsamen Wohnung 
 verfügen kann, und regeln das Verfahren. 
@@ -505,7 +505,7 @@ nach Abschluss der Massnahme gelöscht werden.
 4 Der klagenden Person dürfen aus dem Vollzug der Massnahme keine 
 Kosten entstehen. Die Kosten der Massnahme können der überwachten 
 Person auferlegt werden. 
-Art. 28d–28f 36   
+Art. 28d–28f 36      
   
 35 
 Eingefügt durch Ziff. I des BG vom 16. Dez. 1983, in Kraft seit 1. Juli 1985  
@@ -583,7 +583,7 @@ chung
 --- Seite 11 ---
 Schweizerisches Zivilgesetzbuch  
 11 / 388 
-210
+210 
 Art. 28l42 
 1 Verhindert das Medienunternehmen die Ausübung des Gegendarstel-
 lungsrechts, verweigert es die Gegendarstellung oder veröffentlicht es 
@@ -702,7 +702,7 @@ nen
 --- Seite 13 ---
 Schweizerisches Zivilgesetzbuch  
 13 / 388 
-210
+210 
 Art. 34 
 Der Tod einer Person kann, auch wenn niemand die Leiche gesehen hat, 
 als erwiesen betrachtet werden, sobald die Person unter Umständen ver-
@@ -815,7 +815,7 @@ Angaben
 --- Seite 15 ---
 Schweizerisches Zivilgesetzbuch  
 15 / 388 
-210
+210 
 2 Die Zivilstandsbeamtin oder der Zivilstandsbeamte ermahnt die erklä-
 rende Person zur Wahrheit und weist sie auf die Straffolgen einer fal-
 schen Erklärung hin. 
@@ -937,7 +937,7 @@ SR 235.2
 --- Seite 17 ---
 Schweizerisches Zivilgesetzbuch  
 17 / 388 
-210
+210 
 5 Auf Daten, die für die Abklärung des Bestehens von Kindesverhält-
 nissen notwendig sind, hat die für die Führung des Informationssystems 
 nach Artikel 21a des Erwerbsersatzgesetzes vom 25. September 195272 
@@ -1057,7 +1057,7 @@ II. Haftung
 --- Seite 19 ---
 Schweizerisches Zivilgesetzbuch  
 19 / 388 
-210
+210 
 Art. 47 
 1 Vorsätzliche oder fahrlässige Amtspflichtverletzungen der auf den 
 Zivilstandsämtern tätigen Personen werden von der kantonalen Auf-
@@ -1167,7 +1167,7 @@ II. Betätigung
 --- Seite 21 ---
 Schweizerisches Zivilgesetzbuch  
 21 / 388 
-210
+210 
 2 Sie verpflichten die juristische Person sowohl durch den Abschluss 
 von Rechtsgeschäften als durch ihr sonstiges Verhalten. 
 3 Für ihr Verschulden sind die handelnden Personen ausserdem persön-
@@ -1284,7 +1284,7 @@ register85
 --- Seite 23 ---
 Schweizerisches Zivilgesetzbuch  
 23 / 388 
-210
+210 
 Art. 61a91 
 1 Vereine, die zur Eintragung in das Handelsregister verpflichtet sind, 
 führen ein Verzeichnis, in das die Mitglieder mit Vor- und Nachnamen 
@@ -1392,7 +1392,7 @@ gemeinen92
 --- Seite 25 ---
 Schweizerisches Zivilgesetzbuch  
 25 / 388 
-210
+210 
 Art. 69a94 
 Der Vorstand führt die Geschäftsbücher des Vereins. Die Vorschriften 
 des Obligationenrechts95 über die kaufmännische Buchführung und 
@@ -1512,7 +1512,7 @@ Mitglieder
 --- Seite 27 ---
 Schweizerisches Zivilgesetzbuch  
 27 / 388 
-210
+210 
 2 Für die Beiträge haften sie nach Massgabe der Zeit ihrer Mitglied-
 schaft. 
 Art. 74 
@@ -1528,7 +1528,7 @@ Für die Verbindlichkeiten des Vereins haftet das Vereinsvermögen. Es
 haftet ausschliesslich, sofern die Statuten nichts anderes bestimmen. 
 Art. 76 
 Die Auflösung des Vereins kann jederzeit durch Vereinsbeschluss her-
-beigeführt werden.   
+beigeführt werden.      
 Art. 77 
 Die Auflösung erfolgt von Gesetzes wegen, wenn der Verein zahlungs-
 unfähig ist, sowie wenn der Vorstand nicht mehr statutengemäss be-
@@ -1612,7 +1612,7 @@ II. Buchführung
 --- Seite 29 ---
 Schweizerisches Zivilgesetzbuch  
 29 / 388 
-210
+210 
 Art. 83b109 
 1 Das oberste Stiftungsorgan bezeichnet eine Revisionsstelle. 
 2 Die Aufsichtsbehörde kann eine Stiftung von der Pflicht befreien, eine 
@@ -1720,7 +1720,7 @@ fähigkeit und
 --- Seite 31 ---
 Schweizerisches Zivilgesetzbuch  
 31 / 388 
-210
+210 
 Art. 84b117 
 Das oberste Stiftungsorgan muss der Aufsichtsbehörde jährlich den Ge-
 samtbetrag der ihm und der allfälligen Geschäftsleitung direkt oder in-
@@ -1842,7 +1842,7 @@ V. Form der
 --- Seite 33 ---
 Schweizerisches Zivilgesetzbuch  
 33 / 388 
-210
+210 
 Art. 87 
 1 Die Familienstiftungen und die kirchlichen Stiftungen sind unter 
 Vorbehalt des öffentlichen Rechtes der Aufsichtsbehörde nicht unter-
@@ -1960,7 +1960,7 @@ vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017
 --- Seite 35 ---
 Schweizerisches Zivilgesetzbuch  
 35 / 388 
-210
+210 
 3b.148 die provisorische Weiterversicherung und Aufrechterhaltung 
 des Leistungsanspruchs bei Herabsetzung oder Aufhebung der 
 Rente der Invalidenversicherung (Art. 26a); 
@@ -2065,7 +2065,7 @@ Ausnahme von Art. 66 Abs. 4), 15, 17–20 und 23 in Kraft seit 1. April 2004, Zi
 --- Seite 37 ---
 Schweizerisches Zivilgesetzbuch  
 37 / 388 
-210
+210 
 5. 
 die Integrität und Loyalität der Verantwortlichen, die Rechtsge-
 schäfte mit Nahestehenden und die Interessenkonflikte 
@@ -2163,7 +2163,7 @@ I. Geschenke
 --- Seite 39 ---
 Schweizerisches Zivilgesetzbuch  
 39 / 388 
-210
+210 
 des Verlöbnisses zurückfordern, es sei denn, das Verlöbnis sei durch 
 Tod aufgelöst worden. 
 2 Sind die Geschenke nicht mehr vorhanden, so richtet sich die Rücker-
@@ -2265,7 +2265,7 @@ I. Gesuch
 --- Seite 41 ---
 Schweizerisches Zivilgesetzbuch  
 41 / 388 
-210
+210 
 3 Sie haben ihre Personalien mittels Dokumenten zu belegen und beim 
 Zivilstandsamt persönlich zu erklären, dass sie die Ehevoraussetzungen 
 erfüllen; sie legen die nötigen Zustimmungen vor. 
@@ -2371,7 +2371,7 @@ Gründe183
 --- Seite 43 ---
 Schweizerisches Zivilgesetzbuch  
 43 / 388 
-210
+210 
 2. 
 zur Zeit der Eheschliessung einer der Ehegatten nicht urteils-
 fähig ist und seither nicht wieder urteilsfähig geworden ist; 
@@ -2442,7 +2442,7 @@ oder die Trauung mit der betreffenden Person nicht gewollt hat;
 3. 
 die Ehe geschlossen hat, weil er über wesentliche persönliche 
 Eigenschaften des anderen absichtlich getäuscht worden ist; 
-4.197 …  
+4.197 …   
   
 191 Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigen-
 heiraten), in Kraft seit 1. Jan. 2025 (AS 2024 590; BBl 2023 2127). 
@@ -2467,7 +2467,7 @@ I. Gründe
 --- Seite 45 ---
 Schweizerisches Zivilgesetzbuch  
 45 / 388 
-210
+210 
 Art. 108 
 1 Die Ungültigkeitsklage ist innerhalb von sechs Monaten seit Kenntnis 
 des Ungültigkeitsgrundes einzureichen, in jedem Fall aber vor Ablauf 
@@ -2538,7 +2538,7 @@ Art. 114205
 Ein Ehegatte kann die Scheidung verlangen, wenn die Ehegatten bei 
 Eintritt der Rechtshängigkeit der Klage oder bei Wechsel zur Scheidung 
 auf Klage mindestens zwei Jahre getrennt gelebt haben. 
- 
+  
 Art. 115206 
 Vor Ablauf der zweijährigen Frist kann ein Ehegatte die Scheidung 
 verlangen, wenn ihm die Fortsetzung der Ehe aus schwerwiegenden 
@@ -2568,7 +2568,7 @@ barkeit
 --- Seite 47 ---
 Schweizerisches Zivilgesetzbuch  
 47 / 388 
-210
+210 
 Zweiter Abschnitt: Die Ehetrennung 
 Art. 117 
 1 Die Ehegatten können die Trennung unter den gleichen Voraussetzun-
@@ -2650,7 +2650,7 @@ Vorbezügen für Wohneigentum werden hälftig geteilt.
 Gesetz. 
 3 Die zu teilenden Austrittsleistungen berechnen sich nach den Artikeln 
 15–17 und 22a oder 22b des Freizügigkeitsgesetzes vom 17. Dezember 
-1993214.  
+1993214.   
   
 212 Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in 
 Kraft seit 1. Jan. 2017 (AS 2016 2313; BBl 2013 4887). 
@@ -2669,7 +2669,7 @@ tungen
 --- Seite 49 ---
 Schweizerisches Zivilgesetzbuch  
 49 / 388 
-210
+210 
 Art. 124215 
 1 Bezieht ein Ehegatte im Zeitpunkt der Einleitung des Scheidungsver-
 fahrens eine Invalidenrente vor dem reglementarischen Referenzalter, 
@@ -2787,7 +2787,7 @@ lichkeit
 --- Seite 51 ---
 Schweizerisches Zivilgesetzbuch  
 51 / 388 
-210
+210 
 ausländischen Vorsorgeschuldner verbindliche ausländische Entschei-
 dung geteilt werden. 
 Art. 125 
@@ -2902,7 +2902,7 @@ Vollstreckung
 --- Seite 53 ---
 Schweizerisches Zivilgesetzbuch  
 53 / 388 
-210
+210 
 Art. 131a224 
 1 Dem öffentlichen Recht bleibt vorbehalten, die Ausrichtung von Vor-
 schüssen zu regeln, wenn die verpflichtete Person ihrer Unterhalts-
@@ -2981,7 +2981,7 @@ Aufgehoben
 Fünfter Titel:231 Die Wirkungen der Ehe im Allgemeinen 
 Art. 159 
 1 Durch die Trauung werden die Ehegatten zur ehelichen Gemeinschaft 
-verbunden.  
+verbunden.   
   
 227 Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Elterliche Sorge), in Kraft seit  
 1. Juli 2014 (AS 2014 357; BBl 2011 9077). 
@@ -3005,7 +3005,7 @@ Ehegatten
 --- Seite 55 ---
 Schweizerisches Zivilgesetzbuch  
 55 / 388 
-210
+210 
 2 Sie verpflichten sich gegenseitig, das Wohl der Gemeinschaft in ein-
 trächtigem Zusammenwirken zu wahren und für die Kinder gemeinsam 
 zu sorgen. 
@@ -3110,11 +3110,11 @@ Ehegatten
 --- Seite 57 ---
 Schweizerisches Zivilgesetzbuch  
 57 / 388 
-210
+210 
 Art. 168 
 Jeder Ehegatte kann mit dem andern oder mit Dritten Rechtsgeschäfte 
 abschliessen, sofern das Gesetz nichts anderes bestimmt. 
- 
+    
 Art. 169 
 1 Ein Ehegatte kann nur mit der ausdrücklichen Zustimmung des andern 
 einen Mietvertrag kündigen, das Haus oder die Wohnung der Familie 
@@ -3133,7 +3133,7 @@ digen Urkunden vorzulegen.
 Art. 171 
 Die Kantone sorgen dafür, dass sich die Ehegatten bei Eheschwierig-
 keiten gemeinsam oder einzeln an Ehe- oder Familienberatungsstellen 
-wenden können.  
+wenden können.   
 Art. 172 
 1 Erfüllt ein Ehegatte seine Pflichten gegenüber der Familie nicht oder 
 sind die Ehegatten in einer für die eheliche Gemeinschaft wichtigen An-
@@ -3224,7 +3224,7 @@ Getrenntlebens
 --- Seite 59 ---
 Schweizerisches Zivilgesetzbuch  
 59 / 388 
-210
+210 
 2 Diese Begehren kann ein Ehegatte auch stellen, wenn das Zusammen-
 leben unmöglich ist, namentlich weil der andere es grundlos ablehnt. 
 3 Haben die Ehegatten minderjährige Kinder, so trifft das Gericht nach 
@@ -3327,7 +3327,7 @@ Vertrages
 --- Seite 61 ---
 Schweizerisches Zivilgesetzbuch  
 61 / 388 
-210
+210 
 Art. 185 
 1 Die Gütertrennung wird auf Begehren eines Ehegatten vom Gericht 
 angeordnet, wenn ein wichtiger Grund dafür vorliegt. 
@@ -3351,7 +3351,7 @@ wenn der andere Ehegatte dauernd urteilsunfähig ist.
 3 Ist ein Ehegatte dauernd urteilsunfähig, so kann sein gesetzlicher Ver-
 treter auch aus diesem Grund die Anordnung der Gütertrennung verlan-
 gen. 
-Art. 186248  
+Art. 186248    
 Art. 187 
 1 Die Ehegatten können jederzeit durch Ehevertrag wieder ihren frühe-
 ren oder einen andern Güterstand vereinbaren. 
@@ -3409,7 +3409,7 @@ gung verlangen konnten, dieser Haftung nicht entzogen werden.
 die Schulden zu bezahlen, kann sich aber von dieser Haftung so weit 
 befreien, als er nachweist, dass das empfangene Vermögen hiezu nicht 
 ausreicht. 
-Art. 194251  
+Art. 194251    
 Art. 195 
 1 Hat ein Ehegatte dem andern ausdrücklich oder stillschweigend die 
 Verwaltung seines Vermögens überlassen, so gelten die Bestimmungen 
@@ -3439,7 +3439,7 @@ durch den andern
 --- Seite 63 ---
 Schweizerisches Zivilgesetzbuch  
 63 / 388 
-210
+210 
 Art. 195a 
 1 Jeder Ehegatte kann jederzeit vom andern verlangen, dass er bei 
 der Aufnahme eines Inventars ihrer Vermögenswerte mit öffentlicher 
@@ -3453,7 +3453,7 @@ Errungenschaftsbeteiligung
 Art. 196 
 Der Güterstand der Errungenschaftsbeteiligung umfasst die Errungen-
 schaft und das Eigengut jedes Ehegatten. 
- 
+    
 Art. 197 
 1 Errungenschaft sind die Vermögenswerte, die ein Ehegatte während 
 der Dauer des Güterstandes entgeltlich erwirbt. 
@@ -3549,7 +3549,7 @@ Auflösung
 --- Seite 65 ---
 Schweizerisches Zivilgesetzbuch  
 65 / 388 
-210
+210 
 2 Bei Scheidung, Trennung, Ungültigerklärung der Ehe oder gerichtli-
 cher Anordnung der Gütertrennung wird die Auflösung des Güterstan-
 des auf den Tag zurückbezogen, an dem das Begehren eingereicht wor-
@@ -3668,7 +3668,7 @@ nen
 --- Seite 67 ---
 Schweizerisches Zivilgesetzbuch  
 67 / 388 
-210
+210 
 3 Die erbrechtlichen Bestimmungen über die Bewertung und über den 
 Anteil der Miterben am Gewinn gelten sinngemäss. 
 Art. 213 
@@ -3775,7 +3775,7 @@ Hausrat
 --- Seite 69 ---
 Schweizerisches Zivilgesetzbuch  
 69 / 388 
-210
+210 
 Art. 220 
 1 Deckt das Vermögen des verpflichteten Ehegatten oder seine Erb-
 schaft bei der güterrechtlichen Auseinandersetzung die Beteiligungs-
@@ -3790,7 +3790,7 @@ setzungsklage sinngemäss.256
 Dritter Abschnitt: Die Gütergemeinschaft 
 Art. 221 
 Der Güterstand der Gütergemeinschaft umfasst das Gesamtgut und das 
-Eigengut jedes Ehegatten.  
+Eigengut jedes Ehegatten.    
 Art. 222 
 1 Die allgemeine Gütergemeinschaft vereinigt das Vermögen und die 
 Einkünfte der Ehegatten zu einem Gesamtgut, mit Ausnahme der 
@@ -3801,7 +3801,7 @@ Art. 223
 1 Die Ehegatten können durch Ehevertrag die Gemeinschaft auf die 
 Errungenschaft beschränken. 
 2 Die Erträge des Eigengutes fallen in das Gesamtgut. 
- 
+  
 Art. 224 
 1 Die Ehegatten können durch Ehevertrag bestimmte Vermögenswerte 
 oder Arten von Vermögenswerten, wie Grundstücke, den Arbeitser-
@@ -3882,7 +3882,7 @@ Gemeinschaft
 --- Seite 71 ---
 Schweizerisches Zivilgesetzbuch  
 71 / 388 
-210
+210 
 Art. 230 
 1 Ohne Zustimmung des andern kann ein Ehegatte weder eine Erb-
 schaft, die ins Gesamtgut fallen würde, ausschlagen noch eine über-
@@ -3996,7 +3996,7 @@ teil
 --- Seite 73 ---
 Schweizerisches Zivilgesetzbuch  
 73 / 388 
-210
+210 
 Art. 240 
 Massgebend für den Wert des bei Auflösung des Güterstandes vorhan-
 denen Gesamtgutes ist der Zeitpunkt der Auseinandersetzung. 
@@ -4070,7 +4070,7 @@ Vierter Abschnitt: Die Gütertrennung
 Art. 247 
 Innerhalb der gesetzlichen Schranken verwaltet und nutzt jeder Ehe-
 gatte sein Vermögen und verfügt darüber. 
- 
+    
 Art. 248 
 1 Wer behauptet, ein bestimmter Vermögenswert sei Eigentum des 
 einen oder andern Ehegatten, muss dies beweisen. 
@@ -4103,7 +4103,7 @@ schen Ehegatten
 --- Seite 75 ---
 Schweizerisches Zivilgesetzbuch  
 75 / 388 
-210
+210 
 rigkeiten, welche die eheliche Gemeinschaft gefährden, so kann er ver-
 langen, dass ihm Fristen eingeräumt werden; die Forderung ist sicher-
 zustellen, wenn es die Umstände rechtfertigen. 
@@ -4123,8 +4123,8 @@ der Geburt.
 der Mutter begründet oder, soweit gesetzlich vorgesehen, durch Aner-
 kennung oder durch das Gericht festgestellt.262 
 3 Ausserdem entsteht das Kindesverhältnis durch Adoption. 
-Art. 253263  
-Art. 254264  
+Art. 253263    
+Art. 254264   
   
 259 Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978  
 (AS 1977 237; BBl 1974 II 1). 
@@ -4207,7 +4207,7 @@ I. Klagerecht271
 --- Seite 77 ---
 Schweizerisches Zivilgesetzbuch  
 77 / 388 
-210
+210 
 3 Der Ehemann hat keine Klage, wenn er der Zeugung durch einen Drit-
 ten zugestimmt hat. Für das Anfechtungsrecht des Kindes bleibt das 
 Fortpflanzungsmedizingesetz vom 18. Dezember 1998273 vorbehal-
@@ -4316,7 +4316,7 @@ Eltern
 --- Seite 79 ---
 Schweizerisches Zivilgesetzbuch  
 79 / 388 
-210
+210 
 Dritter Abschnitt: Anerkennung und Vaterschaftsurteil285 
 Art. 260286 
 1 Besteht das Kindesverhältnis nur zur Mutter, so kann der Vater das 
@@ -4415,7 +4415,7 @@ II. Vermutung
 --- Seite 81 ---
 Schweizerisches Zivilgesetzbuch  
 81 / 388 
-210
+210 
 Art. 263294 
 1 Die Klage kann vor oder nach der Niederkunft angebracht werden, ist 
 aber einzureichen: 
@@ -4524,7 +4524,7 @@ schied
 --- Seite 83 ---
 Schweizerisches Zivilgesetzbuch  
 83 / 388 
-210
+210 
 Art. 265302 
 1 Ist das Kind urteilsfähig, so bedarf die Adoption seiner Zustimmung. 
 2 Ist es bevormundet oder verbeiständet, so kann, auch wenn es urteils-
@@ -4637,7 +4637,7 @@ nen
 --- Seite 85 ---
 Schweizerisches Zivilgesetzbuch  
 85 / 388 
-210
+210 
 2. 
 in eingetragener Partnerschaft lebt; 
 3. 
@@ -4739,7 +4739,7 @@ des Kindes
 --- Seite 87 ---
 Schweizerisches Zivilgesetzbuch  
 87 / 388 
-210
+210 
 Art. 268ater 324 
 1 Die für das Adoptionsverfahren zuständige kantonale Behörde ordnet 
 wenn nötig die Vertretung des Kindes an und bezeichnet als Vertretung 
@@ -4856,7 +4856,7 @@ leiblichen Eltern
 --- Seite 89 ---
 Schweizerisches Zivilgesetzbuch  
 89 / 388 
-210
+210 
 sitz des Kindes zur Genehmigung zu unterbreiten. Die Kindesschutzbe-
 hörde oder eine beauftragte Drittperson hört das Kind vor dem Ent-
 scheid in geeigneter Weise persönlich an, sofern dessen Alter oder an-
@@ -4883,7 +4883,7 @@ schen behoben ist oder ausschliesslich Verfahrensvorschriften betrifft.
 Art. 269b332 
 Die Klage ist binnen sechs Monaten seit Entdeckung des Anfechtungs-
 grundes und in jedem Falle binnen zwei Jahren seit der Adoption zu 
-erheben.  
+erheben.   
   
 330 Fassung gemäss Ziff. I 1 des BG vom 30. Juni 1972, in Kraft seit 1. April 1973  
 (AS 1972 2819; BBl 1971 I 1200). 
@@ -4951,7 +4951,7 @@ teter Eltern
 --- Seite 91 ---
 Schweizerisches Zivilgesetzbuch  
 91 / 388 
-210
+210 
 Art. 270a339 
 1 Steht die elterliche Sorge einem Elternteil zu, so erhält das Kind des-
 sen Ledignamen. Steht die elterliche Sorge den Eltern gemeinsam zu, 
@@ -5053,7 +5053,7 @@ II. Dritte
 --- Seite 93 ---
 Schweizerisches Zivilgesetzbuch  
 93 / 388 
-210
+210 
 Art. 275348 
 1 Für Anordnungen über den persönlichen Verkehr ist die Kindes-
 schutzbehörde am Wohnsitz des Kindes zuständig und, sofern sie Kin-
@@ -5160,13 +5160,13 @@ Eltern
 --- Seite 95 ---
 Schweizerisches Zivilgesetzbuch  
 95 / 388 
-210
+210 
 Art. 279361 
 1 Das Kind kann gegen den Vater oder die Mutter oder gegen beide kla-
 gen auf Leistung des Unterhalts für die Zukunft und für ein Jahr vor 
 Klageerhebung. 
 2–3 …363 
-Art. 280–284364  
+Art. 280–284364    
 Art. 285365 
 1 Der Unterhaltsbeitrag soll den Bedürfnissen des Kindes sowie der Le-
 bensstellung und Leistungsfähigkeit der Eltern entsprechen; dabei sind 
@@ -5187,7 +5187,7 @@ nachträglich Sozialversicherungsrenten oder ähnliche für den Unterhalt
 des Kindes bestimmte Leistungen, die Erwerbseinkommen ersetzen, so 
 hat er diese Beträge an das Kind zu zahlen; der bisherige Unterhaltsbei-
 trag vermindert sich von Gesetzes wegen im Umfang dieser neuen Leis-
-tungen.  
+tungen.   
   
 361 Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978  
 (AS 1977 237; BBl 1974 II 1). 
@@ -5276,7 +5276,7 @@ Leistungen
 --- Seite 97 ---
 Schweizerisches Zivilgesetzbuch  
 97 / 388 
-210
+210 
 3 Wird der Vertrag in einem gerichtlichen Verfahren geschlossen, so ist 
 für die Genehmigung das Gericht zuständig. 
 Art. 287a372 
@@ -5386,7 +5386,7 @@ H. Pflegeeltern
 --- Seite 99 ---
 Schweizerisches Zivilgesetzbuch  
 99 / 388 
-210
+210 
 Art. 295382 
 1 Die Mutter kann spätestens bis ein Jahr nach der Geburt gegen den 
 Vater oder dessen Erben auf Ersatz klagen:383 
@@ -5499,7 +5499,7 @@ Eltern
 --- Seite 101 ---
 Schweizerisches Zivilgesetzbuch  
 101 / 388 
-210
+210 
 3 Vor der Abgabe der Erklärung können sich die Eltern von der Kindes-
 schutzbehörde beraten lassen. 
 4 Geben die Eltern die Erklärung zusammen mit der Anerkennung ab, 
@@ -5609,7 +5609,7 @@ eltern402
 --- Seite 103 ---
 Schweizerisches Zivilgesetzbuch  
 103 / 388 
-210
+210 
 elterlichen Sorge, soweit es zur gehörigen Erfüllung ihrer Aufgabe an-
 gezeigt ist. 
 2 Vor wichtigen Entscheidungen sollen die Pflegeeltern angehört wer-
@@ -5710,7 +5710,7 @@ Erziehung409
 --- Seite 105 ---
 Schweizerisches Zivilgesetzbuch  
 105 / 388 
-210
+210 
 Art. 304410 
 1 Die Eltern haben von Gesetzes wegen die Vertretung des Kindes 
 gegenüber Drittpersonen im Umfang der ihnen zustehenden elterlichen 
@@ -5792,7 +5792,7 @@ die Vertretung des Kindes bei der Feststellung der Vaterschaft, bei der
 Wahrung seines Unterhaltsanspruches und anderer Rechte und die 
 Überwachung des persönlichen Verkehrs.425 
 3 Die elterliche Sorge kann entsprechend beschränkt werden. 
-Art. 309426  
+Art. 309426   
   
 420 Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht 
 und Kindesrecht), in Kraft seit 1. Jan. 2013 (AS 2011 725; BBl 2006 7001). 
@@ -5817,7 +5817,7 @@ schaft424
 --- Seite 107 ---
 Schweizerisches Zivilgesetzbuch  
 107 / 388 
-210
+210 
 Art. 310427 
 1 Kann der Gefährdung des Kindes nicht anders begegnet werden, so 
 hat die Kindesschutzbehörde es den Eltern oder, wenn es sich bei Drit-
@@ -5931,7 +5931,7 @@ des Kindes
 --- Seite 109 ---
 Schweizerisches Zivilgesetzbuch  
 109 / 388 
-210
+210 
 Art. 314abis 439 
 1 Die Kindesschutzbehörde ordnet wenn nötig die Vertretung des Kin-
 des an und bezeichnet als Beistand eine in fürsorgerischen und rechtli-
@@ -6034,7 +6034,7 @@ und Amtshilfe
 --- Seite 111 ---
 Schweizerisches Zivilgesetzbuch  
 111 / 388 
-210
+210 
 Art. 315448 
 1 Die Kindesschutzmassnahmen werden von der Kindesschutzbehörde 
 am Wohnsitz des Kindes angeordnet.450 
@@ -6149,7 +6149,7 @@ A. Verwaltung
 --- Seite 113 ---
 Schweizerisches Zivilgesetzbuch  
 113 / 388 
-210
+210 
 angezeigt, so ordnet sie die Inventaraufnahme oder die periodische 
 Rechnungsstellung und Berichterstattung an.462 
 Art. 319463 
@@ -6260,7 +6260,7 @@ I. Rückerstattung
 --- Seite 115 ---
 Schweizerisches Zivilgesetzbuch  
 115 / 388 
-210
+210 
 Art. 327471 
 1 Für die Rückleistung sind die Eltern gleich einem Beauftragten ver-
 antwortlich. 
@@ -6355,7 +6355,7 @@ Findelkindern
 --- Seite 117 ---
 Schweizerisches Zivilgesetzbuch  
 117 / 388 
-210
+210 
 Linie das unterstützungspflichtige Gemeinwesen zum Ersatz der Aus-
 lagen anhalten, die sein Unterhalt ihr verursacht hat. 
  
@@ -6457,7 +6457,7 @@ stiftungen
 --- Seite 119 ---
 Schweizerisches Zivilgesetzbuch  
 119 / 388 
-210
+210 
 Art. 336 
 Ein Vermögen kann mit einer Familie dadurch verbunden werden, dass 
 Verwandte entweder eine Erbschaft ganz oder zum Teil als Gemeinde-
@@ -6566,7 +6566,7 @@ Gemeinders
 --- Seite 121 ---
 Schweizerisches Zivilgesetzbuch  
 121 / 388 
-210
+210 
 Art. 346 
 1 Die Teilung des Gemeinschaftsgutes oder die Abfindung eines aus-
 scheidenden Gemeinders findet nach der Vermögenslage statt, wie sie 
@@ -6658,7 +6658,7 @@ II. Widerruf
 --- Seite 123 ---
 Schweizerisches Zivilgesetzbuch  
 123 / 388 
-210
+210 
 Art. 363 
 1 Erfährt die Erwachsenenschutzbehörde, dass eine Person urteilsunfä-
 hig geworden ist, und ist ihr nicht bekannt, ob ein Vorsorgeauftrag vor-
@@ -6764,7 +6764,7 @@ A. Grundsatz
 --- Seite 125 ---
 Schweizerisches Zivilgesetzbuch  
 125 / 388 
-210
+210 
 3 Sie kann für den Fall, dass die bezeichnete Person für die Aufgaben 
 nicht geeignet ist, den Auftrag nicht annimmt oder ihn kündigt, Ersatz-
 verfügungen treffen. 
@@ -6873,7 +6873,7 @@ hörde
 --- Seite 127 ---
 Schweizerisches Zivilgesetzbuch  
 127 / 388 
-210
+210 
  
 Zweiter Unterabschnitt:  
 Vertretung bei medizinischen Massnahmen 
@@ -6982,7 +6982,7 @@ vertrag
 --- Seite 129 ---
 Schweizerisches Zivilgesetzbuch  
 129 / 388 
-210
+210 
 2 Bei der Festlegung der von der Einrichtung zu erbringenden Leistun-
 gen werden die Wünsche der betroffenen Person so weit wie möglich 
 berücksichtigt. 
@@ -7090,7 +7090,7 @@ mässigkeit
 --- Seite 131 ---
 Schweizerisches Zivilgesetzbuch  
 131 / 388 
-210
+210 
 2 Jede behördliche Massnahme muss erforderlich und geeignet sein. 
  
 Zweiter Abschnitt: Die Beistandschaften 
@@ -7193,7 +7193,7 @@ verwaltung
 --- Seite 133 ---
 Schweizerisches Zivilgesetzbuch  
 133 / 388 
-210
+210 
 Art. 396 
 1 Eine Mitwirkungsbeistandschaft wird errichtet, wenn bestimmte 
 Handlungen der hilfsbedürftigen Person zu deren Schutz der Zustim-
@@ -7298,7 +7298,7 @@ gung und Spesen
 --- Seite 135 ---
 Schweizerisches Zivilgesetzbuch  
 135 / 388 
-210
+210 
 2 Die Erwachsenenschutzbehörde legt die Höhe der Entschädigung fest. 
 Sie berücksichtigt dabei insbesondere den Umfang und die Komplexität 
 der dem Beistand oder der Beiständin übertragenen Aufgaben. 
@@ -7402,7 +7402,7 @@ Geschäfte
 --- Seite 137 ---
 Schweizerisches Zivilgesetzbuch  
 137 / 388 
-210
+210 
 Art. 413 
 1 Der Beistand oder die Beiständin hat bei der Erfüllung der Aufgaben 
 die gleiche Sorgfaltspflicht wie eine beauftragte Person nach den Best-
@@ -7508,7 +7508,7 @@ Zustimmung
 --- Seite 139 ---
 Schweizerisches Zivilgesetzbuch  
 139 / 388 
-210
+210 
 Siebter Unterabschnitt:  
 Einschreiten der Erwachsenenschutzbehörde 
 Art. 419 
@@ -7604,7 +7604,7 @@ Schlussrechnung
 --- Seite 141 ---
 Schweizerisches Zivilgesetzbuch  
 141 / 388 
-210
+210 
 Dritter Abschnitt: Die fürsorgerische Unterbringung 
 Art. 426 
 1 Eine Person, die an einer psychischen Störung oder an geistiger 
@@ -7720,7 +7720,7 @@ plan
 --- Seite 143 ---
 Schweizerisches Zivilgesetzbuch  
 143 / 388 
-210
+210 
 2 Die Ärztin oder der Arzt informiert die betroffene Person und deren 
 Vertrauensperson über alle Umstände, die im Hinblick auf die in Aus-
 sicht genommenen medizinischen Massnahmen wesentlich sind, insbe-
@@ -7823,7 +7823,7 @@ schutzbehörde
 --- Seite 145 ---
 Schweizerisches Zivilgesetzbuch  
 145 / 388 
-210
+210 
 Art. 441 
 1 Die Kantone bestimmen die Aufsichtsbehörden. 
 2 Der Bundesrat kann Bestimmungen über die Aufsicht erlassen. 
@@ -7920,7 +7920,7 @@ E. Anhörung
 --- Seite 147 ---
 Schweizerisches Zivilgesetzbuch  
 147 / 388 
-210
+210 
 Art. 448 
 1 Die am Verfahren beteiligten Personen und Dritte sind zur Mitwir-
 kung bei der Abklärung des Sachverhalts verpflichtet. Die Erwachse-
@@ -8036,7 +8036,7 @@ pflicht
 --- Seite 149 ---
 Schweizerisches Zivilgesetzbuch  
 149 / 388 
-210
+210 
 2 Bei einem Wechsel der zuständigen Erwachsenenschutzbehörde ist die 
 neu zuständige Behörde für die betreffenden Mitteilungen zuständig. 
  
@@ -8135,7 +8135,7 @@ gung
 --- Seite 151 ---
 Schweizerisches Zivilgesetzbuch  
 151 / 388 
-210
+210 
 2 Hat die Erwachsenenschutzbehörde oder die gerichtliche Beschwer-
 deinstanz im Entscheid bereits Vollstreckungsmassnahmen angeordnet, 
 so kann dieser direkt vollstreckt werden. 
@@ -8236,7 +8236,7 @@ Auftragsrecht
 --- Seite 153 ---
 Schweizerisches Zivilgesetzbuch  
 153 / 388 
-210
+210 
 einer urteilsunfähigen Person oder des Vertreters oder der Vertreterin 
 bei medizinischen Massnahmen, soweit es sich nicht um den Beistand 
 oder die Beiständin handelt, richtet sich nach den Bestimmungen des 
@@ -8274,7 +8274,7 @@ ben der gleichen Seite.
 504 SR 220 
 505 Fassung dieses Wortes gemäss Ziff. I 3 des BG vom 30. Juni 1972, in Kraft seit  
 1. April 1973 (AS 1972 2819; BBl 1971 I 1200). 
-A. Verwandte505 
+A. Verwandte505  
 Erben 
 I. Nachkommen 
 II. Elterlicher 
@@ -8305,7 +8305,7 @@ drei Viertel der Erbschaft;
 wenn auch keine Erben des elterlichen Stammes vorhanden 
 sind, die ganze Erbschaft. 
 Art. 463–464509 
-Art. 465510  
+Art. 465510    
 Art. 466511 
 Hinterlässt der Erblasser keine Erben, so fällt die Erbschaft an den Kan-
 ton, in dem der Erblasser den letzten Wohnsitz gehabt hat, oder an die 
@@ -8338,7 +8338,7 @@ D. Gemeinwesen
 --- Seite 155 ---
 Schweizerisches Zivilgesetzbuch  
 155 / 388 
-210
+210 
 Vierzehnter Titel: Die Verfügungen von Todes wegen 
 Erster Abschnitt: Die Verfügungsfähigkeit 
 Art. 467 
@@ -8441,7 +8441,7 @@ sung
 --- Seite 157 ---
 Schweizerisches Zivilgesetzbuch  
 157 / 388 
-210
+210 
 Art. 474 
 1 Der verfügbare Teil berechnet sich nach dem Stande des Vermögens 
 zur Zeit des Todes des Erblassers. 
@@ -8545,7 +8545,7 @@ Bedingungen
 --- Seite 159 ---
 Schweizerisches Zivilgesetzbuch  
 159 / 388 
-210
+210 
 2 Unsittliche oder rechtswidrige Auflagen und Bedingungen machen 
 die Verfügung ungültig. 
 3 Sind sie lediglich für andere Personen lästig oder sind sie unsinnig, so 
@@ -8643,7 +8643,7 @@ mittel
 --- Seite 161 ---
 Schweizerisches Zivilgesetzbuch  
 161 / 388 
-210
+210 
 3 Vermag der Vorerbe diese Sicherstellung nicht zu leisten, oder gefähr-
 det er die Anwartschaft des Nacherben, so ist die Erbschaftsverwaltung 
 anzuordnen. 
@@ -8729,7 +8729,7 @@ Vierter Abschnitt: Die Verfügungsformen
 Art. 498 
 Der Erblasser kann eine letztwillige Verfügung entweder mit öffentli-
 cher Beurkundung oder eigenhändig oder durch mündliche Erklärung 
-errichten. 
+errichten.   
   
 521 Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 
 (AS 2021 312; BBl 2018 5813). 
@@ -8748,7 +8748,7 @@ nen
 --- Seite 163 ---
 Schweizerisches Zivilgesetzbuch  
 163 / 388 
-210
+210 
 Art. 499 
 Die öffentliche letztwillige Verfügung erfolgt unter Mitwirkung von 
 zwei Zeugen vor dem Beamten, Notar oder einer anderen Urkundsper-
@@ -8853,7 +8853,7 @@ a. Verfügung
 --- Seite 165 ---
 Schweizerisches Zivilgesetzbuch  
 165 / 388 
-210
+210 
 Art. 507 
 1 Die mündliche Verfügung ist sofort von einem der Zeugen unter 
 Angabe von Ort, Jahr, Monat und Tag der Errichtung in Schrift zu ver-
@@ -8955,7 +8955,7 @@ beschränkung
 --- Seite 167 ---
 Schweizerisches Zivilgesetzbuch  
 167 / 388 
-210
+210 
 Fünfter Abschnitt: Die Willensvollstrecker 
 Art. 517 
 1 Der Erblasser kann in einer letztwilligen Verfügung eine oder mehrere 
@@ -9071,7 +9071,7 @@ nen
 --- Seite 169 ---
 Schweizerisches Zivilgesetzbuch  
 169 / 388 
-210
+210 
 2. 
 der Zuwendungen von Todes wegen;  
 3. 
@@ -9181,7 +9181,7 @@ sung und Renten
 --- Seite 171 ---
 Schweizerisches Zivilgesetzbuch  
 171 / 388 
-210
+210 
 Art. 531531 
 Eine Nacherbeneinsetzung ist gegenüber einem pflichtteilsberechtigten 
 Erben im Umfang des Pflichtteils ungültig; vorbehalten bleibt die 
@@ -9279,7 +9279,7 @@ des Erblassers
 --- Seite 173 ---
 Schweizerisches Zivilgesetzbuch  
 173 / 388 
-210
+210 
 Art. 538 
 1 Die Eröffnung des Erbganges erfolgt für die Gesamtheit des Vermö-
 gens am letzten Wohnsitze des Erblassers. 
@@ -9397,7 +9397,7 @@ stellung
 --- Seite 175 ---
 Schweizerisches Zivilgesetzbuch  
 175 / 388 
-210
+210 
 3 Die fünf Jahre werden vom Zeitpunkte der Auslieferung der Erbschaft 
 und die 15 Jahre von der letzten Nachricht an gerechnet. 
 Art. 547 
@@ -9501,7 +9501,7 @@ C. Inventar
 --- Seite 177 ---
 Schweizerisches Zivilgesetzbuch  
 177 / 388 
-210
+210 
 Art. 554 
 1 Die Erbschaftsverwaltung wird angeordnet: 
 1. 
@@ -9604,8 +9604,8 @@ I. Erben
 --- Seite 179 ---
 Schweizerisches Zivilgesetzbuch  
 179 / 388 
-210
-Art. 561541  
+210 
+Art. 561541    
 Art. 562 
 1 Die Vermächtnisnehmer haben gegen die Beschwerten oder, wenn 
 solche nicht besonders genannt sind, gegen die gesetzlichen oder ein-
@@ -9711,7 +9711,7 @@ gungsbefugnis
 --- Seite 181 ---
 Schweizerisches Zivilgesetzbuch  
 181 / 388 
-210
+210 
 2 Hat ein Erbe sich vor Ablauf der Frist in die Angelegenheiten der Erb-
 schaft eingemischt oder Handlungen vorgenommen, die nicht durch die 
 blosse Verwaltung der Erbschaft und durch den Fortgang der Geschäfte 
@@ -9817,7 +9817,7 @@ setzung
 --- Seite 183 ---
 Schweizerisches Zivilgesetzbuch  
 183 / 388 
-210
+210 
 Art. 581 
 1 Das öffentliche Inventar wird durch die zuständige Behörde nach den 
 Vorschriften des kantonalen Rechtes errichtet und besteht in der Anle-
@@ -9926,7 +9926,7 @@ ausser Inventar
 --- Seite 185 ---
 Schweizerisches Zivilgesetzbuch  
 185 / 388 
-210
+210 
 Verzeichnis nicht aufgenommen worden, so haftet der Erbe, soweit er 
 aus der Erbschaft bereichert ist. 
 3 In allen Fällen können die Gläubiger ihre Forderungen geltend ma-
@@ -10009,8 +10009,7 @@ Art. 598
 1 Wer auf eine Erbschaft oder auf Erbschaftssachen als gesetzlicher 
 oder eingesetzter Erbe ein besseres Recht zu haben glaubt als der Be-
 sitzer, ist befugt, sein Recht mit der Erbschaftsklage geltend zu machen. 
-2 …543 
- 
+2 …543   
   
 543 Aufgehoben durch Anhang 1 Ziff. II 3 der Zivilprozessordnung vom 19. Dez. 2008, mit 
 Wirkung seit 1. Jan. 2011 (AS 2010 1739; BBl 2006 7221). 
@@ -10026,7 +10025,7 @@ zung
 --- Seite 187 ---
 Schweizerisches Zivilgesetzbuch  
 187 / 388 
-210
+210 
 Art. 599 
 1 Wird die Klage gutgeheissen, so hat der Besitzer die Erbschaft oder 
 die Erbschaftssachen nach den Besitzesregeln an den Kläger herauszu-
@@ -10126,7 +10125,7 @@ nen
 --- Seite 189 ---
 Schweizerisches Zivilgesetzbuch  
 189 / 388 
-210
+210 
 Art. 608 
 1 Der Erblasser ist befugt, durch Verfügung von Todes wegen seinen 
 Erben Vorschriften über die Teilung und Bildung der Teile zu machen. 
@@ -10237,7 +10236,7 @@ ten
 --- Seite 191 ---
 Schweizerisches Zivilgesetzbuch  
 191 / 388 
-210
+210 
 Art. 613a547 
 Stirbt der Pächter eines landwirtschaftlichen Gewerbes und führt einer 
 seiner Erben die Pacht allein weiter, so kann dieser verlangen, dass ihm 
@@ -10254,12 +10253,11 @@ Art. 616548
 Art. 617549 
 Grundstücke sind den Erben zum Verkehrswert anzurechnen, der ihnen 
 im Zeitpunkt der Teilung zukommt. 
- 
+   
 Art. 618 
 1 Können sich die Erben über den Anrechnungswert nicht verständigen, 
 so wird er durch amtlich bestellte Sachverständige geschätzt.550 
-2 …551 
- 
+2 …551   
   
 547 Eingefügt durch Art. 92 Ziff. 1 des BG vom 4. Okt. 1991 über das bäuerliche Bodenrecht, 
 in Kraft seit 1. Jan. 1994 (AS 1993 1410; BBl 1988 III 953). 
@@ -10342,7 +10340,7 @@ oder Anrechnung
 --- Seite 193 ---
 Schweizerisches Zivilgesetzbuch  
 193 / 388 
-210
+210 
 Art. 629 
 1 Übersteigen die Zuwendungen den Betrag eines Erbanteiles, so ist der 
 Überschuss unter Vorbehalt des Herabsetzungsanspruches der Miter-
@@ -10452,7 +10450,7 @@ Haftung
 --- Seite 195 ---
 Schweizerisches Zivilgesetzbuch  
 195 / 388 
-210
+210 
 2 Die solidare Haftung der Miterben verjährt mit Ablauf von fünf Jahren 
 nach der Teilung oder nach dem Zeitpunkt, auf den die Forderung spä-
 ter fällig geworden ist. 
@@ -10552,7 +10550,7 @@ Miteigentümer
 --- Seite 197 ---
 Schweizerisches Zivilgesetzbuch  
 197 / 388 
-210
+210 
 Art. 647560 
 1 Die Miteigentümer können eine von den gesetzlichen Bestimmungen 
 abweichende Nutzungs- und Verwaltungsordnung vereinbaren und 
@@ -10653,7 +10651,7 @@ b. Nützliche
 --- Seite 199 ---
 Schweizerisches Zivilgesetzbuch  
 199 / 388 
-210
+210 
 Art. 647e567 
 1 Bauarbeiten, die lediglich der Verschönerung, der Ansehnlichkeit der 
 Sache oder der Bequemlichkeit im Gebrauch dienen, dürfen nur mit 
@@ -10761,7 +10759,7 @@ Berechtigte
 --- Seite 201 ---
 Schweizerisches Zivilgesetzbuch  
 201 / 388 
-210
+210 
 Art. 650575 
 1 Jeder Miteigentümer hat das Recht, die Aufhebung des Miteigentums 
 zu verlangen, wenn sie nicht durch ein Rechtsgeschäft, durch Auftei-
@@ -10869,7 +10867,7 @@ stücke581
 --- Seite 203 ---
 Schweizerisches Zivilgesetzbuch  
 203 / 388 
-210
+210 
 2 Grundstücke im Sinne dieses Gesetzes sind: 
 1. 
 die Liegenschaften; 
@@ -10977,7 +10975,7 @@ b. dauernde
 --- Seite 205 ---
 Schweizerisches Zivilgesetzbuch  
 205 / 388 
-210
+210 
 Art. 660b586 
 1 Wird eine Grenze wegen einer Bodenverschiebung unzweckmässig, 
 so kann jeder betroffene Grundeigentümer verlangen, dass sie neu fest-
@@ -11084,7 +11082,7 @@ tümer
 --- Seite 207 ---
 Schweizerisches Zivilgesetzbuch  
 207 / 388 
-210
+210 
 Art. 666b589 
 Verfügt eine im Grundbuch als Eigentümerin eingetragene juristische 
 Person oder andere Rechtsträgerin nicht mehr über die vorgeschriebe-
@@ -11196,7 +11194,7 @@ Bauten
 --- Seite 209 ---
 Schweizerisches Zivilgesetzbuch  
 209 / 388 
-210
+210 
 Art. 675 
 1 Bauwerke und andere Vorrichtungen, die auf fremdem Boden einge-
 graben, aufgemauert oder sonstwie dauernd auf oder unter der Boden-
@@ -11304,7 +11302,7 @@ nen
 --- Seite 211 ---
 Schweizerisches Zivilgesetzbuch  
 211 / 388 
-210
+210 
 Art. 681598 
 1 Gesetzliche Vorkaufsrechte können auch bei der Zwangsversteige-
 rung ausgeübt werden, aber nur an der Steigerung selbst und zu den 
@@ -11420,7 +11418,7 @@ Einwirkungen608
 --- Seite 213 ---
 Schweizerisches Zivilgesetzbuch  
 213 / 388 
-210
+210 
 Lärm, Schall, Erschütterung, Strahlung oder durch den Entzug von Be-
 sonnung oder Tageslicht.609 
 Art. 685 
@@ -11526,7 +11524,7 @@ Verhältnisse
 --- Seite 215 ---
 Schweizerisches Zivilgesetzbuch  
 215 / 388 
-210
+210 
 2 Die Kosten der Verlegung hat in der Regel der Berechtigte zu tragen. 
 3 Wo besondere Umstände es rechtfertigen, kann jedoch ein angemes-
 sener Teil der Kosten dem Belasteten auferlegt werden. 
@@ -11608,12 +11606,12 @@ Zerstückelung der Güter, die Zusammenlegung von ländlichen Fluren
 und von Baugebiet, die Erhaltung von Altertümern und Naturdenkmä-
 lern, die Sicherung der Landschaften und Aussichtspunkte vor Verun-
 staltung und den Schutz von Heilquellen. 
-  
+     
 IV. Recht auf 
 Zutritt und 
 Abwehr 
 1. Zutritt 
-2. Wegschaffung 
+2. Wegschaffung  
 zugeführter 
 Sachen u. dgl. 
 3. Abwehr von 
@@ -11628,7 +11626,7 @@ nen
 --- Seite 217 ---
 Schweizerisches Zivilgesetzbuch  
 217 / 388 
-210
+210 
 Art. 703612 
 1 Können Bodenverbesserungen, wie Gewässerkorrektionen, Entwäs-
 serungen, Bewässerungen, Aufforstungen, Weganlagen, Güterzusam-
@@ -11737,7 +11735,7 @@ VI. Notbrunnen
 --- Seite 219 ---
 Schweizerisches Zivilgesetzbuch  
 219 / 388 
-210
+210 
 3 Ändern sich die Verhältnisse, so kann eine Abänderung der getroffe-
 nen Ordnung verlangt werden. 
 Art. 711 
@@ -11843,7 +11841,7 @@ akt
 --- Seite 221 ---
 Schweizerisches Zivilgesetzbuch  
 221 / 388 
-210
+210 
 3 Das Rechtsgeschäft bedarf zu seiner Gültigkeit der öffentlichen Beur-
 kundung oder, wenn es eine Verfügung von Todes wegen oder ein 
 Erbteilungsvertrag ist, der im Erbrecht vorgeschriebenen Form. 
@@ -11955,7 +11953,7 @@ Verteilung
 --- Seite 223 ---
 Schweizerisches Zivilgesetzbuch  
 223 / 388 
-210
+210 
 Art. 712i 
 1 Die Gemeinschaft hat für die auf die letzten drei Jahre entfallenden 
 Beitragsforderungen Anspruch gegenüber jedem jeweiligen Stockwer-
@@ -12069,7 +12067,7 @@ higkeit
 --- Seite 225 ---
 Schweizerisches Zivilgesetzbuch  
 225 / 388 
-210
+210 
 Art. 712q 
 1 Kommt die Bestellung des Verwalters durch die Versammlung der 
 Stockwerkeigentümer nicht zustande, so kann jeder Stockwerkeigentü-
@@ -12156,7 +12154,7 @@ Gegenstände, die mit Eigentumsvorbehalt übertragen worden sind,
 kann der Eigentümer nur unter der Bedingung zurückverlangen, dass er 
 die vom Erwerber geleisteten Abzahlungen unter Abzug eines ange-
 messenen Mietzinses und einer Entschädigung für Abnützung zurück-
-erstattet.   
+erstattet.         
 A. Gegenstand 
 B. Erwerbsarten 
 I. Übertragung 
@@ -12172,7 +12170,7 @@ lungsgeschäften
 --- Seite 227 ---
 Schweizerisches Zivilgesetzbuch  
 227 / 388 
-210
+210 
 Art. 717 
 1 Bleibt die Sache infolge eines besondern Rechtsverhältnisses beim 
 Veräusserer, so ist der Eigentumsübergang Dritten gegenüber unwirk-
@@ -12280,7 +12278,7 @@ gabe
 --- Seite 229 ---
 Schweizerisches Zivilgesetzbuch  
 229 / 388 
-210
+210 
 3 Der Finder hat Anspruch auf eine angemessene Vergütung, die jedoch 
 die Hälfte des Wertes des Schatzes nicht übersteigen darf. 
 Art. 724 
@@ -12377,7 +12375,7 @@ C. Verlust
 --- Seite 231 ---
 Schweizerisches Zivilgesetzbuch  
 231 / 388 
-210
+210 
 Zweite Abteilung: Die beschränkten dinglichen Rechte 
 Einundzwanzigster Titel:  
 Die Dienstbarkeiten und Grundlasten 
@@ -12480,7 +12478,7 @@ tem Bedürfnis
 --- Seite 233 ---
 Schweizerisches Zivilgesetzbuch  
 233 / 388 
-210
+210 
 Art. 740 
 Der Inhalt der Wegrechte, wie Fussweg, gebahnter Weg, Fahrweg, 
 Zelgweg, Winterweg, Holzweg, ferner der Weiderechte, Holzungs-
@@ -12562,7 +12560,7 @@ Forderungen die Übertragung auf den Erwerber und bei Grundstücken
 die Eintragung in das Grundbuch erforderlich. 
 2 Für den Erwerb bei beweglichen Sachen und bei Grundstücken sowie 
 für die Eintragung gelten, soweit es nicht anders geordnet ist, die Best-
-immungen über das Eigentum.  
+immungen über das Eigentum.   
   
 637 Fassung gemäss Ziff. I 1 des BG vom 11. Dez. 2009 (Register-Schuldbrief und weitere 
 Änderungen im Sachenrecht), in Kraft seit 1. Jan. 2012 (AS 2011 4637; BBl 2007 5283). 
@@ -12582,8 +12580,8 @@ nen
 --- Seite 235 ---
 Schweizerisches Zivilgesetzbuch  
 235 / 388 
-210
-Art. 747640  
+210 
+Art. 747640    
 Art. 748 
 1 Die Nutzniessung geht unter mit dem vollständigen Untergang ihres 
 Gegenstandes und überdies bei Grundstücken mit der Löschung des 
@@ -12688,7 +12686,7 @@ barkeit
 --- Seite 237 ---
 Schweizerisches Zivilgesetzbuch  
 237 / 388 
-210
+210 
 Art. 759 
 Der Eigentümer kann gegen jeden widerrechtlichen oder der Sache 
 nicht angemessenen Gebrauch Einspruch erheben. 
@@ -12798,7 +12796,7 @@ che Bestimmung
 --- Seite 239 ---
 Schweizerisches Zivilgesetzbuch  
 239 / 388 
-210
+210 
 3 Die Neuanlage von Steinbrüchen, Mergelgruben, Torfgräbereien 
 u. dgl. ist ihm nur nach vorgängiger Anzeige an den Eigentümer und 
 unter der Voraussetzung gestattet, dass die wirtschaftliche Bestimmung 
@@ -12899,7 +12897,7 @@ berechtigten
 --- Seite 241 ---
 Schweizerisches Zivilgesetzbuch  
 241 / 388 
-210
+210 
 Art. 778 
 1 Steht dem Berechtigten ein ausschliessliches Wohnrecht zu, so trägt 
 er die Lasten des gewöhnlichen Unterhaltes. 
@@ -13012,7 +13010,7 @@ Heimfallsrechtes
 --- Seite 243 ---
 Schweizerisches Zivilgesetzbuch  
 243 / 388 
-210
+210 
 2 Die Übertragung des Baurechtes auf den Grundeigentümer erfolgt 
 erst, wenn die Entschädigung bezahlt oder sichergestellt ist. 
 Art. 779h651 
@@ -13040,7 +13038,7 @@ begründet werden.
 2 Es kann jederzeit in der für die Begründung vorgeschriebenen Form 
 auf eine neue Dauer von höchstens 100 Jahren verlängert werden, doch 
 ist eine zum voraus eingegangene Verpflichtung hiezu nicht verbind-
-lich.  
+lich.    
   
 651 Eingefügt durch Ziff. I des BG vom 19. März 1965, in Kraft seit 1. Juli 1965  
 (AS 1965 445; BBl 1963 I 969). 
@@ -13112,7 +13110,7 @@ A. Gegenstand
 --- Seite 245 ---
 Schweizerisches Zivilgesetzbuch  
 245 / 388 
-210
+210 
 wirtschaftlichen Bedürfnisse eines berechtigten Grundstücks bestimmt 
 ist.656 
 Art. 783 
@@ -13135,7 +13133,7 @@ Art. 786
 dem vollständigen Untergang des belasteten Grundstückes. 
 2 Aus Verzicht oder Ablösung oder aus andern Untergangsgründen 
 erhält der Belastete gegenüber dem Berechtigten einen Anspruch auf 
-Löschung des Eintrages.     
+Löschung des Eintrages.                 
   
 656 Fassung gemäss Ziff. I 1 des BG vom 11. Dez. 2009 (Register-Schuldbrief und weitere 
 Änderungen im Sachenrecht), in Kraft seit 1. Jan. 2012 (AS 2011 4637; BBl 2007 5283). 
@@ -13213,7 +13211,7 @@ betrag
 --- Seite 247 ---
 Schweizerisches Zivilgesetzbuch  
 247 / 388 
-210
+210 
 Art. 791 
 1 Der Gläubiger der Grundlast hat keine persönliche Forderung gegen 
 den Schuldner, sondern nur ein Recht auf Befriedigung aus dem Werte 
@@ -13321,7 +13319,7 @@ I. Errichtung
 --- Seite 249 ---
 Schweizerisches Zivilgesetzbuch  
 249 / 388 
-210
+210 
 Art. 800 
 1 Steht ein Grundstück in Miteigentum, so kann jeder Eigentümer sei-
 nen Anteil verpfänden. 
@@ -13369,7 +13367,7 @@ Pfandrechte
 2. Kündigung 
 durch den 
 Schuldner 
-3. Entschädigung 
+3. Entschädigung  
 in Geld 
 C. Wirkung 
 I. Umfang der 
@@ -13431,7 +13429,7 @@ und Selbsthilfe
 --- Seite 251 ---
 Schweizerisches Zivilgesetzbuch  
 251 / 388 
-210
+210 
 Grundbuch eingetragen, so kann es Dritten, die sich in gutem Glauben 
 auf das Grundbuch verlassen, nicht entgegengehalten werden.668 
 Art. 809 
@@ -13538,7 +13536,7 @@ Befriedigung
 --- Seite 253 ---
 Schweizerisches Zivilgesetzbuch  
 253 / 388 
-210
+210 
 3 Sind mehrere Grundstücke für die gleiche Forderung verpfändet, so 
 ist die Betreibung auf Pfandverwertung gleichzeitig gegen alle zu rich-
 ten, die Verwertung aber nach Anordnung des Betreibungsamtes nur 
@@ -13646,7 +13644,7 @@ Gestalt
 --- Seite 255 ---
 Schweizerisches Zivilgesetzbuch  
 255 / 388 
-210
+210 
 Art. 825 
 1 Die Grundpfandverschreibung wird auch bei Forderungen mit unbe-
 stimmtem oder wechselndem Betrage auf eine bestimmte Pfandstelle 
@@ -13755,7 +13753,7 @@ nahme
 --- Seite 257 ---
 Schweizerisches Zivilgesetzbuch  
 257 / 388 
-210
+210 
 2 Die Jahresfrist für die Erklärung des Gläubigers läuft von dieser Mit-
 teilung an. 
 Art. 835 
@@ -13864,7 +13862,7 @@ a. Eintragung
 --- Seite 259 ---
 Schweizerisches Zivilgesetzbuch  
 259 / 388 
-210
+210 
 Art. 840 
 Gelangen mehrere gesetzliche Pfandrechte der Handwerker und Unter-
 nehmer zur Eintragung, so haben sie, auch wenn sie von verschiedenem 
@@ -13971,7 +13969,7 @@ des Schuldners
 --- Seite 261 ---
 Schweizerisches Zivilgesetzbuch  
 261 / 388 
-210
+210 
 Art. 850 
 1 Bei der Errichtung eines Schuldbriefs kann einer Person eine Voll-
 macht erteilt werden. Diese Person hat die Zahlungen zu leisten und zu 
@@ -14008,7 +14006,7 @@ der Übertragung des Register-Schuldbriefs auf den Namen des
 Schuldners zustimmt; oder 
 2. 
 den Pfandtitel des Papier-Schuldbriefs unentkräftet herausgibt. 
- 
+    
 VIII. Bevoll-
 mächtigte Person 
 IX. Zahlungsort 
@@ -14071,7 +14069,7 @@ II. Übertragung
 --- Seite 263 ---
 Schweizerisches Zivilgesetzbuch  
 263 / 388 
-210
+210 
 Art. 859 
 1 Die Verpfändung des Register-Schuldbriefs erfolgt durch Eintragung 
 des Fahrnispfandgläubigers in das Grundbuch aufgrund einer schriftli-
@@ -14170,7 +14168,7 @@ Pfandrecht
 --- Seite 265 ---
 Schweizerisches Zivilgesetzbuch  
 265 / 388 
-210
+210 
 Art. 876–883678  
 Dreiundzwanzigster Titel: Das Fahrnispfand 
 Erster Abschnitt: Faustpfand und Retentionsrecht 
@@ -14274,7 +14272,7 @@ Pfandhaft
 --- Seite 267 ---
 Schweizerisches Zivilgesetzbuch  
 267 / 388 
-210
+210 
 Art. 893 
 1 Haften mehrere Pfandrechte auf der gleichen Sache, so werden die 
 Gläubiger nach ihrem Range befriedigt. 
@@ -14308,7 +14306,7 @@ tentionsrecht auch dann, wenn seine Forderung nicht fällig ist.
 treten oder dem Gläubiger bekannt geworden, so kann dieser die Re-
 tention auch dann ausüben, wenn ihr eine von ihm vorher übernommene 
 Verpflichtung oder eine besondere Vorschrift des Schuldners entgegen-
-steht.  
+steht.     
 3. Rang der 
 Pfandrechte 
 4. Verfalls-
@@ -14374,7 +14372,7 @@ papieren
 --- Seite 269 ---
 Schweizerisches Zivilgesetzbuch  
 269 / 388 
-210
+210 
 Art. 902 
 1 Bestehen für Waren Wertpapiere, die sie vertreten, so wird durch Ver-
 pfändung der Wertpapiere ein Pfandrecht an der Ware bestellt. 
@@ -14486,7 +14484,7 @@ Pfandes
 --- Seite 271 ---
 Schweizerisches Zivilgesetzbuch  
 271 / 388 
-210
+210 
 Art. 912 
 1 Das Pfand kann von dem Berechtigten gegen Rückgabe des Versatz-
 scheines ausgelöst werden, solange der Verkauf nicht stattgefunden hat. 
@@ -14587,7 +14585,7 @@ III. Ohne
 --- Seite 273 ---
 Schweizerisches Zivilgesetzbuch  
 273 / 388 
-210
+210 
 Art. 925 
 1 Werden für Waren, die einem Frachtführer oder einem Lagerhaus 
 übergeben sind, Wertpapiere ausgestellt, die sie vertreten, so gilt die 
@@ -14698,7 +14696,7 @@ Sachen
 --- Seite 275 ---
 Schweizerisches Zivilgesetzbuch  
 275 / 388 
-210
+210 
 sich das Kulturgut befindet, spätestens jedoch 30 Jahre nach dem 
 Abhandenkommen.689 
 2 Ist die Sache öffentlich versteigert oder auf dem Markt oder durch 
@@ -14800,7 +14798,7 @@ nen
 --- Seite 277 ---
 Schweizerisches Zivilgesetzbuch  
 277 / 388 
-210
+210 
 Geräten des Grundbuchamtes durch technische Hilfsmittel in Schrift 
 und Zahlen lesbaren oder in Plänen dargestellten Daten zu.691 
 Art. 943692 
@@ -14830,7 +14828,7 @@ Art. 945
 gene Nummer. 
 2 Das Verfahren, das bei Teilung eines Grundstückes oder bei Vereini-
 gung mehrerer zu beobachten ist, wird durch eine Verordnung des Bun-
-desrates festgesetzt.    
+desrates festgesetzt.          
   
 691 Eingefügt durch Anhang Ziff. 1 des BG vom 19. Dez. 2003 über die elektronische Signa-
 tur, in Kraft seit 1. Jan. 2005 (AS 2004 5085; BBl 2001 5679). 
@@ -14894,14 +14892,14 @@ c. Kollektiv-
 blätter 
 d. Tagebuch, 
 Belege 
-4. Verordnungen 
+4. Verordnungen  
 a. Im Allgemei-
 nen694 
 
 --- Seite 279 ---
 Schweizerisches Zivilgesetzbuch  
 279 / 388 
-210
+210 
 2 Die Kantone sind ermächtigt, über die Eintragung der dinglichen 
 Rechte an Grundstücken, die dem kantonalen Rechte unterstellt blei-
 ben, besondere Vorschriften aufzustellen, die jedoch zu ihrer Gültigkeit 
@@ -15016,7 +15014,7 @@ a. Zugehörigkeit
 --- Seite 281 ---
 Schweizerisches Zivilgesetzbuch  
 281 / 388 
-210
+210 
 Art. 952 
 1 Liegt ein Grundstück in mehreren Kreisen, so ist es in jedem Kreise 
 in das Grundbuch aufzunehmen mit Verweisung auf das Grundbuch der 
@@ -15091,7 +15089,7 @@ Art. 956b705
 beträgt 30 Tage. 
 2 Verweigert oder verzögert das Grundbuchamt eine bestimmte Amts-
 handlung, so kann dagegen jederzeit Beschwerde geführt werden. 
-Art. 957706 
+Art. 957706  
   
 703 Fassung gemäss Ziff. I 1 des BG vom 11. Dez. 2009 (Register-Schuldbrief und weitere 
 Änderungen im Sachenrecht), in Kraft seit 1. Jan. 2012 (AS 2011 4637; BBl 2007 5283). 
@@ -15113,7 +15111,7 @@ verfahren
 --- Seite 283 ---
 Schweizerisches Zivilgesetzbuch  
 283 / 388 
-210
+210 
 Art. 958 
 In das Grundbuch werden folgende Rechte an Grundstücken eingetra-
 gen: 
@@ -15230,7 +15228,7 @@ tungen
 --- Seite 285 ---
 Schweizerisches Zivilgesetzbuch  
 285 / 388 
-210
+210 
 3. 
 der Vertreter eines unauffindbaren Eigentümers, Grundpfand-
 gläubigers oder Dienstbarkeitsberechtigten auf sein Begehren 
@@ -15347,7 +15345,7 @@ sichtnahme
 --- Seite 287 ---
 Schweizerisches Zivilgesetzbuch  
 287 / 388 
-210
+210 
 3 Der Bundesrat bezeichnet weitere Angaben betreffend Dienstbarkei-
 ten, Grundlasten und Anmerkungen, die ohne das Glaubhaftmachen 
 eines Interesses öffentlich gemacht werden dürfen. Er beachtet dabei 
@@ -15458,7 +15456,7 @@ Grundstücken
 --- Seite 289 ---
 Schweizerisches Zivilgesetzbuch  
 289 / 388 
-210
+210 
 3 Sind Dienstbarkeiten, Vormerkungen oder Anmerkungen zugunsten 
 der Grundstücke eingetragen, so können diese nur vereinigt werden, 
 wenn die Eigentümer der belasteten Grundstücke dazu einwilligen oder 
@@ -15562,7 +15560,7 @@ gen724
 --- Seite 291 ---
 Schweizerisches Zivilgesetzbuch  
 291 / 388 
-210
+210 
 Schlusstitel:  
 Anwendungs- und Einführungsbestimmungen725 
 Erster Abschnitt: 
@@ -15676,7 +15674,7 @@ nen729
 --- Seite 293 ---
 Schweizerisches Zivilgesetzbuch  
 293 / 388 
-210
+210 
 2 Die bereits bestehenden juristischen Personen, für deren Entstehung 
 nach der Vorschrift dieses Gesetzes die Eintragung in das öffentliche 
 Register erforderlich ist, müssen jedoch diese Eintragung, auch wenn 
@@ -15740,7 +15738,7 @@ rung um die Leistungen nach Artikel 89a Absatz 8 Ziffer 4 besteht.
 Art. 6d735 
 Auf Verfahren, die beim Inkrafttreten der Änderung vom 14. Dezember 
 2018 rechtshängig sind, findet das neue Recht Anwendung. 
- 
+   
 Art. 7736 
 1 Für die Eheschliessung gilt das neue Recht, sobald das Bundesgesetz 
 vom 26. Juni 1998737 in Kraft getreten ist. 
@@ -15792,7 +15790,7 @@ dung740
 --- Seite 295 ---
 Schweizerisches Zivilgesetzbuch  
 295 / 388 
-210
+210 
 2 Scheidungen, die unter dem bisherigen Recht rechtskräftig geworden 
 sind, bleiben anerkannt; die neuen Bestimmungen über die Vollstre-
 ckung finden Anwendung auf Renten oder Abfindungen, die als Unter-
@@ -15834,7 +15832,7 @@ in Kraft seit 1. Juni 2004 (AS 2004 2161; BBl 2003 3927, 5825).
 745 AS 2004 2161 
 746 Eingefügt durch Ziff. I des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in 
 Kraft seit 1. Jan. 2017 (AS 2016 2313; BBl 2013 4887). 
-2. Rechtshängige 
+2. Rechtshängige  
 Scheidungspro-
 zesse 
 3. Trennungsfrist 
@@ -15868,7 +15866,7 @@ teil.
 Art. 8749 
 Für die Wirkungen der Ehe im Allgemeinen gilt das neue Recht, sobald 
 das Bundesgesetz vom 5. Oktober 1984 in Kraft getreten ist. 
- 
+  
 Art. 8a750 
 Der Ehegatte, der vor dem Inkrafttreten der Änderung vom 30. Septem-
 ber 2011 dieses Gesetzes seinen Namen bei der Eheschliessung geän-
@@ -15896,7 +15894,7 @@ Allgemeinen
 --- Seite 297 ---
 Schweizerisches Zivilgesetzbuch  
 297 / 388 
-210
+210 
 Art. 8b751 
 Die Schweizerin, die sich unter dem bisherigen Recht verheiratet hat, 
 kann binnen Jahresfrist seit Inkrafttreten des neuen Rechts gegenüber 
@@ -16014,7 +16012,7 @@ dung
 --- Seite 299 ---
 Schweizerisches Zivilgesetzbuch  
 299 / 388 
-210
+210 
 Art. 9f 760 
 Ist von Gesetzes wegen oder auf Anordnung des Richters Gütertren-
 nung eingetreten, so gelten für die Ehegatten die neuen Bestimmungen 
@@ -16138,7 +16136,7 @@ Eheverträge
 --- Seite 301 ---
 Schweizerisches Zivilgesetzbuch  
 301 / 388 
-210
+210 
 Art. 10e768 
 1 Mit Inkrafttreten des Bundesgesetzes vom 5. Oktober 1984 werden 
 keine neuen Eintragungen im Güterrechtsregister mehr vorgenommen. 
@@ -16246,7 +16244,7 @@ Verfahren
 --- Seite 303 ---
 Schweizerisches Zivilgesetzbuch  
 303 / 388 
-210
+210 
 Art. 12c778 
 Die Bestimmungen der Änderung vom 17. Juni 2016 über das Adopti-
 onsgeheimnis, die Auskunft über die leiblichen Eltern und deren Nach-
@@ -16364,7 +16362,7 @@ des Kindes
 --- Seite 305 ---
 Schweizerisches Zivilgesetzbuch  
 305 / 388 
-210
+210 
 Art. 14787 
 1 Für den Erwachsenenschutz gilt das neue Recht, sobald die Änderung 
 vom 19. Dezember 2008788 in Kraft getreten ist. 
@@ -16473,7 +16471,7 @@ Grundbuch
 --- Seite 307 ---
 Schweizerisches Zivilgesetzbuch  
 307 / 388 
-210
+210 
 Art. 19 
 1 Die Ersitzung richtet sich von dem Inkrafttreten dieses Gesetzes an 
 nach dem neuen Recht. 
@@ -16586,7 +16584,7 @@ Pfandhaft
 --- Seite 309 ---
 Schweizerisches Zivilgesetzbuch  
 309 / 388 
-210
+210 
 erhalten, so bleibt das Pfandrecht an diesen in Kraft, auch wenn sie nach 
 dem neuen Recht nicht mitverpfändet sein würden. 
 Art. 26 
@@ -16640,7 +16638,7 @@ c. Kündigung,
  Schweizerisches Zivilgesetzbuch 
 310 / 388 
 210 
-Art. 31 und 32799  
+Art. 31 und 32799    
 Art. 33 
 1 Die kantonalen Einführungsgesetze können feststellen, dass im Allge-
 meinen oder in bestimmter Beziehung eine Grundpfandart des bisheri-
@@ -16700,7 +16698,7 @@ schriften
 --- Seite 311 ---
 Schweizerisches Zivilgesetzbuch  
 311 / 388 
-210
+210 
 2 Soweit vor diesem Zeitpunkt ein Fahrnispfand in anderer Form errich-
 tet worden ist, erlischt es mit Ablauf von sechs Monaten, die bei Fällig-
 keit der Forderung mit dem Inkrafttreten des neuen Rechtes und bei 
@@ -16729,7 +16727,7 @@ Art. 38
 nung für das Grundbuch fest. Er kann diese Zuständigkeit an das zu-
 ständige Departement oder Amt übertragen.804 
 2 …805 
-Art. 39806  
+Art. 39806       
   
 804 Fassung gemäss Anhang Ziff. II des BG vom 5. Okt. 2007 über Geoinformation, in Kraft 
 seit 1. Juli 2008 (AS 2008 2793; BBl 2006 7817). 
@@ -16803,7 +16801,7 @@ Nichteintragung
 --- Seite 313 ---
 Schweizerisches Zivilgesetzbuch  
 313 / 388 
-210
+210 
 in gutem Glauben auf das Grundbuch verlassen, noch während zehn 
 Jahren nach dem Inkrafttreten entgegengehalten werden.810 
 Art. 45811 
@@ -16915,7 +16913,7 @@ Kantone
 --- Seite 315 ---
 Schweizerisches Zivilgesetzbuch  
 315 / 388 
-210
+210 
 4 Die übrigen kantonalen Anordnungen sind dem Bundesamt für Justiz 
 zur Kenntnis zu bringen.816 
 Art. 53 
@@ -16994,7 +16992,7 @@ sobald sie auf wenigstens 30 Jahre oder auf unbestimmte Zeit ausge-
 stellt und nicht als Dienstbarkeit mit einem herrschenden Grundstück 
 verbunden sind, als selbständige und dauernde Rechte in das Grund-
 buch aufgenommen werden. 
-Art. 57824 
+Art. 57824    
 Art. 58825 
 Das Bundesgesetz vom 11. April 1889826 über Schuldbetreibung und 
 Konkurs wird mit dem Inkrafttreten dieses Gesetzes abgeändert wie 
@@ -17024,7 +17022,7 @@ Konkurs
 --- Seite 317 ---
 Schweizerisches Zivilgesetzbuch  
 317 / 388 
-210
+210 
 Art. 59828 
 1 Das Bundesgesetz vom 25. Juni 1891829 betreffend die zivilrechtli-
 chen Verhältnisse der Niedergelassenen und Aufenthalter bleibt für die 
@@ -17093,7 +17091,7 @@ einzelne Bestimmungen schon früher in Kraft zu setzen.
 --- Seite 319 ---
 Schweizerisches Zivilgesetzbuch  
 319 / 388 
-210
+210 
 Wortlaut der früheren Bestimmungen836 des sechsten Titels 
 Sechster Titel: Das Güterrecht der Ehegatten 
 Erster Abschnitt: Allgemeine Vorschriften 
@@ -17203,7 +17201,7 @@ Gütertrennung
 --- Seite 321 ---
 Schweizerisches Zivilgesetzbuch  
 321 / 388 
-210
+210 
 Art. 187 
 1 Durch Befriedigung der Gläubiger wird die infolge Konkurses einge-
 tretene oder wegen eines Verlustes in der Betreibung auf Pfändung 
@@ -17239,7 +17237,7 @@ Art. 190
 und kraft Gesetzes. 
 2 Was ein Ehegatte als Pflichtteil von seinen Verwandten zu beanspru-
 chen hat, kann ihm nicht als Sondergut zugewendet werden. 
-  
+     
 IV. Aufhebung 
 der Gütertren-
 nung 
@@ -17295,7 +17293,7 @@ und an allem ehelichen Vermögen, das nicht Frauengut ist.
 3 Die Einkünfte der Ehefrau und die natürlichen Früchte des Frauengu-
 tes werden unter Vorbehalt der Bestimmungen über das Sondergut auf 
 den Zeitpunkt ihrer Fälligkeit oder Trennung Eigentum des Ehemannes. 
-  
+     
 2. Kraft Gesetzes 
 II. Wirkung 
 III. Beweislast 
@@ -17309,7 +17307,7 @@ Mann und Frau
 --- Seite 323 ---
 Schweizerisches Zivilgesetzbuch  
 323 / 388 
-210
+210 
 Art. 196 
 1 Behauptet ein Ehegatte, dass ein Vermögenswert zum Frauengut 
 gehöre, so ist er hiefür beweispflichtig. 
@@ -17420,7 +17418,7 @@ Ehemannes
 --- Seite 325 ---
 Schweizerisches Zivilgesetzbuch  
 325 / 388 
-210
+210 
 Art. 207 
 1 Die Ehefrau haftet mit ihrem ganzen Vermögen, ohne Rücksicht auf 
 die dem Ehemann aus dem Güterstande zustehenden Rechte: 
@@ -17532,7 +17530,7 @@ Rückschlag
 --- Seite 327 ---
 Schweizerisches Zivilgesetzbuch  
 327 / 388 
-210
+210 
 Dritter Abschnitt: Die Gütergemeinschaft 
 Art. 215 
 1 Die allgemeine Gütergemeinschaft vereinigt das Vermögen und die 
@@ -17655,7 +17653,7 @@ nen
 --- Seite 329 ---
 Schweizerisches Zivilgesetzbuch  
 329 / 388 
-210
+210 
 Art. 224 
 1 Im Konkurse des Ehemannes und bei der Pfändung von Vermögens-
 werten des Gesamtgutes kann die Ehefrau eine Forderung für ihr einge-
@@ -17763,7 +17761,7 @@ wegen
 --- Seite 331 ---
 Schweizerisches Zivilgesetzbuch  
 331 / 388 
-210
+210 
 2 Fällt nur eines der Kinder in Konkurs, so können die übrigen Betei-
 ligten verlangen, dass es ausscheide. 
 3 Im Konkurse des Vaters sowie bei der Pfändung von Vermögenswer-
@@ -17868,7 +17866,7 @@ Nutzung
 --- Seite 333 ---
 Schweizerisches Zivilgesetzbuch  
 333 / 388 
-210
+210 
 Art. 243 
 1 Der Ehemann haftet persönlich für seine vorehelichen Schulden sowie 
 für diejenigen, die von ihm während der Ehe oder von der Ehefrau in 
@@ -17899,7 +17897,7 @@ Ehefrau dem Ehemanne zur Tragung der ehelichen Lasten als Ehesteuer
 zuweist. 
 2 Was die Ehefrau derart dem Ehemann überlässt, steht, wenn es nicht 
 anders vereinbart worden ist, unter den Regeln der Güterverbindung. 
-  
+     
 C. Haftung 
 I. Im Allgemei-
 nen 
@@ -17959,7 +17957,7 @@ rung
 --- Seite 335 ---
 Schweizerisches Zivilgesetzbuch  
 335 / 388 
-210
+210 
 Inhaltsverzeichnis 
 Schweizerisches Zivilgesetzbuch 
 Einleitung 
@@ -18083,12 +18081,12 @@ Art. 30b
 C. Anfang und Ende der Persönlichkeit 
 I. Geburt und Tod 
 Art. 31 
- 
+   
 
 --- Seite 337 ---
 Schweizerisches Zivilgesetzbuch  
 337 / 388 
-210
+210 
 II. Beweis 
 1. Beweislast 
 Art. 32 
@@ -18147,7 +18145,7 @@ A. Persönlichkeit
 Art. 52 
 B. Rechtsfähigkeit 
 Art. 53 
- 
+    
 
 --- Seite 338 ---
  Schweizerisches Zivilgesetzbuch 
@@ -18220,7 +18218,7 @@ Art. 74
 --- Seite 339 ---
 Schweizerisches Zivilgesetzbuch  
 339 / 388 
-210
+210 
 VI. Schutz der Mitgliedschaft 
 Art. 75 
 Cbis. Haftung 
@@ -18343,7 +18341,7 @@ Art. 104
 --- Seite 341 ---
 Schweizerisches Zivilgesetzbuch  
 341 / 388 
-210
+210 
 B. Absolute Ungültigkeitsgründe 
 I. Allgemeine Gründe 
 Art. 105 
@@ -18471,12 +18469,12 @@ II. Wohnung der Familie
 Art. 169 
 J. Auskunftspflicht 
 Art. 170 
- 
+    
 
 --- Seite 343 ---
 Schweizerisches Zivilgesetzbuch  
 343 / 388 
-210
+210 
 K. Schutz der ehelichen Gemeinschaft 
 I. Beratungsstellen 
 Art. 171 
@@ -18609,7 +18607,7 @@ Art. 216
 --- Seite 345 ---
 Schweizerisches Zivilgesetzbuch  
 345 / 388 
-210
+210 
 b. Bei Scheidung, Trennung, Ungültigerklärung der Ehe 
 oder gerichtlicher Gütertrennung 
 Art. 217 
@@ -18670,7 +18668,7 @@ IV. Mehrwertanteil
 Art. 239 
 V. Wertbestimmung 
 Art. 240 
-  
+      
 
 --- Seite 346 ---
  Schweizerisches Zivilgesetzbuch 
@@ -18734,7 +18732,7 @@ Art. 256c
 --- Seite 347 ---
 Schweizerisches Zivilgesetzbuch  
 347 / 388 
-210
+210 
 C. Zusammentreffen zweier Vermutungen 
 Art. 257 
 D. Klage der Eltern 
@@ -18863,7 +18861,7 @@ Art. 276
 --- Seite 349 ---
 Schweizerisches Zivilgesetzbuch  
 349 / 388 
-210
+210 
 II. Vorrang der Unterhaltspflicht gegenüber einem 
 minderjährigen Kind 
 Art. 276a 
@@ -18999,7 +18997,7 @@ Art. 315a
 --- Seite 351 ---
 Schweizerisches Zivilgesetzbuch  
 351 / 388 
-210
+210 
 b. Abänderung gerichtlicher Anordnungen 
 Art. 315b 
 VIII. Pflegekinderaufsicht 
@@ -19054,7 +19052,7 @@ I. Hausordnung und Fürsorge
 Art. 332 
 II. Verantwortlichkeit 
 Art. 333 
-  
+      
 
 --- Seite 352 ---
  Schweizerisches Zivilgesetzbuch 
@@ -19122,7 +19120,7 @@ Art. 364
 --- Seite 353 ---
 Schweizerisches Zivilgesetzbuch  
 353 / 388 
-210
+210 
 E. Erfüllung 
 Art. 365 
 F. Entschädigung und Spesen 
@@ -19174,7 +19172,7 @@ II. Protokollierung und Information
 Art. 384 
 III. Einschreiten der Erwachsenenschutzbehörde 
 Art. 385 
- 
+   
 
 --- Seite 354 ---
  Schweizerisches Zivilgesetzbuch 
@@ -19237,7 +19235,7 @@ Art. 405
 --- Seite 355 ---
 Schweizerisches Zivilgesetzbuch  
 355 / 388 
-210
+210 
 B. Verhältnis zur betroffenen Person 
 Art. 406 
 C. Eigenes Handeln der betroffenen Person 
@@ -19357,12 +19355,12 @@ G. Begutachtung in einer Einrichtung
 Art. 449 
 H. Anordnung einer Vertretung 
 Art. 449a 
- 
+  
 
 --- Seite 357 ---
 Schweizerisches Zivilgesetzbuch  
 357 / 388 
-210
+210 
 I. Akteneinsicht 
 Art. 449b 
 J. Mitteilungspflicht 
@@ -19484,7 +19482,7 @@ Art. 486
 --- Seite 359 ---
 Schweizerisches Zivilgesetzbuch  
 359 / 388 
-210
+210 
 E. Ersatzverfügung 
 Art. 487 
 F. Nacherbeneinsetzung 
@@ -19616,7 +19614,7 @@ Art. 533
 --- Seite 361 ---
 Schweizerisches Zivilgesetzbuch  
 361 / 388 
-210
+210 
 Siebenter Abschnitt: Klagen aus Erbverträgen 
 A. Ansprüche bei Ausrichtung zu Lebzeiten des 
 Erblassers 
@@ -19738,12 +19736,12 @@ VII. Sicherung für die Gläubiger des Erben
 Art. 578 
 VIII. Haftung im Falle der Ausschlagung 
 Art. 579 
- 
+    
 
 --- Seite 363 ---
 Schweizerisches Zivilgesetzbuch  
 363 / 388 
-210
+210 
 Dritter Abschnitt: Das öffentliche Inventar 
 A. Voraussetzung 
 Art. 580 
@@ -19868,12 +19866,12 @@ III. Ausgleichungswert
 Art. 630 
 D. Erziehungskosten 
 Art. 631 
- 
+  
 
 --- Seite 365 ---
 Schweizerisches Zivilgesetzbuch  
 365 / 388 
-210
+210 
 E. Gelegenheitsgeschenke 
 Art. 632 
 Aufgehoben 
@@ -20004,7 +20002,7 @@ Art. 664
 --- Seite 367 ---
 Schweizerisches Zivilgesetzbuch  
 367 / 388 
-210
+210 
 III. Recht auf Eintragung 
 Art. 665 
 C. Verlust 
@@ -20066,7 +20064,7 @@ Grundstücken
 Art. 682a 
 Aufgehoben 
 Art. 683 
- 
+   
 
 --- Seite 368 ---
  Schweizerisches Zivilgesetzbuch 
@@ -20135,12 +20133,12 @@ V. Benutzung von Quellen
 Art. 709 
 VI. Notbrunnen 
 Art. 710 
-  
+      
 
 --- Seite 369 ---
 Schweizerisches Zivilgesetzbuch  
 369 / 388 
-210
+210 
 VII. Pflicht zur Abtretung 
 1. Des Wassers 
 Art. 711 
@@ -20270,7 +20268,7 @@ Art. 736
 --- Seite 371 ---
 Schweizerisches Zivilgesetzbuch  
 371 / 388 
-210
+210 
 C. Inhalt 
 I. Umfang 
 1. Im Allgemeinen 
@@ -20410,7 +20408,7 @@ Art. 779l
 --- Seite 373 ---
 Schweizerisches Zivilgesetzbuch  
 373 / 388 
-210
+210 
 D. Quellenrecht 
 Art. 780 
 E. Andere Dienstbarkeiten 
@@ -20544,7 +20542,7 @@ Art. 827
 --- Seite 375 ---
 Schweizerisches Zivilgesetzbuch  
 375 / 388 
-210
+210 
 3. Einseitige Ablösung 
 a. Voraussetzung und Geltendmachung 
 Art. 828 
@@ -20607,7 +20605,7 @@ X. Änderungen im Rechtsverhältnis
 Art. 852 
 XI. Tilgung 
 Art. 853 
-  
+     
 
 --- Seite 376 ---
  Schweizerisches Zivilgesetzbuch 
@@ -20678,7 +20676,7 @@ Art. 892
 --- Seite 377 ---
 Schweizerisches Zivilgesetzbuch  
 377 / 388 
-210
+210 
 3. Rang der Pfandrechte 
 Art. 893 
 4. Verfallsvertrag 
@@ -20799,12 +20797,12 @@ Art. 939
 Art. 940 
 IV. Ersitzung 
 Art. 941 
-  
+     
 
 --- Seite 379 ---
 Schweizerisches Zivilgesetzbuch  
 379 / 388 
-210
+210 
 Fünfundzwanzigster Titel: Das Grundbuch 
 A. Einrichtung 
 I. Bestand 
@@ -20938,7 +20936,7 @@ Art. 977
 --- Seite 381 ---
 Schweizerisches Zivilgesetzbuch  
 381 / 388 
-210
+210 
 Schlusstitel: Anwendungs- und Einführungs-
 bestimmungen 
 Erster Abschnitt: Die Anwendung bisherigen und 
@@ -21068,12 +21066,12 @@ Art. 13a
 IVbis. Frist für die Feststellung und die Anfechtung des 
 Kindesverhältnisses 
 Art. 13b 
- 
+   
 
 --- Seite 383 ---
 Schweizerisches Zivilgesetzbuch  
 383 / 388 
-210
+210 
 IVter. Unterhaltsbeiträge 
 1. Bestehende Unterhaltstitel 
 Art. 13c 
@@ -21210,7 +21208,7 @@ Art. 59
 --- Seite 385 ---
 Schweizerisches Zivilgesetzbuch  
 385 / 388 
-210
+210 
 L. Aufhebung von Bundeszivilrecht 
 Art. 60 
 M. Schlussbestimmung 
@@ -21336,7 +21334,7 @@ Art. 220
 --- Seite 387 ---
 Schweizerisches Zivilgesetzbuch  
 387 / 388 
-210
+210 
 b. Sondergutsschulden 
 Art. 221 
 3. Zwangsvollstreckung 
@@ -21400,7 +21398,7 @@ E. Tragung der ehelichen Lasten
 Art. 246 
 F. Ehesteuer 
 Art. 247 
- 
+   
 
 --- Seite 388 ---
  Schweizerisches Zivilgesetzbuch 

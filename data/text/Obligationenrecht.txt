@@ -19,7 +19,7 @@ Art. 1
 1 Zum Abschlusse eines Vertrages ist die übereinstimmende gegensei-
 tige Willensäusserung der Parteien erforderlich. 
 2 Sie kann eine ausdrückliche oder stillschweigende sein. 
-  
+     
 Art. 2 
 1 Haben sich die Parteien über alle wesentlichen Punkte geeinigt, so 
 wird vermutet, dass der Vorbehalt von Nebenpunkten die Verbindlich-
@@ -113,7 +113,7 @@ Auslage
 --- Seite 3 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 3 / 552 
-220
+220 
 2 Die Versendung von Tarifen, Preislisten u. dgl. bedeutet an sich kei-
 nen Antrag. 
 3 Dagegen gilt die Auslage von Waren mit Angabe des Preises in der 
@@ -229,7 +229,7 @@ Form
 --- Seite 5 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 5 / 552 
-220
+220 
 Art. 17 
 Ein Schuldbekenntnis ist gültig auch ohne die Angabe eines Verpflich-
 tungsgrundes. 
@@ -291,7 +291,7 @@ den Vorvertrag.
 Art. 23 
 Der Vertrag ist für denjenigen unverbindlich, der sich beim Abschluss 
 in einem wesentlichen Irrtum befunden hat. 
-  
+     
 Art. 24 
 1 Der Irrtum ist namentlich in folgenden Fällen ein wesentlicher: 
 1. 
@@ -340,7 +340,7 @@ Irrtum
 --- Seite 7 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 7 / 552 
-220
+220 
 des aus dem Dahinfallen des Vertrages erwachsenen Schadens ver-
 pflichtet, es sei denn, dass der andere den Irrtum gekannt habe oder hätte 
 kennen sollen. 
@@ -449,7 +449,7 @@ und Widerruf
 --- Seite 9 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 9 / 552 
-220
+220 
 der Rechte, die sich aus einem unter den Beteiligten bestehenden ande-
 ren Rechtsverhältnis, wie Einzelarbeitsvertrag, Gesellschaftsvertrag, 
 Auftrag, ergeben können.6 
@@ -568,7 +568,7 @@ bereich
 --- Seite 11 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 11 / 552 
-220
+220 
 2bis Für Versicherungsverträge gelten die Bestimmungen des Versiche-
 rungsvertragsgesetzes vom 2. April 190811.12 
 3 Bei wesentlicher Veränderung der Kaufkraft des Geldes passt der Bun-
@@ -687,7 +687,7 @@ Frist
 --- Seite 13 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 13 / 552 
-220
+220 
 Art. 40g25  
 Zweiter Abschnitt:  
 Die Entstehung durch unerlaubte Handlungen 
@@ -772,7 +772,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter un-
 ter Würdigung der besonderen Umstände dem Verletzten oder den An-
 gehörigen des Getöteten eine angemessene Geldsumme als Genugtuung 
 zusprechen. 
-Art. 4828 
+Art. 4828    
   
 28 
 Aufgehoben durch Art. 21 Abs. 1 des BG vom 30. Sept. 1943 über den unlauteren Wettbe-
@@ -796,7 +796,7 @@ Genugtuung
 --- Seite 15 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 15 / 552 
-220
+220 
 Art. 4929 
 1 Wer in seiner Persönlichkeit widerrechtlich verletzt wird, hat An-
 spruch auf Leistung einer Geldsumme als Genugtuung, sofern die 
@@ -908,7 +908,7 @@ I. Ersatzpflicht
 --- Seite 17 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 17 / 552 
-220
+220 
 3 …31 
 Art. 57 
 1 Der Besitzer eines Grundstückes ist berechtigt, Dritten angehörige 
@@ -1026,7 +1026,7 @@ ter38
 --- Seite 19 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 19 / 552 
-220
+220 
 2 Für gewerbliche Verrichtungen von öffentlichen Beamten oder Ange-
 stellten können jedoch die Bestimmungen dieses Abschnittes durch kan-
 tonale Gesetze nicht geändert werden. 
@@ -1096,7 +1096,7 @@ Erster Abschnitt: Die Erfüllung der Obligationen
 Art. 68 
 Der Schuldner ist nur dann verpflichtet, persönlich zu erfüllen, wenn es 
 bei der Leistung auf seine Persönlichkeit ankommt. 
- 
+   
 Art. 69 
 1 Der Gläubiger braucht eine Teilzahlung nicht anzunehmen, wenn die 
 gesamte Schuld feststeht und fällig ist. 
@@ -1133,7 +1133,7 @@ Leistung
 --- Seite 21 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 21 / 552 
-220
+220 
 ihm ein solcher Anspruch zusteht, die Rechte des befriedigten Gläubi-
 gers auf ihn über. 
 Art. 71 
@@ -1245,7 +1245,7 @@ und Feiertage
 --- Seite 23 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 23 / 552 
-220
+220 
 2 Abweichende Vereinbarungen bleiben vorbehalten. 
 Art. 79 
 Die Erfüllung muss an dem festgesetzten Tage während der gewöhnli-
@@ -1362,7 +1362,7 @@ Schuldners
 --- Seite 25 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 25 / 552 
-220
+220 
 Art. 89 
 1 Werden Zinse oder andere periodische Leistungen geschuldet, so be-
 gründet die für eine spätere Leistung ohne Vorbehalt ausgestellte Quit-
@@ -1477,7 +1477,7 @@ Allgemeinen
 --- Seite 27 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 27 / 552 
-220
+220 
 Art. 98 
 1 Ist der Schuldner zu einem Tun verpflichtet, so kann sich der Gläubi-
 ger, unter Vorbehalt seiner Ansprüche auf Schadenersatz, ermächtigen 
@@ -1591,7 +1591,7 @@ Schenkungen
 --- Seite 29 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 29 / 552 
-220
+220 
 Art. 106 
 1 Hat der Gläubiger einen grösseren Schaden erlitten, als ihm durch die 
 Verzugszinse vergütet wird, so ist der Schuldner zum Ersatze auch die-
@@ -1701,7 +1701,7 @@ der Nebenrechte
 --- Seite 31 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 31 / 552 
-220
+220 
 2 Bereits erlaufene Zinse können nur dann nachgefordert werden, wenn 
 diese Befugnis des Gläubigers verabredet oder den Umständen zu ent-
 nehmen ist. 
@@ -1776,7 +1776,7 @@ dem Hauptschuldner das Recht der Verrechnung zusteht.
 Art. 122 
 Wer sich zugunsten eines Dritten verpflichtet hat, kann diese Schuld 
 nicht mit Forderungen, die ihm gegen den andern zustehen, verrechnen. 
- 
+  
 Art. 123 
 1 Im Konkurse des Schuldners können die Gläubiger ihre Forderungen, 
 auch wenn sie nicht fällig sind, mit Forderungen, die dem Gemein-
@@ -1787,7 +1787,7 @@ Konkursrechts.
 Art. 124 
 1 Eine Verrechnung tritt nur insofern ein, als der Schuldner dem Gläu-
 biger zu erkennen gibt, dass er von seinem Rechte der Verrechnung Ge-
-brauch machen wolle.  
+brauch machen wolle.     
 F. Verrechnung 
 I. Voraussetzung 
 1. Im  
@@ -1805,7 +1805,7 @@ Verrechnung
 --- Seite 33 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 33 / 552 
-220
+220 
 2 Ist dies geschehen, so wird angenommen, Forderung und Gegenforde-
 rung seien, soweit sie sich ausgleichen, schon im Zeitpunkte getilgt wor-
 den, in dem sie zur Verrechnung geeignet einander gegenüberstanden. 
@@ -1918,7 +1918,7 @@ der Verjährung
 --- Seite 35 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 35 / 552 
-220
+220 
 1.49 für Forderungen der Kinder gegen die Eltern bis zur Volljährig-
 keit der Kinder; 
 2.50 für Forderungen der urteilsunfähigen Person gegen die vorsorge-
@@ -2036,7 +2036,7 @@ Gläubigers
 --- Seite 37 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 37 / 552 
-220
+220 
 3 Geschieht die Unterbrechung durch Eingabe im Konkurse, so beginnt 
 die neue Verjährung mit dem Zeitpunkte, in dem die Forderung nach 
 dem Konkursrechte wieder geltend gemacht werden kann. 
@@ -2109,7 +2109,7 @@ Art. 144
 1 Der Gläubiger kann nach seiner Wahl von allen Solidarschuldnern je 
 nur einen Teil oder das Ganze fordern. 
 2 Sämtliche Schuldner bleiben so lange verpflichtet, bis die ganze For-
-derung getilgt ist.  
+derung getilgt ist.   
 Art. 145 
 1 Ein Solidarschuldner kann dem Gläubiger nur solche Einreden entge-
 gensetzen, die entweder aus seinem persönlichen Verhältnisse zum 
@@ -2156,7 +2156,7 @@ nern
 --- Seite 39 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 39 / 552 
-220
+220 
 2 Bezahlt ein Solidarschuldner mehr als seinen Teil, so hat er für den 
 Mehrbetrag Rückgriff auf seine Mitschuldner. 
 3 Was von einem Mitschuldner nicht erhältlich ist, haben die übrigen 
@@ -2259,8 +2259,8 @@ Reugeld
 --- Seite 41 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 41 / 552 
-220
-Art. 15964 
+220 
+Art. 15964    
 Art. 160 
 1 Wenn für den Fall der Nichterfüllung oder der nicht richtigen Erfül-
 lung eines Vertrages eine Konventionalstrafe versprochen ist, so ist der 
@@ -2354,7 +2354,7 @@ legung befreien.
 er es auf seine Gefahr. 
 3 Ist der Streit vor Gericht anhängig und die Schuld fällig, so kann jede 
 Partei den Schuldner zur Hinterlegung anhalten. 
- 
+  
 A. Abtretung 
 von Forderungen 
 I. Erfordernisse 
@@ -2380,7 +2380,7 @@ Hinterlegung
 --- Seite 43 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 43 / 552 
-220
+220 
 Art. 169 
 1 Einreden, die der Forderung des Abtretenden entgegenstanden, kann 
 der Schuldner auch gegen den Erwerber geltend machen, wenn sie 
@@ -2495,7 +2495,7 @@ wechsels
 --- Seite 45 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 45 / 552 
-220
+220 
 2 Von Dritten bestellte Pfänder sowie die Bürgen haften jedoch dem 
 Gläubiger nur dann weiter, wenn der Verpfänder oder der Bürge der 
 Schuldübernahme zugestimmt hat. 
@@ -2550,7 +2550,7 @@ Obligationenrecht
 sellschaften, Genossenschaften, Vereinen, Stiftungen und Einzelunter-
 nehmen, die im Handelsregister eingetragen sind, richtet sich nach den 
 Vorschriften des Fusionsgesetzes vom 3. Oktober 200367.68 
-Art. 18269 
+Art. 18269    
 Art. 183 
 Die besondern Bestimmungen betreffend die Schuldübernahme bei Erb-
 teilung und bei Veräusserung verpfändeter Grundstücke bleiben vorbe-
@@ -2598,7 +2598,7 @@ und Gefahr
 --- Seite 47 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 47 / 552 
-220
+220 
 3 Bei Verträgen, die unter einer aufschiebenden Bedingung abgeschlos-
 sen sind, gehen Nutzen und Gefahr der veräusserten Sache erst mit dem 
 Eintritte der Bedingung auf den Erwerber über. 
@@ -2620,7 +2620,7 @@ Art. 188
 Sofern nicht etwas anderes vereinbart worden oder üblich ist, trägt der 
 Verkäufer die Kosten der Übergabe, insbesondere des Messens und Wä-
 gens, der Käufer dagegen die der Beurkundung und der Abnahme. 
- 
+    
 Art. 189 
 1 Muss die verkaufte Sache an einen anderen als den Erfüllungsort ver-
 sendet werden, so trägt der Käufer die Transportkosten, sofern nicht et-
@@ -2712,7 +2712,7 @@ verkündung
 --- Seite 49 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 49 / 552 
-220
+220 
 Art. 194 
 1 Die Pflicht zur Gewährleistung besteht auch dann, wenn der Käufer, 
 ohne es zur richterlichen Entscheidung kommen zu lassen, das Recht 
@@ -2778,7 +2778,7 @@ schaften als auch dafür, dass die Sache nicht körperliche oder rechtliche
 Mängel habe, die ihren Wert oder ihre Tauglichkeit zu dem vorausge-
 setzten Gebrauche aufheben oder erheblich mindern. 
 2 Er haftet auch dann, wenn er die Mängel nicht gekannt hat. 
- 
+   
 Art. 198 
 Beim Handel mit Vieh (Pferden, Eseln, Maultieren, Rindvieh, Schafen, 
 Ziegen und Schweinen) besteht eine Pflicht zur Gewährleistung nur in-
@@ -2829,7 +2829,7 @@ Allgemeinen
 --- Seite 51 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 51 / 552 
-220
+220 
 2 Versäumt dieses der Käufer, so gilt die gekaufte Sache als genehmigt, 
 soweit es sich nicht um Mängel handelt, die bei der übungsgemässen 
 Untersuchung nicht erkennbar waren. 
@@ -2932,7 +2932,7 @@ Allgemeinen
 --- Seite 53 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 53 / 552 
-220
+220 
 Art. 209 
 1 Sind von mehreren zusammen verkauften Sachen oder von einer ver-
 kauften Gesamtsache bloss einzelne Stücke fehlerhaft, so kann nur rück-
@@ -3043,7 +3043,7 @@ des Verkäufers
 --- Seite 55 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 55 / 552 
-220
+220 
 Art. 215 
 1 Kommt der Käufer im kaufmännischen Verkehr seiner Zahlungs-
 pflicht nicht nach, so hat der Verkäufer das Recht, seinen Schaden nach 
@@ -3158,7 +3158,7 @@ tumsvorbehalt
 --- Seite 57 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 57 / 552 
-220
+220 
 Art. 21883 
 Für die Veräusserung von landwirtschaftlichen Grundstücken gilt 
 zudem das Bundesgesetz vom 4. Oktober 199184 über das bäuerliche 
@@ -3242,7 +3242,7 @@ die Sache zurückgibt.
 Vorbehalt ganz oder zum Teile bezahlt oder über die Sache in anderer 
 Weise verfügt, als es zur Prüfung nötig ist. 
 Art. 22685 
-Art. 226a–226d86  
+Art. 226a–226d86     
   
 85 
 Aufgehoben durch Ziff. I des BG vom 23. März 1962, mit Wirkung seit 1. Jan. 1963  
@@ -3264,7 +3264,7 @@ C. …
 --- Seite 59 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 59 / 552 
-220
+220 
 Art. 226e87 
 Art. 226f –226k88 
 Art. 226l89 
@@ -3370,7 +3370,7 @@ leistung
 --- Seite 61 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 61 / 552 
-220
+220 
 Art. 235 
 1 Der Ersteigerer erwirbt das Eigentum an einer ersteigerten Fahrnis mit 
 deren Zuschlag, an einem ersteigerten Grundstück dagegen erst mit der 
@@ -3447,7 +3447,7 @@ Schenkung, so ist zu ihrer Gültigkeit die öffentliche Beurkundung er-
 forderlich. 
 3 Ist das Schenkungsversprechen vollzogen, so wird das Verhältnis als 
 Schenkung von Hand zu Hand beurteilt. 
-  
+      
   
 94 
 Fassung gemäss Anhang Ziff. 10 des BG vom 19. Dez. 2008 (Erwachsenenschutz,  
@@ -3472,7 +3472,7 @@ versprechen
 --- Seite 63 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 63 / 552 
-220
+220 
 Art. 244 
 Wer in Schenkungsabsicht einem andern etwas zuwendet, kann, auch 
 wenn er es tatsächlich aus seinem Vermögen ausgesondert hat, die Zu-
@@ -3588,7 +3588,7 @@ des Schenkers
 --- Seite 65 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 65 / 552 
-220
+220 
  
 Achter Titel:97 Die Miete 
 Erster Abschnitt: Allgemeine Bestimmungen 
@@ -3673,7 +3673,7 @@ Der Vermieter trägt die mit der Sache verbundenen Lasten und öffent-
 lichen Abgaben. 
 Art. 257 
 Der Mietzins ist das Entgelt, das der Mieter dem Vermieter für die Über-
-lassung der Sache schuldet.   
+lassung der Sache schuldet.       
 Art. 257a 
 1 Die Nebenkosten sind das Entgelt für die Leistungen des Vermieters 
 oder eines Dritten, die mit dem Gebrauch der Sache zusammenhängen. 
@@ -3703,7 +3703,7 @@ Allgemeinen
 --- Seite 67 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 67 / 552 
-220
+220 
 Art. 257b 
 1 Bei Wohn- und Geschäftsräumen sind die Nebenkosten die tatsächli-
 chen Aufwendungen des Vermieters für Leistungen, die mit dem Ge-
@@ -3806,7 +3806,7 @@ Sache
 --- Seite 69 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 69 / 552 
-220
+220 
 2 Übernimmt der Mieter die Sache trotz dieser Mängel und beharrt er 
 auf gehöriger Erfüllung des Vertrags, so kann er nur die Ansprüche gel-
 tend machen, die ihm bei Entstehung von Mängeln während der Miet-
@@ -3824,7 +3824,7 @@ Art. 259
 Der Mieter muss Mängel, die durch kleine, für den gewöhnlichen Un-
 terhalt erforderliche Reinigungen oder Ausbesserungen behoben wer-
 den können, nach Ortsgebrauch auf eigene Kosten beseitigen. 
-  
+       
 Art. 259a 
 1 Entstehen an der Sache Mängel, die der Mieter weder zu verantworten 
 noch auf eigene Kosten zu beseitigen hat, oder wird der Mieter im ver-
@@ -3922,7 +3922,7 @@ Mietzinse
 --- Seite 71 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 71 / 552 
-220
+220 
 Art. 259i98 
 Das Verfahren richtet sich nach der ZPO99. 
 Art. 260 
@@ -4034,7 +4034,7 @@ einen Dritten
 --- Seite 73 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 73 / 552 
-220
+220 
 in dem das Mietverhältnis gemäss Vertrag oder Gesetz endet oder been-
 det werden kann, höchstens aber für zwei Jahre. 
 Art. 264 
@@ -4150,7 +4150,7 @@ des Mieters
 --- Seite 75 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 75 / 552 
-220
+220 
 Art. 266k 
 Der Mieter einer beweglichen Sache, die seinem privaten Gebrauch 
 dient und vom Vermieter im Rahmen seiner gewerblichen Tätigkeit ver-
@@ -4266,7 +4266,7 @@ chung
 --- Seite 77 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 77 / 552 
-220
+220 
 2 Heimlich oder gewaltsam fortgeschaffte Gegenstände können innert 
 zehn Tagen seit der Fortschaffung mit polizeilicher Hilfe in die vermie-
 teten Räume zurückgebracht werden. 
@@ -4387,7 +4387,7 @@ der Mietdauer
 --- Seite 79 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 79 / 552 
-220
+220 
 Vermieter dem Begehren nicht oder nur teilweise oder antwortet er nicht 
 fristgemäss, so kann der Mieter innert 30 Tagen die Schlichtungsbe-
 hörde anrufen. 
@@ -4511,7 +4511,7 @@ mieter
 --- Seite 81 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 81 / 552 
-220
+220 
 Art. 272 
 1 Der Mieter kann die Erstreckung eines befristeten oder unbefristeten 
 Mietverhältnisses verlangen, wenn die Beendigung der Miete für ihn 
@@ -4626,7 +4626,7 @@ Verfahren102
 --- Seite 83 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 83 / 552 
-220
+220 
 5 Weist die zuständige Behörde ein Begehren des Mieters betreffend 
 Anfechtung der Kündigung ab, so prüft sie von Amtes wegen, ob das 
 Mietverhältnis erstreckt werden kann.105 
@@ -4728,7 +4728,7 @@ Sache
 --- Seite 85 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 85 / 552 
-220
+220 
 3 Ebenso kann der Pächter verlangen, dass ihm die Höhe des Pachtzin-
 ses des vorangegangenen Pachtverhältnisses mitgeteilt wird. 
 Art. 279 
@@ -4744,7 +4744,7 @@ Art. 281
 Ende eines Pachtjahres, spätestens aber am Ende der Pachtzeit bezahlen, 
 wenn kein anderer Zeitpunkt vereinbart oder ortsüblich ist. 
 2 Für die Nebenkosten gilt Artikel 257a. 
- 
+  
 Art. 282 
 1 Ist der Pächter nach der Übernahme der Sache mit der Zahlung fälliger 
 Pachtzinse oder Nebenkosten im Rückstand, so kann ihm der Verpäch-
@@ -4841,7 +4841,7 @@ bei Mängeln
 --- Seite 87 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 87 / 552 
-220
+220 
 Pächter in der vertragsgemässen Benutzung der Sache gestört 
 wird. 
 2 Abweichende Vereinbarungen zum Nachteil des Pächters sind nichtig, 
@@ -4948,7 +4948,7 @@ L. Verrechnung
 --- Seite 89 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 89 / 552 
-220
+220 
 Art. 295 
 1 Haben die Parteien eine bestimmte Dauer ausdrücklich oder still-
 schweigend vereinbart, so endet das Pachtverhältnis ohne Kündigung 
@@ -5066,7 +5066,7 @@ des Inventars
 --- Seite 91 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 91 / 552 
-220
+220 
 2 Der Pächter muss für fehlende Gegenstände keinen Ersatz leisten, 
 wenn er nachweist, dass der Verlust auf ein Verschulden des Verpäch-
 ters oder auf höhere Gewalt zurückzuführen ist. 
@@ -5177,7 +5177,7 @@ Gebrauch
 --- Seite 93 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 93 / 552 
-220
+220 
 2 Der Verleiher kann die Sache früher zurückfordern, wenn der Entleh-
 ner sie vertragswidrig gebraucht oder verschlechtert oder einem Dritten 
 zum Gebrauche überlässt, oder wenn er selbst wegen eines unvorherge-
@@ -5282,7 +5282,7 @@ I. Begriff
 --- Seite 95 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 95 / 552 
-220
+220 
 2 Als Einzelarbeitsvertrag gilt auch der Vertrag, durch den sich ein Ar-
 beitnehmer zur regelmässigen Leistung von stunden-, halbtage- oder ta-
 geweiser Arbeit (Teilzeitarbeit) im Dienst des Arbeitgebers verpflichtet. 
@@ -5384,7 +5384,7 @@ Arbeitnehmers
 --- Seite 97 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 97 / 552 
-220
+220 
 Art. 322 
 1 Der Arbeitgeber hat dem Arbeitnehmer den Lohn zu entrichten, der 
 verabredet oder üblich oder durch Normalarbeitsvertrag oder Gesamt-
@@ -5492,7 +5492,7 @@ behalt
 --- Seite 99 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 99 / 552 
-220
+220 
 3 Ist nichts anderes verabredet oder üblich oder durch Normalarbeitsver-
 trag oder Gesamtarbeitsvertrag bestimmt, so gilt der zurückbehaltene 
 Lohn als Sicherheit für die Forderungen des Arbeitgebers aus dem Ar-
@@ -5601,7 +5601,7 @@ von Arbeit
 --- Seite 101 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 101 / 552 
-220
+220 
 des Betriebes vorübergehend die Leistung von Zeitlohnarbeit, so kann 
 dem Arbeitnehmer solche zugewiesen werden. 
 3 Ist der Zeitlohn nicht durch Abrede, Normalarbeitsvertrag oder Ge-
@@ -5706,7 +5706,7 @@ Allgemeinen
 --- Seite 103 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 103 / 552 
-220
+220 
 Art. 328a 
 1 Lebt der Arbeitnehmer in Hausgemeinschaft mit dem Arbeitgeber, so 
 hat dieser für ausreichende Verpflegung und einwandfreie Unterkunft 
@@ -5807,7 +5807,7 @@ b. Kürzung
 --- Seite 105 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 105 / 552 
-220
+220 
 e.131 eine Arbeitnehmerin oder ein Arbeitnehmer einen Adoptionsur-
 laub nach Artikel 329j bezogen hat.132 
 4 Durch Normalarbeitsvertrag oder Gesamtarbeitsvertrag kann eine von 
@@ -5912,7 +5912,7 @@ Angehörigen
 --- Seite 107 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 107 / 552 
-220
+220 
 Lebenspartnerin oder des Lebenspartners mit gesundheitlicher Beein-
 trächtigung notwendig ist; der Urlaub beträgt jedoch höchstens drei 
 Tage pro Ereignis und höchstens zehn Tage pro Jahr. 
@@ -6020,7 +6020,7 @@ pflicht
 --- Seite 109 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 109 / 552 
-220
+220 
 2 Werden Vertragselemente, die nach Absatz 1 mitteilungspflichtig 
 sind, während des Arbeitsverhältnisses geändert, so sind die Änderun-
 gen dem Arbeitnehmer spätestens einen Monat nachdem sie wirksam 
@@ -6131,7 +6131,7 @@ tumsförderung
 --- Seite 111 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 111 / 552 
-220
+220 
 5 Ist der Arbeitnehmer verheiratet, so ist die Verpfändung nur zulässig, 
 wenn sein Ehegatte schriftlich zustimmt. Kann der Arbeitnehmer die 
 Zustimmung nicht einholen oder wird sie ihm verweigert, so kann er das 
@@ -6243,7 +6243,7 @@ Designs
 --- Seite 113 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 113 / 552 
-220
+220 
 macht oder an deren Hervorbringung er mitwirkt, gehören unabhängig 
 von ihrer Schutzfähigkeit dem Arbeitgeber. 
 2 Durch schriftliche Abrede kann sich der Arbeitgeber den Erwerb von 
@@ -6353,7 +6353,7 @@ Arbeitsverhältnis
 --- Seite 115 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 115 / 552 
-220
+220 
 Kündigungsfrist von sechs Monaten auf das Ende eines Monats kündi-
 gen. 
 Art. 335175 
@@ -6468,7 +6468,7 @@ vertretung
 --- Seite 117 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 117 / 552 
-220
+220 
 2 Er gibt ihnen zumindest die Möglichkeit, Vorschläge zu unterbreiten, 
 wie die Kündigungen vermieden oder deren Zahl beschränkt sowie ihre 
 Folgen gemildert werden können. 
@@ -6576,7 +6576,7 @@ verfahrens
 --- Seite 119 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 119 / 552 
-220
+220 
 Art. 336189 
 1 Die Kündigung eines Arbeitsverhältnisses ist missbräuchlich, wenn 
 eine Partei sie ausspricht: 
@@ -6690,7 +6690,7 @@ Arbeitgeber
 --- Seite 121 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 121 / 552 
-220
+220 
 c. 
 während der Schwangerschaft und in den 16 Wochen nach der 
 Niederkunft einer Arbeitnehmerin; 
@@ -6796,7 +6796,7 @@ Entlassung
 --- Seite 123 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 123 / 552 
-220
+220 
 Art. 337d 
 1 Tritt der Arbeitnehmer ohne wichtigen Grund die Arbeitsstelle nicht 
 an oder verlässt er sie fristlos, so hat der Arbeitgeber Anspruch auf eine 
@@ -6910,7 +6910,7 @@ Fälligkeit
 --- Seite 125 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 125 / 552 
-220
+220 
 darf aber den Betrag nicht übersteigen, der dem Lohn des Arbeitneh-
 mers für acht Monate entspricht. 
 3 Die Entschädigung kann herabgesetzt werden oder wegfallen, wenn 
@@ -7017,7 +7017,7 @@ Rechts
 --- Seite 127 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 127 / 552 
-220
+220 
 b. 
 öffentlich-rechtliche Vorschriften des Bundes und der Kantone 
 über die Arbeit und die Berufsbildung. 
@@ -7124,7 +7124,7 @@ Auflösung
 --- Seite 129 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 129 / 552 
-220
+220 
 2 Auf Verlangen der lernenden Person oder deren gesetzlichen Vertre-
 tung hat sich das Zeugnis auch über die Fähigkeiten, die Leistungen und 
 das Verhalten der lernenden Person auszusprechen. 
@@ -7232,7 +7232,7 @@ Arbeitgebers
 --- Seite 131 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 131 / 552 
-220
+220 
 bleibt der Arbeitgeber befugt, mit den Kunden im Gebiet oder Kunden-
 kreis des Handelsreisenden persönlich Geschäfte abzuschliessen. 
 2 Der Arbeitgeber kann die vertragliche Bestimmung des Reisegebietes 
@@ -7336,7 +7336,7 @@ Folgen
 --- Seite 133 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 133 / 552 
-220
+220 
  
 C. Der Heimarbeitsvertrag 
 Art. 351 
@@ -7447,7 +7447,7 @@ IV. Beendigung
 --- Seite 135 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 135 / 552 
-220
+220 
 D. Anwendbarkeit der allgemeinen Vorschriften 
 Art. 355 
 Auf den Lehrvertrag, den Handelsreisendenvertrag und den Heimar-
@@ -7548,7 +7548,7 @@ Arbeitnehmer
 --- Seite 137 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 137 / 552 
-220
+220 
 2 Abreden zwischen beteiligten Arbeitgebern und Arbeitnehmern, die 
 gegen die unabdingbaren Bestimmungen verstossen, sind nichtig und 
 werden durch die Bestimmungen des Gesamtarbeitsvertrages ersetzt; je-
@@ -7645,7 +7645,7 @@ III. Wirkungen
 --- Seite 139 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 139 / 552 
-220
+220 
 Art. 360a214 
 1 Werden innerhalb einer Branche oder einem Beruf die orts-, berufs- 
 oder branchenüblichen Löhne wiederholt in missbräuchlicher Weise un-
@@ -7751,7 +7751,7 @@ der Verbände
 --- Seite 141 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 141 / 552 
-220
+220 
 Art. 360f221 
 Erlässt ein Kanton in Anwendung von Artikel 360a einen Normalar-
 beitsvertrag, so stellt er dem zuständigen Bundesamt222 ein Exemplar 
@@ -7862,7 +7862,7 @@ Arbeitnehmers
 --- Seite 143 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 143 / 552 
-220
+220 
 Artikel 324: 
 (Lohn bei Annahmeverzug des Arbeitgebers) 
 Artikel 324a: Absätze 1 und 3 (Lohn bei Verhinderung des Arbeitneh-
@@ -7968,7 +7968,7 @@ barkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2
 --- Seite 145 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 145 / 552 
-220
+220 
 Artikel 339d: (Ersatzleistungen) 
 Artikel 340: 
 Absatz 1 (Voraussetzungen des Konkurrenzverbotes) 
@@ -8073,7 +8073,7 @@ der Mängel
 --- Seite 147 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 147 / 552 
-220
+220 
 Art. 368 
 1 Leidet das Werk an so erheblichen Mängeln oder weicht es sonst so 
 sehr vom Vertrage ab, dass es für den Besteller unbrauchbar ist oder 
@@ -8185,7 +8185,7 @@ Kostenansatzes
 --- Seite 149 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 149 / 552 
-220
+220 
 2 Bei Bauten, die auf Grund und Boden des Bestellers errichtet werden, 
 kann dieser eine angemessene Herabsetzung des Lohnes verlangen oder, 
 wenn die Baute noch nicht vollendet ist, gegen billigen Ersatz der be-
@@ -8293,7 +8293,7 @@ der Auflagen
 --- Seite 151 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 151 / 552 
-220
+220 
 gerichtlich eine Frist zur Herstellung einer neuen Auflage ansetzen las-
 sen, nach deren fruchtlosem Ablauf der Verleger sein Recht verwirkt. 
 Art. 384 
@@ -8404,7 +8404,7 @@ des Verlegers
 --- Seite 153 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 153 / 552 
-220
+220 
 3 Gerät der Verleger in Konkurs, so kann der Verlaggeber das Werk 
 einem anderen Verleger übertragen, wenn ihm nicht für Erfüllung der 
 zur Zeit der Konkurseröffnung noch nicht verfallenen Verlagsverbind-
@@ -8515,7 +8515,7 @@ einen Dritten
 --- Seite 155 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 155 / 552 
-220
+220 
 Art. 400 
 1 Der Beauftragte ist schuldig, auf Verlangen jederzeit über seine Ge-
 schäftsführung Rechenschaft abzulegen und alles, was ihm infolge der-
@@ -8627,7 +8627,7 @@ Rückreise
 --- Seite 157 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 157 / 552 
-220
+220 
 Art. 406c 
 1 Die berufsmässige Ehe- oder Partnerschaftsvermittlung von Personen 
 oder an Personen aus dem Ausland bedarf der Bewilligung einer vom 
@@ -8693,7 +8693,7 @@ rufen. Ein im Voraus erklärter Verzicht auf dieses Recht ist unverbind-
 lich. Im Übrigen sind die Bestimmungen über die Widerrufsfolgen (Art. 
 40f) sinngemäss anwendbar. 
 3 Die Kündigung bedarf der Schriftform. 
-Art. 406f253  
+Art. 406f253    
 Art. 406g 
 1 Der Beauftragte informiert den Auftraggeber vor der Vertragsunter-
 zeichnung und während der Vertragsdauer über besondere Schwierig-
@@ -8721,7 +8721,7 @@ mit Wirkung seit 1. Jan. 2016 (AS 2015 4107; BBl 2014 921 2993).
 D. Inkrafttreten, 
 Widerruf, Kün-
 digung 
-E. … 
+ E. … 
 F. Information  
 und Datenschutz 
 G. Herabsetzung 
@@ -8730,7 +8730,7 @@ A. Kreditbrief
 --- Seite 159 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 159 / 552 
-220
+220 
 verlangten Beträge auszubezahlen, werden nach den Vorschriften über 
 den Auftrag und die Anweisung beurteilt. 
 2 Wenn kein Höchstbetrag angegeben ist, so hat der Adressat bei Anfor-
@@ -8805,7 +8805,7 @@ andern tätig gewesen, oder hat er sich in einem Falle, wo es wider Treu
 und Glauben geht, auch von diesem Lohn versprechen lassen, so kann 
 er von seinem Auftraggeber weder Lohn noch Ersatz für Aufwendungen 
 beanspruchen. 
-Art. 416255  
+Art. 416255    
 Art. 417256 
 Ist für den Nachweis der Gelegenheit zum Abschluss oder für die Ver-
 mittlung eines Einzelarbeitsvertrages oder eines Grundstückkaufes ein 
@@ -8827,7 +8827,7 @@ V. Herabsetzung
 --- Seite 161 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 161 / 552 
-220
+220 
 Art. 418 
 Es bleibt den Kantonen vorbehalten, über die Verrichtungen der Bör-
 senmäkler, Sensale und Stellenvermittler besondere Vorschriften aufzu-
@@ -8942,7 +8942,7 @@ Entstehung
 --- Seite 163 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 163 / 552 
-220
+220 
 abgeschlossen werden, sofern er den Dritten als Kunden für Geschäfte 
 dieser Art geworben hat. 
 2 Der Agent, dem ein bestimmtes Gebiet oder ein bestimmter Kunden-
@@ -9044,7 +9044,7 @@ I. Zeitablauf
 --- Seite 165 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 165 / 552 
-220
+220 
 3 Hat der Auflösung des Vertrages eine Kündigung vorauszugehen, so 
 gilt ihre beiderseitige Unterlassung als Erneuerung des Vertrages. 
 Art. 418q 
@@ -9154,7 +9154,7 @@ Geschäftsführers
 --- Seite 167 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 167 / 552 
-220
+220 
 2 Vorbehalten bleibt eine weitergehende Haftung aus unerlaubten Hand-
 lungen. 
 Art. 422 
@@ -9272,7 +9272,7 @@ Dritte
 --- Seite 169 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 169 / 552 
-220
+220 
 Art. 430 
 1 Abgesehen von dem Falle, wo der Kommissionär unbefugterweise 
 Kredit gewährt, hat er für die Zahlung oder anderweitige Erfüllung der 
@@ -9386,7 +9386,7 @@ vertrag
 --- Seite 171 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 171 / 552 
-220
+220 
  
 Sechzehnter Titel: Der Frachtvertrag 
 Art. 440 
@@ -9500,7 +9500,7 @@ Gutes
 --- Seite 173 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 173 / 552 
-220
+220 
 2 Als ein Verschulden des Absenders ist zu betrachten, wenn er den 
 Frachtführer von dem besonders hohen Wert des Frachtgutes nicht un-
 terrichtet hat. 
@@ -9602,7 +9602,7 @@ portanstalten
 --- Seite 175 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 175 / 552 
-220
+220 
 Art. 456 
 1 Ein Frachtführer oder Spediteur, der sich zur Ausführung des von ihm 
 übernommenen Transportes einer öffentlichen Transportanstalt bedient 
@@ -9680,7 +9680,7 @@ gewöhnlich mit sich bringt.
 selverbindlichkeiten, zur Aufnahme von Darlehen und zur Prozessfüh-
 rung nur ermächtigt, wenn ihm eine solche Befugnis ausdrücklich erteilt 
 worden ist. 
-Art. 463262  
+Art. 463262    
 Art. 464 
 1 Der Prokurist, sowie der Handlungsbevollmächtigte, der zum Betrieb 
 des ganzen Gewerbes bestellt ist oder in einem Arbeitsverhältnis zum 
@@ -9706,7 +9706,7 @@ verbot
 --- Seite 177 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 177 / 552 
-220
+220 
 2 Bei Übertretung dieser Vorschrift kann der Geschäftsherr Ersatz des 
 verursachten Schadens fordern und die betreffenden Geschäfte auf ei-
 gene Rechnung übernehmen. 
@@ -9811,7 +9811,7 @@ bei Wertpapieren
 --- Seite 179 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 179 / 552 
-220
+220 
 Neunzehnter Titel: Der Hinterlegungsvertrag 
 Art. 472 
 1 Durch den Hinterlegungsvertrag verpflichtet sich der Aufbewahrer 
@@ -9919,7 +9919,7 @@ Warenpapieren
 --- Seite 181 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 181 / 552 
-220
+220 
 Art. 483 
 1 Der Lagerhalter ist zur Aufbewahrung der Güter verpflichtet wie ein 
 Kommissionär. 
@@ -10023,7 +10023,7 @@ Stallwirte
 --- Seite 183 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 183 / 552 
-220
+220 
 Art. 491 
 1 Gastwirte und Stallwirte haben an den eingebrachten Sachen ein Re-
 tentionsrecht für die Forderungen, die ihnen aus der Beherbergung und 
@@ -10119,7 +10119,7 @@ des Ehegatten
 --- Seite 185 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 185 / 552 
-220
+220 
 Art. 495 
 1 Der Gläubiger kann den einfachen Bürgen erst dann zur Zahlung an-
 halten, wenn nach Eingehung der Bürgschaft der Hauptschuldner in 
@@ -10230,7 +10230,7 @@ der Haftung
 --- Seite 187 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 187 / 552 
-220
+220 
 2. 
 die Kosten der Betreibung und Ausklagung des Hauptschuld-
 ners, soweit dem Bürgen rechtzeitig Gelegenheit gegeben war, 
@@ -10335,7 +10335,7 @@ Gläubigers
 --- Seite 189 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 189 / 552 
-220
+220 
 der Bürgschaft vorhandenen oder vom Hauptschuldner nachträglich ei-
 gens für diese Forderung bestellten Pfänder und anderweitigen Sicher-
 heiten herauszugeben oder die für ihre Übertragung erforderlichen 
@@ -10452,7 +10452,7 @@ Allgemeinen
 --- Seite 191 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 191 / 552 
-220
+220 
 Art. 508 
 1 Bezahlt der Bürge die Hauptschuld ganz oder teilweise, so hat er dem 
 Hauptschuldner Mitteilung zu machen. 
@@ -10557,7 +10557,7 @@ Dienstbürgschaft
 --- Seite 193 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 193 / 552 
-220
+220 
 3 Bei einer auf unbestimmte Zeit eingegangenen Dienstbürgschaft steht 
 dem Bürgen das gleiche Kündigungsrecht zu wie dem Amtsbürgen bei 
 unbestimmter Amtsdauer. 
@@ -10591,7 +10591,7 @@ rische Behörde den Vertrieb der Lose bewilligt hat.
 Art. 515a270 
 Aus Glücksspielen in Spielbanken entstehen klagbare Forderungen, so-
 fern die Spielbank von der zuständigen Behörde genehmigt wurde. 
- 
+  
   
 270 Eingefügt durch Anhang Ziff. 5 des Spielbankengesetzes vom 18. Dez. 1998, in Kraft  
 seit 1. April 2000 (AS 2000 677; BBl 1997 III 145). 
@@ -10640,7 +10640,7 @@ Rentenanstalt bestellt werden könnte.
 Art. 519 
 1 Der Leibrentengläubiger kann, sofern nicht etwas anderes vereinbart 
 ist, die Ausübung seiner Rechte abtreten. 
-2 …272 
+2 …272  
   
 271 Fassung gemäss Anhang Ziff. 6 des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997  
 (AS 1995 1227; BBl 1991 III 1). 
@@ -10662,7 +10662,7 @@ keit271
 --- Seite 195 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 195 / 552 
-220
+220 
 Art. 520 
 Die Bestimmungen dieses Gesetzes über den Leibrentenvertrag finden 
 keine Anwendung auf Leibrentenverträge, die unter dem Bundesgesetz 
@@ -10768,7 +10768,7 @@ Pfrundgebers
 --- Seite 197 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 197 / 552 
-220
+220 
 Art. 529 
 1 Der Anspruch des Pfründers ist nicht übertragbar. 
 2 Im Konkurse des Pfrundgebers besteht die Forderung des Pfründers in 
@@ -10852,7 +10852,7 @@ liegt, die Einwilligung sämtlicher Gesellschafter erforderlich.
 Art. 536 
 Kein Gesellschafter darf zu seinem besonderen Vorteile Geschäfte be-
 treiben, durch die der Zweck der Gesellschaft vereitelt oder beeinträch-
-tigt würde. 
+tigt würde.   
 Art. 537 
 1 Für Auslagen oder Verbindlichkeiten, die ein Gesellschafter in den 
 Angelegenheiten der Gesellschaft macht oder eingeht, sowie für Ver-
@@ -10880,7 +10880,7 @@ die Gesellschaft
 --- Seite 199 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 199 / 552 
-220
+220 
 Art. 538 
 1 Jeder Gesellschafter ist verpflichtet, in den Angelegenheiten der Ge-
 sellschaft den Fleiss und die Sorgfalt anzuwenden, die er in seinen eige-
@@ -10996,7 +10996,7 @@ Allgemeinen
 --- Seite 201 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 201 / 552 
-220
+220 
 3.274 wenn der Liquidationsanteil eines Gesellschafters zur Zwangs-
 verwertung gelangt oder ein Gesellschafter in Konkurs fällt oder 
 unter umfassende Beistandschaft gestellt wird; 
@@ -11102,7 +11102,7 @@ Dritten
 --- Seite 203 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 203 / 552 
-220
+220 
 Dritte Abteilung:276  
 Die Handelsgesellschaften und die Genossenschaft 
 Vierundzwanzigster Titel: Die Kollektivgesellschaft 
@@ -11121,7 +11121,7 @@ tes Gewerbe, so entsteht sie als Kollektivgesellschaft erst, wenn sie sich
 in das Handelsregister eintragen lässt. 
 Art. 554277 
 Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem 
-sie ihren Sitz hat.  
+sie ihren Sitz hat.    
 Art. 555 
 In das Handelsregister können nur solche Anordnungen über die Ver-
 tretung eingetragen werden, die deren Beschränkung auf einen oder ein-
@@ -11206,7 +11206,7 @@ und Honorar
 --- Seite 205 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 205 / 552 
-220
+220 
 3 Gewinne, Zinse und Honorare, die ein Gesellschafter nicht bezieht, 
 werden nach der Genehmigung des Geschäftsberichts seinem Kapital-
 anteil zugeschrieben, sofern kein anderer Gesellschafter dagegen Ein-
@@ -11314,7 +11314,7 @@ Gesellschafter
 --- Seite 207 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 207 / 552 
-220
+220 
 2 Eine entgegenstehende Verabredung unter den Gesellschaftern hat 
 Dritten gegenüber keine Wirkung. 
 Art. 570 
@@ -11420,7 +11420,7 @@ Gericht
 --- Seite 209 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 209 / 552 
-220
+220 
 Art. 578 
 Fällt ein Gesellschafter in Konkurs oder verlangt einer seiner Gläubiger, 
 der dessen Liquidationsanteil gepfändet hat, die Auflösung der Gesell-
@@ -11514,7 +11514,7 @@ Liquidatoren
 --- Seite 211 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 211 / 552 
-220
+220 
 Art. 586 
 1 Die während der Liquidation entbehrlichen Gelder und Werte werden 
 vorläufig auf Rechnung des endgültigen Liquidationsanteiles unter die 
@@ -11614,7 +11614,7 @@ sche Gesellschaft
 --- Seite 213 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 213 / 552 
-220
+220 
 tens ein Mitglied unbeschränkt, eines oder mehrere aber als Komman-
 ditäre nur bis zum Betrag einer bestimmten Vermögenseinlage, der 
 Kommanditsumme, haften. 
@@ -11718,7 +11718,7 @@ ligung
 --- Seite 215 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 215 / 552 
-220
+220 
 Dritter Abschnitt: Verhältnis der Gesellschaft zu Dritten 
 Art. 602 
 Die Gesellschaft kann unter ihrer Firma Rechte erwerben und Verbind-
@@ -11742,7 +11742,7 @@ kehr aufgetreten, so haftet der Kommanditär für die bis zur Eintragung
 entstandenen Verbindlichkeiten Dritten gegenüber gleich einem unbe-
 schränkt haftenden Gesellschafter, wenn er nicht beweist, dass ihnen die 
 Beschränkung seiner Haftung bekannt war. 
-Art. 607290  
+Art. 607290    
 Art. 608 
 1 Der Kommanditär haftet Dritten gegenüber mit der im Handelsregister 
 eingetragenen Kommanditsumme. 
@@ -11825,7 +11825,7 @@ eine Gesellschaft
 --- Seite 217 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 217 / 552 
-220
+220 
 Art. 613 
 1 Die Privatgläubiger eines unbeschränkt haftenden Gesellschafters 
 oder eines Kommanditärs sind nicht befugt, das Gesellschaftsvermögen 
@@ -11926,7 +11926,7 @@ B. Aktienkapital
 --- Seite 219 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 219 / 552 
-220
+220 
 dabei fest, dass die Voraussetzungen von Absatz 2 erfüllt sind, und hält 
 den angewandten Umrechnungskurs fest. Die Beschlüsse der General-
 versammlung und des Verwaltungsrats müssen öffentlich beurkundet 
@@ -12006,7 +12006,7 @@ den Zweck der Gesellschaft;
 der darauf geleisteten Einlagen; 
 4. 
 Anzahl, Nennwert und Art der Aktien; 
- 
+    
   
 303 Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit  
 1. Jan. 2023 (AS 2020 4005; 2022 109; BBl 2017 399). 
@@ -12037,7 +12037,7 @@ Statuten309
 --- Seite 221 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 221 / 552 
-220
+220 
 5. und 6.311 … 
 7.312 die Form der Mitteilungen der Gesellschaft an ihre Aktionäre. 
 2 In einer Gesellschaft, deren Aktien an einer Börse kotiert sind, müssen 
@@ -12151,7 +12151,7 @@ II. Belege
 --- Seite 223 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 223 / 552 
-220
+220 
 Art. 632323 
 1 Bei der Errichtung der Gesellschaft muss die Einlage für mindestens 
 20 Prozent des Nennwertes jeder Aktie geleistet sein. 
@@ -12263,7 +12263,7 @@ richt
 --- Seite 225 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 225 / 552 
-220
+220 
 Art. 635a332 
 Ein zugelassener Revisor prüft den Gründungsbericht und bestätigt 
 schriftlich, dass dieser vollständig und richtig ist. 
@@ -12276,8 +12276,8 @@ Art. 637–639334
 Art. 640335 
 Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem 
 sie ihren Sitz hat.  
-Art. 641337  
-Art. 642338  
+Art. 641337    
+Art. 642338    
 Art. 643 
 1 Die Gesellschaft erlangt das Recht der Persönlichkeit erst durch die 
 Eintragung in das Handelsregister. 
@@ -12330,7 +12330,7 @@ kann das Gericht auf Begehren solcher Gläubiger oder Aktionäre die
 Auflösung der Gesellschaft verfügen. …340 
 4 Das Klagerecht erlischt, wenn die Klage nicht spätestens drei Monate 
 nach der Veröffentlichung im Schweizerischen Handelsamtsblatt ange-
-hoben wird. 
+hoben wird.  
 Art. 644 
 1 Aktien, die vor der Eintragung der Gesellschaft ins Handelsregister 
 ausgegeben werden, sind nichtig; die aus der Aktienzeichnung hervor-
@@ -12346,7 +12346,7 @@ denden Gesellschaft eingegangen und innerhalb einer Frist von drei Mo-
 naten nach der Eintragung in das Handelsregister von der Gesellschaft 
 übernommen, so werden die Handelnden befreit, und es haftet nur die 
 Gesellschaft. 
-Art. 646343 
+Art. 646343  
   
 340 Zweiter Satz aufgehoben durch Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie 
 Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), mit Wir-
@@ -12370,7 +12370,7 @@ pflichtungen
 --- Seite 227 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 227 / 552 
-220
+220 
 Art. 647344 
 Der Beschluss der Generalversammlung oder des Verwaltungsrats über 
 eine Änderung der Statuten ist öffentlich zu beurkunden und ins Han-
@@ -12410,7 +12410,7 @@ eine Beschränkung der Übertragbarkeit neuer Namenaktien;
 9. 
 eine Einschränkung oder Aufhebung des Bezugsrechts und die 
 Folgen, wenn dieses nicht ausgeübt oder entzogen wird; 
-  
+     
   
 344 Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit  
 1. Jan. 2023 (AS 2020 4005; 2022 109; BBl 2017 399). 
@@ -12440,7 +12440,7 @@ Bezugsrechte.
 Beschluss der Generalversammlung beim Handelsregisteramt zur Ein-
 tragung angemeldet werden; sonst fällt der Beschluss dahin. 
 Art. 651347 
-Art. 651a348 
+Art. 651a348  
 Art. 652349 
 1 Die Aktien werden in einer besonderen Urkunde (Zeichnungsschein) 
 nach den für die Gründung geltenden Regeln gezeichnet. 
@@ -12450,8 +12450,8 @@ lung über die Erhöhung des Aktienkapitals und den entsprechenden Be-
 schluss des Verwaltungsrates Bezug nehmen. Verlangt das Gesetz einen 
 Prospekt, so nimmt der Zeichnungsschein auch auf diesen Bezug.351 
  
-3 …352 
-Art. 652a353 
+3 …352  
+Art. 652a353  
 Art. 652b354 
 1 Jeder Aktionär hat Anspruch auf den Teil der neu ausgegebenen Ak-
 tien, der seiner bisherigen Beteiligung entspricht. 
@@ -12486,7 +12486,7 @@ trag355
 --- Seite 229 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 229 / 552 
-220
+220 
 2 Der Beschluss der Generalversammlung über die Erhöhung des Akti-
 enkapitals darf das Bezugsrecht nur aus wichtigen Gründen einschrän-
 ken oder aufheben. Als wichtige Gründe gelten insbesondere die Über-
@@ -12593,7 +12593,7 @@ bestätigung368
 --- Seite 231 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 231 / 552 
-220
+220 
 Art. 652g370 
 1 Liegen der Kapitalerhöhungsbericht und, sofern erforderlich, die Prü-
 fungsbestätigung vor, so ändert der Verwaltungsrat die Statuten und 
@@ -12713,7 +12713,7 @@ Grundlage
 --- Seite 233 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 233 / 552 
-220
+220 
 2. 
 die Grundlagen, nach denen der Ausgabebetrag zu berechnen 
 ist. 
@@ -12829,7 +12829,7 @@ Verwaltungsrats
 --- Seite 235 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 235 / 552 
-220
+220 
 2 Enthalten die Statuten ein Kapitalband, so passt der Verwaltungsrat im 
 Rahmen der Statutenänderung die obere und die untere Grenze des Ka-
 pitalbands entsprechend dem Umfang der Kapitalerhöhung an, es sei 
@@ -12939,7 +12939,7 @@ bestätigung
 --- Seite 237 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 237 / 552 
-220
+220 
 Art. 653n396 
 Der Beschluss der Generalversammlung über die Herabsetzung des Ak-
 tienkapitals muss öffentlich beurkundet werden und folgende Angaben 
@@ -13055,7 +13055,7 @@ IV. Kapitalband
 --- Seite 239 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 239 / 552 
-220
+220 
 3 Die Statuten können die Befugnisse des Verwaltungsrats beschränken. 
 Sie können insbesondere vorsehen, dass der Verwaltungsrat das Aktien-
 kapital nur erhöhen oder nur herabsetzen kann. 
@@ -13168,7 +13168,7 @@ setzungen405
 --- Seite 241 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 241 / 552 
-220
+220 
 2 Hat eine Gesellschaft Vorzugsaktien ausgegeben, so können weitere 
 Vorzugsaktien, denen Vorrechte gegenüber den bereits bestehenden 
 Vorzugsaktien eingeräumt werden sollen, nur mit Zustimmung sowohl 
@@ -13283,7 +13283,7 @@ Aktienkapital
 --- Seite 243 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 243 / 552 
-220
+220 
 2. 
 für den Erwerb eigener Partizipationsscheine auf der Grundlage 
 der ausgegebenen Partizipationsscheine. 
@@ -13400,7 +13400,7 @@ scheine424
 --- Seite 245 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 245 / 552 
-220
+220 
 2 Durch die Genussscheine können den Berechtigten nur Ansprüche auf 
 einen Anteil am Bilanzgewinn oder am Liquidationsergebnis oder auf 
 den Bezug neuer Aktien verliehen werden. 
@@ -13504,7 +13504,7 @@ art
 --- Seite 247 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 247 / 552 
-220
+220 
 Art. 662430 
 Art. 662a431 
 Art. 663432 
@@ -13594,7 +13594,7 @@ Kapitalreserve
 --- Seite 249 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 249 / 552 
-220
+220 
 Art. 671a und 671b444 
 Art. 672445 
 1 Der gesetzlichen Gewinnreserve sind 5 Prozent des Jahresgewinns zu-
@@ -13698,7 +13698,7 @@ III. Bauzinse451
 --- Seite 251 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 251 / 552 
-220
+220 
 2 Wird das Unternehmen durch die Ausgabe neuer Aktien erweitert, so 
 kann im Beschlusse über die Kapitalerhöhung den neuen Aktien eine 
 bestimmte Verzinsung zu Lasten des Anlagekontos bis zu einem genau 
@@ -13806,7 +13806,7 @@ und Statuten
 --- Seite 253 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 253 / 552 
-220
+220 
 auszugeben. Wenn die ausgefallenen Titel bereits ausgegeben sind und 
 nicht beigebracht werden können, so ist die Verlustigerklärung im 
 Schweizerischen Handelsamtsblatt sowie in der von den Statuten vor-
@@ -13915,7 +13915,7 @@ Ablehnung
 --- Seite 255 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 255 / 552 
-220
+220 
 6 Lehnt der Erwerber das Übernahmeangebot nicht innert eines Monates 
 nach Kenntnis des wirklichen Wertes ab, so gilt es als angenommen. 
 7 Die Statuten dürfen die Voraussetzungen der Übertragbarkeit nicht er-
@@ -14009,7 +14009,7 @@ frist
 --- Seite 257 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 257 / 552 
-220
+220 
 Art. 686472 
 1 Die Gesellschaft führt über die Namenaktien ein Aktienbuch, in wel-
 ches die Eigentümer und Nutzniesser mit Namen und Adresse eingetra-
@@ -14036,7 +14036,7 @@ miert werden.
 Art. 687 
 1 Der Erwerber einer nicht voll einbezahlten Namenaktie ist der Gesell-
 schaft gegenüber zur Einzahlung verpflichtet, sobald er im Aktienbuch 
-eingetragen ist.  
+eingetragen ist.   
   
 472 Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992  
 (AS 1992 733; BBl 1983 II 745). 
@@ -14120,7 +14120,7 @@ Gesellschaft
 --- Seite 259 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 259 / 552 
-220
+220 
 nur ausüben, wer bei der Teilnahme an der Generalversammlung Na-
 men und Wohnort bekannt gibt.481 
 3 Wer eine Inhaberaktie aufgrund einer Verpfändung, Hinterlegung oder 
@@ -14232,7 +14232,7 @@ sind
 --- Seite 261 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 261 / 552 
-220
+220 
 3 Der Verwaltungsrat muss in diesem Fall spätestens zehn Tage vor der 
 Generalversammlung den Aktionären mitteilen, wen sie mit der Vertre-
 tung beauftragen können. Kommt der Verwaltungsrat dieser Pflicht 
@@ -14339,7 +14339,7 @@ aktien
 --- Seite 263 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 263 / 552 
-220
+220 
 2 In diesem Falle können Aktien, die einen kleineren Nennwert als an-
 dere Aktien der Gesellschaft haben, nur als Namenaktien ausgegeben 
 werden und müssen voll liberiert sein. Der Nennwert der übrigen Aktien 
@@ -14364,7 +14364,7 @@ Art. 695
 sonen, die in irgendeiner Weise an der Geschäftsführung teilgenommen 
 haben, kein Stimmrecht. 
 2 …498 
-Art. 696499 
+Art. 696499  
   
 494 Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992  
 (AS 1992 733; BBl 1983 II 745). 
@@ -14442,7 +14442,7 @@ oder Einsicht
 --- Seite 265 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 265 / 552 
-220
+220 
 Art. 697c503 
 1 Jeder Aktionär, der das Recht auf Auskunft oder das Recht auf Ein-
 sicht bereits ausgeübt hat, kann der Generalversammlung beantragen, 
@@ -14557,7 +14557,7 @@ und Bekanntgabe
 --- Seite 267 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 267 / 552 
-220
+220 
 Art. 697hbis 509 
 1 Die Gesellschaft trägt die Kosten der Sonderuntersuchung. Sie leistet 
 auch allfällige Kostenvorschüsse. 
@@ -14670,7 +14670,7 @@ pflichten515
 --- Seite 269 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 269 / 552 
-220
+220 
 Art. 697n516 
 1 Die Statuten können vorsehen, dass gesellschaftsrechtliche Streitig-
 keiten durch ein Schiedsgericht mit Sitz in der Schweiz beurteilt wer-
@@ -14781,7 +14781,7 @@ rufung
 --- Seite 271 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 271 / 552 
-220
+220 
 4 Sie müssen die Einberufung schriftlich verlangen. Die Verhandlungs-
 gegenstände und Anträge müssen im Begehren enthalten sein. 
 5 Entspricht der Verwaltungsrat dem Begehren nicht innert angemesse-
@@ -14888,7 +14888,7 @@ zu einem Antrag
 --- Seite 273 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 273 / 552 
-220
+220 
 Art. 701a532 
 1 Der Verwaltungsrat bestimmt den Tagungsort der Generalversamm-
 lung. 
@@ -14910,7 +14910,7 @@ standen sind.
 Art. 701c534 
 Der Verwaltungsrat kann vorsehen, dass Aktionäre, die nicht am Ort der 
 Generalversammlung anwesend sind, ihre Rechte auf elektronischem 
-Weg ausüben können.  
+Weg ausüben können.   
 Art 701d535 
 1 Eine Generalversammlung kann mit elektronischen Mitteln ohne 
 Tagungsort durchgeführt werden, wenn die Statuten dies vorsehen und 
@@ -15010,7 +15010,7 @@ men; Protokoll
 --- Seite 275 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 275 / 552 
-220
+220 
 3 Das Protokoll muss vom Protokollführer und vom Vorsitzenden der 
 Generalversammlung unterzeichnet werden.540 
 4 Jeder Aktionär kann verlangen, dass ihm das Protokoll innerhalb von 
@@ -15124,7 +15124,7 @@ barkeit der Aktien nicht gebunden.
 --- Seite 277 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 277 / 552 
-220
+220 
 Art. 704a549 
 Der Beschluss der Generalversammlung über die Umwandlung von In-
 haberaktien in Namenaktien kann mit der Mehrheit der abgegebenen 
@@ -15237,7 +15237,7 @@ keit559
 --- Seite 279 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 279 / 552 
-220
+220 
 B. Der Verwaltungsrat560 
 Art. 707 
 1 Der Verwaltungsrat der Gesellschaft besteht aus einem oder mehreren 
@@ -15345,7 +15345,7 @@ II. Organisation
 --- Seite 281 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 281 / 552 
-220
+220 
 Fall der Beschlussfassung auf elektronischem Weg ist keine 
 Unterschrift erforderlich; vorbehalten bleibt eine anderslau-
 tende, schriftliche Festlegung des Verwaltungsrats.571 
@@ -15453,7 +15453,7 @@ bare Aufgaben
 --- Seite 283 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 283 / 552 
-220
+220 
 einzelnen Mitgliedern zuweisen. Er hat für eine angemessene Bericht-
 erstattung an seine Mitglieder zu sorgen. 
 Art. 716b581 
@@ -15551,7 +15551,7 @@ Beschränkung
 --- Seite 285 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 285 / 552 
-220
+220 
 Art. 718b588 
 Wird die Gesellschaft beim Abschluss eines Vertrages durch diejenige 
 Person vertreten, mit der sie den Vertrag abschliesst, so muss der Ver-
@@ -15654,7 +15654,7 @@ unfähigkeit
 --- Seite 287 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 287 / 552 
-220
+220 
 Art. 725b598 
 1 Besteht begründete Besorgnis, dass die Verbindlichkeiten der Gesell-
 schaft nicht mehr durch die Aktiven gedeckt sind, so erstellt der Ver-
@@ -15763,7 +15763,7 @@ Revision
 --- Seite 289 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 289 / 552 
-220
+220 
 2.603 Gesellschaften, die zwei der nachstehenden Grössen in zwei 
 aufeinander folgenden Geschäftsjahren überschreiten: 
 a. 
@@ -15877,7 +15877,7 @@ Revisionsstelle
 --- Seite 291 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 291 / 552 
-220
+220 
 5. 
 die Übernahme eines Auftrags, der zur wirtschaftlichen Abhän-
 gigkeit führt; 
@@ -15993,7 +15993,7 @@ onsstelle609
 --- Seite 293 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 293 / 552 
-220
+220 
 2 Das Mitwirken bei der Buchführung und das Erbringen anderer 
 Dienstleistungen für die zu prüfende Gesellschaft sind zulässig. Sofern 
 das Risiko der Überprüfung eigener Arbeiten entsteht, muss durch ge-
@@ -16101,7 +16101,7 @@ wahrung
 --- Seite 295 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 295 / 552 
-220
+220 
 mindestens während zehn Jahren aufbewahren. Elektronische Daten 
 müssen während der gleichen Zeitperiode wieder lesbar gemacht wer-
 den können. 
@@ -16199,7 +16199,7 @@ Kraft seit 1. Nov. 2019 (AS 2019 3161; BBl 2019 279).
 --- Seite 297 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 297 / 552 
-220
+220 
 Vierter Abschnitt:615  
 Vergütungen bei Gesellschaften, deren Aktien an einer 
 Börse kotiert sind 
@@ -16311,7 +16311,7 @@ und den Beirat
 --- Seite 299 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 299 / 552 
-220
+220 
 Art. 734b 
 1 Im Vergütungsbericht sind anzugeben: 
 1. 
@@ -16436,7 +16436,7 @@ schäftsleitung
 --- Seite 301 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 301 / 552 
-220
+220 
 3 Die Generalversammlung stimmt nicht über den verwendeten Zusatz-
 betrag ab. 
 Art. 735b 
@@ -16478,7 +16478,7 @@ Grundsätze in den Statuten nicht vorgesehen sind;
 8. 
 die Zuteilung von Beteiligungspapieren, Wandel- und Options-
 rechten, deren Grundsätze in den Statuten nicht vorgesehen 
-sind.   
+sind.          
 E. Dauer der 
 Verträge 
 F. Unzulässige 
@@ -16546,7 +16546,7 @@ ter
 --- Seite 303 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 303 / 552 
-220
+220 
 Art. 738620 
 Die aufgelöste Gesellschaft tritt in Liquidation, unter Vorbehalt der 
 Fälle der Fusion, der Aufspaltung und der Übertragung ihres Vermö-
@@ -16652,7 +16652,7 @@ schutz
 --- Seite 305 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 305 / 552 
-220
+220 
 2 Ebenso ist für die nicht fälligen und die streitigen Verbindlichkeiten 
 der Gesellschaft ein entsprechender Betrag zu hinterlegen, sofern nicht 
 den Gläubigern eine gleichwertige Sicherheit bestellt oder die Vertei-
@@ -16706,7 +16706,7 @@ Verzeichnis
 Obligationenrecht 
 306 / 552 
 220 
-Art. 748–750629   
+Art. 748–750629        
 Art. 751 
 1 Wird das Vermögen einer Aktiengesellschaft vom Bunde, von einem 
 Kanton oder unter Garantie des Kantons von einem Bezirk oder von ei-
@@ -16720,7 +16720,7 @@ gens der Gesellschaft mit Einschluss der Schulden vollzogen, und es ist
 die Firma der Gesellschaft zu löschen. 
  
 Sechster Abschnitt: Verantwortlichkeit 
-Art. 752630  
+Art. 752630      
 Art. 753631 
 Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der 
 Gründung mitwirken, werden sowohl der Gesellschaft als den einzelnen 
@@ -16758,7 +16758,7 @@ haftung
 --- Seite 307 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 307 / 552 
-220
+220 
 2. 
 absichtlich oder fahrlässig die Eintragung der Gesellschaft in 
 das Handelsregister aufgrund einer Bescheinigung oder Ur-
@@ -16868,7 +16868,7 @@ beschlusses
 --- Seite 309 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 309 / 552 
-220
+220 
 Art. 759643 
 1 Sind für einen Schaden mehrere Personen ersatzpflichtig, so ist jede 
 von ihnen insoweit mit den anderen solidarisch haftbar, als ihr der Scha-
@@ -16958,7 +16958,7 @@ waltet werden, kommen, sofern der Kanton die subsidiäre Haftung für
 --- Seite 311 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 311 / 552 
-220
+220 
 deren Verbindlichkeiten übernimmt, die Bestimmungen über die Akti-
 engesellschaft auch dann nicht zur Anwendung, wenn das Kapital ganz 
 oder teilweise in Aktien zerlegt ist und unter Beteiligung von Privatper-
@@ -17060,7 +17060,7 @@ D. Auflösung
 --- Seite 313 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 313 / 552 
-220
+220 
 Art. 771 
 1 Dem unbeschränkt haftenden Gesellschafter steht das Recht der Kün-
 digung gleich einem Kollektivgesellschafter zu. 
@@ -17111,7 +17111,7 @@ Obligationenrecht
 Art. 774a 
 Die Statuten können die Schaffung von Genussscheinen vorsehen; die 
 Vorschriften des Aktienrechts sind entsprechend anwendbar. 
-Art. 775656  
+Art. 775656    
 Art. 776 
 Die Statuten müssen Bestimmungen enthalten über: 
 1. 
@@ -17123,7 +17123,7 @@ die Höhe des Stammkapitals sowie die Anzahl und den Nenn-
 wert der Stammanteile; 
 4.657 die Form der Mitteilungen der Gesellschaft an ihre Gesellschaf-
 ter. 
-Art. 776a658  
+Art. 776a658    
 Art. 777 
 1 Die Gesellschaft wird errichtet, indem die Gründer in öffentlicher 
 Urkunde erklären, eine Gesellschaft mit beschränkter Haftung zu grün-
@@ -17163,7 +17163,7 @@ I. Errichtungsakt
 --- Seite 315 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 315 / 552 
-220
+220 
 5.660 dass keine anderen Sacheinlagen, Verrechnungstatbestände 
 oder besonderen Vorteile bestehen, als die in den Belegen ge-
 nannten. 
@@ -17227,8 +17227,8 @@ sonderen Vorteile in den Statuten;
 die Leistung und die Prüfung der Einlagen. 
 Art. 778 
 Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem 
-sie ihren Sitz hat.  
-Art. 778a664  
+sie ihren Sitz hat.    
+Art. 778a664    
 Art. 779 
 1 Die Gesellschaft erlangt das Recht der Persönlichkeit durch die Ein-
 tragung ins Handelsregister. 
@@ -17273,7 +17273,7 @@ pflichtungen
 --- Seite 317 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 317 / 552 
-220
+220 
 Art. 780665 
 Der Beschluss der Gesellschafterversammlung oder der Geschäftsführer 
 über eine Änderung der Statuten ist öffentlich zu beurkunden und ins 
@@ -17380,7 +17380,7 @@ a. Form
 --- Seite 319 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 319 / 552 
-220
+220 
 2 In den Abtretungsvertrag müssen dieselben Hinweise auf statutarische 
 Rechte und Pflichten aufgenommen werden wie in die Urkunde über die 
 Zeichnung der Stammanteile, ausser wenn der Erwerber bereits Gesell-
@@ -17478,7 +17478,7 @@ Werts
 --- Seite 321 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 321 / 552 
-220
+220 
 Art. 790 
 1 Die Gesellschaft führt über die Stammanteile ein Anteilbuch. Sie muss 
 es so führen, dass in der Schweiz jederzeit darauf zugegriffen werden 
@@ -17585,7 +17585,7 @@ Gesellschafter
 --- Seite 323 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 323 / 552 
-220
+220 
 Art. 795 
 1 Die Statuten können die Gesellschafter zur Leistung von Nachschüs-
 sen verpflichten. 
@@ -17690,7 +17690,7 @@ men
 --- Seite 325 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 325 / 552 
-220
+220 
 Art. 798a und 798b676 
 Art. 799 
 Für Vorzugsstammanteile sind die Vorschriften des Aktienrechts über 
@@ -17795,7 +17795,7 @@ I. Aufgaben
 --- Seite 327 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 327 / 552 
-220
+220 
 5bis.681 die Beschlussfassung über die Rückzahlung von Kapitalre-
 serven; 
 6. 
@@ -17900,7 +17900,7 @@ III. Stimmrecht
 --- Seite 329 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 329 / 552 
-220
+220 
 2 Die Statuten können das Stimmrecht unabhängig vom Nennwert so 
 festsetzen, dass auf jeden Stammanteil eine Stimme entfällt. In diesem 
 Fall müssen die Stammanteile mit dem tiefsten Nennwert mindestens 
@@ -18009,11 +18009,11 @@ Beschlüsse
 --- Seite 331 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 331 / 552 
-220
+220 
 Art. 808c 
 Für die Anfechtung der Beschlüsse der Gesellschafterversammlung sind 
 die Vorschriften des Aktienrechts entsprechend anwendbar. 
- 
+  
 Art. 809 
 1 Alle Gesellschafter üben die Geschäftsführung gemeinsam aus. Die 
 Statuten können die Geschäftsführung abweichend regeln. 
@@ -18106,7 +18106,7 @@ forderlich ist.
 Art. 813 
 Die Geschäftsführer sowie Dritte, die mit der Geschäftsführung befasst 
 sind, haben die Gesellschafter unter gleichen Voraussetzungen gleich 
-zu behandeln.    
+zu behandeln.           
   
 690 Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit  
 1. Jan. 2023 (AS 2020 4005; 2022 109; BBl 2017 399). 
@@ -18124,7 +18124,7 @@ behandlung
 --- Seite 333 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 333 / 552 
-220
+220 
 Art. 814 
 1 Jeder Geschäftsführer ist zur Vertretung der Gesellschaft berechtigt. 
 2 Die Statuten können die Vertretung abweichend regeln, jedoch muss 
@@ -18157,7 +18157,7 @@ worden, so ist unverzüglich eine Gesellschafterversammlung einzube-
 rufen. 
 5 Entschädigungsansprüche der abberufenen oder in ihren Funktionen 
 eingestellten Personen bleiben vorbehalten. 
- 
+   
   
 691 Fassung gemäss Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten 
 Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015  
@@ -18233,7 +18233,7 @@ I. Gründe
 --- Seite 335 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 335 / 552 
-220
+220 
 3 Jeder Gesellschafter kann beim Gericht die Auflösung der Gesell-
 schaft aus wichtigem Grund verlangen. Das Gericht kann statt auf Auf-
 lösung auf eine andere sachgemässe und den Beteiligten zumutbare Lö-
@@ -18333,7 +18333,7 @@ C. Liquidation
 --- Seite 337 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 337 / 552 
-220
+220 
 2 Für die Auflösung der Gesellschaft mit Liquidation sind die Vorschrif-
 ten des Aktienrechts entsprechend anwendbar. 
  
@@ -18443,7 +18443,7 @@ Bestimmungen
 --- Seite 339 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 339 / 552 
-220
+220 
 6. 
 von den gesetzlichen Bestimmungen abweichende Vorschriften 
 über die Organisation, die Vertretung, die Abänderung der Sta-
@@ -18468,8 +18468,8 @@ Mitgliedschaft nur durch Unterzeichnung der Statuten begründet wer-
 den. 
 Art. 835704 
 Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem 
-sie ihren Sitz hat.  
-Art. 836705  
+sie ihren Sitz hat.    
+Art. 836705    
   
 702 Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit  
 1. Jan. 2023 (AS 2020 4005; 2022 109; BBl 2017 399). 
@@ -18541,7 +18541,7 @@ A. Grundsatz
 --- Seite 341 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 341 / 552 
-220
+220 
 Art. 840 
 1 Zum Beitritt bedarf es einer schriftlichen Erklärung. 
 2 Besteht bei einer Genossenschaft neben der Haftung des Genossen-
@@ -18646,7 +18646,7 @@ schafters
 --- Seite 343 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 343 / 552 
-220
+220 
 4 Die Erbengemeinschaft hat für die Beteiligung an der Genossenschaft 
 einen gemeinsamen Vertreter zu bestellen. 
 Art. 848 
@@ -18761,7 +18761,7 @@ berichts709
 --- Seite 345 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 345 / 552 
-220
+220 
 2 Sofern die Unterlagen nicht elektronisch zugänglich sind, kann jeder 
 Genossenschafter während eines Jahres nach der Generalversammlung 
 verlangen, dass ihm der Geschäftsbericht in der von der Generalver-
@@ -18784,7 +18784,7 @@ den.
 4 Das Kontrollrecht der Genossenschafter kann weder durch die Statu-
 ten noch durch Beschlüsse eines Genossenschaftsorgans aufgehoben 
 oder beschränkt werden. 
-Art. 858713   
+Art. 858713         
 Art. 859 
 1 Ein Jahresgewinn aus dem Betriebe der Genossenschaft fällt, wenn die 
 Statuten es nicht anders bestimmen, in seinem ganzen Umfange in das 
@@ -18863,7 +18863,7 @@ senschaften
 --- Seite 347 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 347 / 552 
-220
+220 
 Art. 862 
 1 Die Statuten können insbesondere auch Fonds zur Gründung und Un-
 terstützung von Wohlfahrtseinrichtungen für Angestellte und Arbeiter 
@@ -18949,7 +18949,7 @@ schliessung fällig werdenden Verpflichtungen befreit.
 Art. 868 
 Für die Verbindlichkeiten der Genossenschaft haftet das Genossen-
 schaftsvermögen. Es haftet ausschliesslich, sofern die Statuten nichts 
-anderes bestimmen.  
+anderes bestimmen.   
 2. Nach Gesetz 
 E. Pflichten 
 I. Treuepflicht 
@@ -18963,7 +18963,7 @@ schaft
 --- Seite 349 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 349 / 552 
-220
+220 
 Art. 869 
 1 Die Statuten können, ausgenommen bei konzessionierten Versiche-
 rungsgenossenschaften, die Bestimmung aufstellen, dass nach dem Ge-
@@ -19067,7 +19067,7 @@ bestimmungen
 --- Seite 351 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 351 / 552 
-220
+220 
 Art. 875 
 1 Wer in eine Genossenschaft mit persönlicher Haftung oder mit Nach-
 schusspflicht der Genossenschafter eintritt, haftet gleich den andern Ge-
@@ -19176,7 +19176,7 @@ mung
 --- Seite 353 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 353 / 552 
-220
+220 
 Art. 881 
 1 Die Generalversammlung wird durch die Verwaltung oder ein anderes 
 nach den Statuten dazu befugtes Organ, nötigenfalls durch die Revisi-
@@ -19281,7 +19281,7 @@ schafter
 --- Seite 355 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 355 / 552 
-220
+220 
 2 Solche Beschlüsse sind für Genossenschafter, die nicht zugestimmt 
 haben, nicht verbindlich, wenn sie binnen drei Monaten seit der Veröf-
 fentlichung des Beschlusses den Austritt erklären. Dieser Austritt ist 
@@ -19362,7 +19362,7 @@ sonen; die Mehrheit muss aus Genossenschaftern bestehen.
 gesellschaft beteiligt, so ist sie als solche nicht als Mitglied der Verwal-
 tung wählbar; dagegen können an ihrer Stelle ihre Vertreter gewählt 
 werden. 
-Art. 895732    
+Art. 895732      
   
 730 Fassung gemäss Anhang Ziff. 2 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit  
 1. Juli 2004 (AS 2004 2617; BBl 2000 4337). 
@@ -19388,7 +19388,7 @@ I. Wählbarkeit
 --- Seite 357 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 357 / 552 
-220
+220 
 Art. 896 
 1 Die Mitglieder der Verwaltung werden auf höchstens vier Jahre ge-
 wählt, sind aber, wenn die Statuten nicht etwas anderes bestimmen, wie-
@@ -19454,7 +19454,7 @@ Art. 900
 Die zur Vertretung der Genossenschaft befugten Personen haben in der 
 Weise zu zeichnen, dass sie der Firma der Genossenschaft ihre Unter-
 schrift beifügen. 
-Art. 901737  
+Art. 901737    
 Art. 902 
 1 Die Verwaltung hat die Geschäfte der Genossenschaft mit aller Sorg-
 falt zu leiten und die genossenschaftliche Aufgabe mit besten Kräften 
@@ -19476,7 +19476,7 @@ zeichnis geführt werden;
 2. 
 der Geschäftsbericht nach den gesetzlichen Vorschriften aufge-
 stellt und der Revisionsstelle zur Prüfung unterbreitet wird; und  
- 
+   
   
 735 Eingefügt durch Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen 
 im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit  
@@ -19499,7 +19499,7 @@ Allgemeinen
 --- Seite 359 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 359 / 552 
-220
+220 
 3. 
 die Anzeigen an das Handelsregisteramt über Eintritt und Aus-
 tritt der Genossenschafter gemacht werden.738 
@@ -19612,7 +19612,7 @@ Organisation
 --- Seite 361 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 361 / 552 
-220
+220 
 Sechster Abschnitt: Auflösung der Genossenschaft 
 Art. 911 
 Die Genossenschaft wird aufgelöst: 
@@ -19666,7 +19666,7 @@ Vermögens
 Obligationenrecht 
 362 / 552 
 220 
-Art. 914748  
+Art. 914748    
 Art. 915 
 1 Wird das Vermögen einer Genossenschaft vom Bunde, von einem 
 Kanton oder unter Garantie des Kantons von einem Bezirk oder von ei-
@@ -19720,7 +19720,7 @@ Gläubigern
 --- Seite 363 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 363 / 552 
-220
+220 
 Art. 918 
 1 Sind mehrere Personen für denselben Schaden verantwortlich, so haf-
 ten sie solidarisch. 
@@ -19819,7 +19819,7 @@ tungen
 --- Seite 365 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 365 / 552 
-220
+220 
 nur der Körperschaft selbst zu.753 Diese haftet gegenüber der Genossen-
 schaft, den Genossenschaftern und den Gläubiger für diese Mitglieder, 
 unter Vorbehalt des Rückgriffs nach dem Rechte des Bundes und der 
@@ -19926,7 +19926,7 @@ nummer
 --- Seite 367 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 367 / 552 
-220
+220 
 2 Sie geben die AHV-Nummer nur anderen Stellen und Institutionen 
 bekannt, die sie zur Erfüllung ihrer gesetzlichen Aufgaben im Zusam-
 menhang mit dem Handelsregister benötigen und zur systematischen 
@@ -20019,7 +20019,7 @@ sung aus dem Handelsregister gelöscht.
 Art. 935 
 1 Wer ein schutzwürdiges Interesse glaubhaft macht, kann dem Gericht 
 beantragen, eine gelöschte Rechtseinheit wieder ins Handelsregister 
-eintragen zu lassen.  
+eintragen zu lassen.     
   
 758 Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit  
 1. Jan. 2023 (AS 2020 4005; 2022 109; BBl 2017 399). 
@@ -20046,7 +20046,7 @@ tragung
 --- Seite 369 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 369 / 552 
-220
+220 
 2 Ein schutzwürdiges Interesse besteht insbesondere, wenn: 
 1. 
 nach Abschluss der Liquidation der gelöschten Rechtseinheit 
@@ -20156,7 +20156,7 @@ bussen
 --- Seite 371 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 371 / 552 
-220
+220 
 Art. 941 
 1 Wer eine Verfügung einer Handelsregisterbehörde veranlasst oder von 
 dieser eine Dienstleistung beansprucht, hat eine Gebühr zu bezahlen. 
@@ -20271,7 +20271,7 @@ Firma
 --- Seite 373 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 373 / 552 
-220
+220 
 3 Gegenüber einer an einem andern Orte eingetragenen Einzelfirma764 
 bleiben die Ansprüche aus unlauterem Wettbewerb vorbehalten. 
 Art. 947 und 948765 
@@ -20294,7 +20294,7 @@ beifügen, sofern diese nur für die Zweigniederlassung zutreffen.
 sich im Auslande befindet, muss überdies den Ort der Hauptniederlas-
 sung, den Ort der Zweigniederlassung und die ausdrückliche Bezeich-
 nung als solche enthalten. 
-Art. 953769  
+Art. 953769    
   
 764 Heute: Firma. 
 765 Aufgehoben durch Ziff. I des BG vom 25. Sept. 2015 (Firmenrecht), mit Wirkung seit  
@@ -20380,7 +20380,7 @@ Firma773
 --- Seite 375 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 375 / 552 
-220
+220 
 Zweiunddreissigster Titel:774  
 Kaufmännische Buchführung, Rechnungslegung,  
 weitere Transparenz- und Sorgfaltspflichten775 
@@ -20495,7 +20495,7 @@ Abgrenzung
 --- Seite 377 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 377 / 552 
-220
+220 
 2 Sofern die Nettoerlöse aus Lieferungen und Leistungen oder die Fi-
 nanzerträge 100 000 Franken nicht überschreiten, kann auf die zeitliche 
 Abgrenzung verzichtet und stattdessen auf Ausgaben und Einnahmen 
@@ -20607,7 +20607,7 @@ bücher
 --- Seite 379 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 379 / 552 
-220
+220 
 Zweiter Abschnitt:  
 Jahresrechnung und Zwischenabschluss780 
 Art. 959 
@@ -20733,7 +20733,7 @@ Beteiligten und Organen sowie gegenüber Unternehmen, an denen
 --- Seite 381 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 381 / 552 
-220
+220 
 direkt oder indirekt eine Beteiligung besteht, müssen jeweils gesondert 
 in der Bilanz oder im Anhang ausgewiesen werden. 
 Art. 959b 
@@ -20850,7 +20850,7 @@ C. Anhang
 --- Seite 383 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 383 / 552 
-220
+220 
 7. 
 Verbindlichkeiten gegenüber Vorsorgeeinrichtungen; 
 8. 
@@ -20951,7 +20951,7 @@ Marktpreisen
 --- Seite 385 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 385 / 552 
-220
+220 
 fere Kurswert unterschritten würden. Der Betrag der Schwankungsre-
 serven ist insgesamt in der Bilanz oder im Anhang gesondert auszuwei-
 sen. 
@@ -21058,7 +21058,7 @@ Jahresrechnung
 --- Seite 387 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 387 / 552 
-220
+220 
 2. 
 zum Honorar der Revisionsstelle je gesondert für Revisions-
 dienstleistungen und andere Dienstleistungen. 
@@ -21172,7 +21172,7 @@ legung
 --- Seite 389 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 389 / 552 
-220
+220 
 3 Die Einhaltung des anerkannten Standards muss durch einen zugelas-
 senen Revisionsexperten geprüft werden. Es ist eine ordentliche Revi-
 sion des Abschlusses durchzuführen. 
@@ -21282,7 +21282,7 @@ legung
 --- Seite 391 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 391 / 552 
-220
+220 
 3 Die Konzernrechnung von übrigen Unternehmen untersteht den 
 Grundsätzen ordnungsmässiger Rechnungslegung. Im Anhang zur Kon-
 zernrechnung nennt das Unternehmen die Bewertungsregeln. Weicht es 
@@ -21379,7 +21379,7 @@ des Berichts
 --- Seite 393 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 393 / 552 
-220
+220 
 4 Kontrolliert ein Unternehmen allein oder zusammen mit anderen Un-
 ternehmen ein oder mehrere andere in- oder ausländische Unternehmen, 
 so umfasst der Bericht alle diese Unternehmen. 
@@ -21483,7 +21483,7 @@ halt des Berichts
 --- Seite 395 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 395 / 552 
-220
+220 
 auch Zahlungen in mehreren Teilbeträgen, die zusammen mindestens 
 100 000 Franken erreichen. 
 3 Anzugeben ist der Betrag der Zahlungen, die insgesamt und aufge-
@@ -21579,7 +21579,7 @@ erstattung
 --- Seite 397 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 397 / 552 
-220
+220 
 3 Das oberste Leitungs- oder Verwaltungsorgan stellt sicher, dass der 
 Bericht: 
 1.  innerhalb von sechs Monaten seit Ablauf des Geschäftsjahres 
@@ -21679,7 +21679,7 @@ Wirkung
 --- Seite 399 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 399 / 552 
-220
+220 
 2 Im übrigen kommen für das Verfahren und die Wirkung der Kraftlos-
 erklärung die bei den einzelnen Arten von Wertpapieren aufgestellten 
 Bestimmungen zur Anwendung. 
@@ -21795,7 +21795,7 @@ I. Errichtung
 --- Seite 401 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 401 / 552 
-220
+220 
 4.  Die Gläubiger können die sie betreffenden Informationen und 
 Registereinträge einsehen sowie die Integrität des sie betreffen-
 den Registerinhalts ohne Zutun Dritter überprüfen. 
@@ -21902,7 +21902,7 @@ erklärung
 --- Seite 403 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 403 / 552 
-220
+220 
 2 Die Parteien können eine vereinfachte Kraftloserklärung durch Herab-
 setzung der Zahl der öffentlichen Aufforderungen oder durch Verkür-
 zung der Fristen vorsehen. 
@@ -22004,7 +22004,7 @@ zinscoupons
 --- Seite 405 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 405 / 552 
-220
+220 
 ihm nicht mit dem Haupttitel abgeliefert werden, bis nach Ablauf der 
 für diese Coupons geltenden Verjährungsfrist zurückzubehalten, es sei 
 denn, dass die nicht abgelieferten Coupons kraftlos erklärt worden sind 
@@ -22110,7 +22110,7 @@ Papieren
 --- Seite 407 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 407 / 552 
-220
+220 
 Art. 989817 
 Vorbehalten bleiben die besondern Bestimmungen über den Schuld-
 brief, der auf den Inhaber lautet. 
@@ -22215,7 +22215,7 @@ gung
 --- Seite 409 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 409 / 552 
-220
+220 
 Vertretene haben würde. Das gleiche gilt von einem Vertreter, der seine 
 Vertretungsbefugnis überschritten hat. 
 Art. 999 
@@ -22317,7 +22317,7 @@ des Inhabers
 --- Seite 411 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 411 / 552 
-220
+220 
 Art. 1008 
 1 Enthält das Indossament den Vermerk «Wert zur Einziehung», «zum 
 Inkasso», «in Prokura» oder einen anderen nur eine Bevollmächtigung 
@@ -22422,7 +22422,7 @@ der Annahme
 --- Seite 413 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 413 / 552 
-220
+220 
 Aussteller zu wahren, diese Unterlassung rechtzeitig durch einen Protest 
 feststellen lassen. 
 Art. 1016 
@@ -22520,7 +22520,7 @@ Allgemeinen
 --- Seite 415 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 415 / 552 
-220
+220 
 2 Wechsel mit anderen oder mit mehreren aufeinander folgenden Ver-
 fallzeiten sind nichtig. 
 Art. 1024 
@@ -22564,7 +22564,7 @@ wechseln
 4. Fristen-
 berechnung 
 5. Zeit-
-berechnung nach 
+berechnung nach  
 altem Stil 
 
 --- Seite 416 ---
@@ -22618,7 +22618,7 @@ und bei Verfall
 --- Seite 417 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 417 / 552 
-220
+220 
 Art. 1031 
 1 Lautet der Wechsel auf eine Währung, die am Zahlungsorte nicht gilt, 
 so kann die Wechselsumme in der Landeswährung nach dem Werte ge-
@@ -22718,7 +22718,7 @@ c. Inhalt
 --- Seite 419 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 419 / 552 
-220
+220 
 2. 
 die Angabe, dass die Person oder die Firma, gegen die der Pro-
 test erhoben wird, ohne Erfolg zur Vornahme der wechselrecht-
@@ -22824,7 +22824,7 @@ gung
 --- Seite 421 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 421 / 552 
-220
+220 
 6 Wer die rechtzeitige Benachrichtigung versäumt, verliert nicht den 
 Rückgriff; er haftet für den etwa durch seine Nachlässigkeit entstande-
 nen Schaden, jedoch nur bis zur Höhe der Wechselsumme. 
@@ -22935,7 +22935,7 @@ e. Rückwechsel
 --- Seite 423 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 423 / 552 
-220
+220 
 2 Der Rückwechsel umfasst, ausser den in den Artikeln 1045 und 1046 
 angegebenen Beträgen, die Mäklergebühr und die Stempelgebühr für 
 den Rückwechsel. 
@@ -23030,7 +23030,7 @@ Bereicherung
 --- Seite 425 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 425 / 552 
-220
+220 
 IX. Ehreneintritt 
 Art. 1054 
 1 Der Aussteller sowie jeder Indossant oder Wechselbürge kann eine 
@@ -23136,7 +23136,7 @@ Quittung
 --- Seite 427 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 427 / 552 
-220
+220 
 Art. 1062 
 1 Der Ehrenzahler erwirbt die Rechte aus dem Wechsel gegen den 
 Wechselverpflichteten, für den er gezahlt hat, und gegen die Personen, 
@@ -23237,7 +23237,7 @@ der Urschrift
 --- Seite 429 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 429 / 552 
-220
+220 
 XI. Änderungen des Wechsels 
 Art. 1068 
 Wird der Text eines Wechsels geändert, so haften diejenigen, die nach 
@@ -23326,7 +23326,7 @@ c. Fristen
 --- Seite 431 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 431 / 552 
-220
+220 
 3 Die Frist läuft bei verfallenen Wechseln vom Tage der ersten öffentli-
 chen Bekanntmachung, bei noch nicht verfallenen Wechseln vom Ver-
 fall an. 
@@ -23392,7 +23392,7 @@ Bei der Berechnung der gesetzlichen oder im Wechsel bestimmten Fris-
 ten wird der Tag, von dem sie zu laufen beginnen, nicht mitgezählt. 
 Art. 1083 
 Weder gesetzliche noch richterliche Respekttage werden anerkannt. 
- 
+   
 Art. 1084 
 1 Die Vorlegung zur Annahme oder zur Zahlung, die Protesterhebung, 
 das Begehren um Aushändigung einer Ausfertigung des Wechsels so-
@@ -23433,7 +23433,7 @@ Blinden
 --- Seite 433 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 433 / 552 
-220
+220 
 XV. Geltungsbereich der Gesetze 
 Art. 1086 
 1 Die Fähigkeit einer Person, eine Wechselverbindlichkeit einzugehen, 
@@ -23545,7 +23545,7 @@ erklärung
 --- Seite 435 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 435 / 552 
-220
+220 
 4. 
 die Angabe des Zahlungsortes; 
 5. 
@@ -23580,7 +23580,7 @@ den Rückgriff mangels Zahlung (Art. 1033–1047, 1049–1051);
  
 die Ehrenzahlung (Art. 1054, 1058–1062); 
  
-die Abschriften (Art. 1066 und 1067);  
+die Abschriften (Art. 1066 und 1067);   
 die Änderungen (Art. 1068); 
  
 die Verjährung (Art. 1069–1071); 
@@ -23664,7 +23664,7 @@ Erfordernissen
 --- Seite 437 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 437 / 552 
-220
+220 
 4 Ein Check ohne Angabe des Ausstellungsortes gilt als ausgestellt an 
 dem Orte, der bei dem Namen des Ausstellers angegeben ist. 
 Art. 1102 
@@ -23763,7 +23763,7 @@ des Inhabers
 --- Seite 439 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 439 / 552 
-220
+220 
 Art. 1111 
 Ein Indossament auf einem Inhabercheck macht den Indossanten nach 
 den Vorschriften über den Rückgriff haftbar, ohne aber die Urkunde in 
@@ -23852,7 +23852,7 @@ seit 1. Mai 2004 (AS 2004 1985; BBl 2002 6097).
 2. Vorlegung  
 zur Zahlung 
 3. Zeit-
-berechnung nach 
+berechnung nach  
 altem Stil 
 4. Einlieferung 
 in eine  
@@ -23869,7 +23869,7 @@ Konkurs
 --- Seite 441 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 441 / 552 
-220
+220 
 Art. 1121 
 Der Bezogene, der einen durch Indossament übertragbaren Check ein-
 löst, ist verpflichtet, die Ordnungsmässigkeit der Reihe der Indossa-
@@ -23969,7 +23969,7 @@ vollstreckung
 --- Seite 443 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 443 / 552 
-220
+220 
 2 Dasselbe gilt, wenn der Inhaber infolge von Massnahmen, die auf 
 Grund des Bankengesetzes vom 8. November 1934824 getroffen worden 
 sind, über die Gutschrift beim Bezogenen nicht verfügen kann. 
@@ -24077,7 +24077,7 @@ höheren Gewalt
 --- Seite 445 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 445 / 552 
-220
+220 
 mehreren gleichen Ausfertigungen ausgestellt werden. Diese Ausferti-
 gungen müssen im Texte der Urkunde mit fortlaufenden Nummern ver-
 sehen sein; andernfalls gilt jede Ausfertigung als besonderer Check. 
@@ -24151,7 +24151,7 @@ wenn sie den Formerfordernissen des schweizerischen Rechts genügt.
 Art. 1140 
 Die Wirkungen der Checkerklärungen bestimmen sich nach dem Recht 
 des Landes, in dessen Gebiete die Erklärungen unterschrieben worden 
-sind.  
+sind.    
 Art. 1141 
 Das Recht des Landes, in dessen Gebiet der Check zahlbar ist, bestimmt: 
 1. 
@@ -24179,7 +24179,7 @@ Zahlungsortes
 --- Seite 447 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 447 / 552 
-220
+220 
 2. 
 die Vorlegungsfrist; 
 3. 
@@ -24282,13 +24282,13 @@ Vorbehalten bleiben die besondern Bestimmungen über den Postcheck.
 --- Seite 449 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 449 / 552 
-220
+220 
 Sechster Abschnitt:  
 Wechselähnliche und andere Ordrepapiere 
 Art. 1145 
 Ein Wertpapier gilt als Ordrepapier, wenn es an Ordre lautet oder vom 
 Gesetze als Ordrepapier erklärt ist. 
- 
+   
 Art. 1146 
 1 Wer aus einem Ordrepapier in Anspruch genommen wird, kann sich 
 nur solcher Einreden bedienen, die entweder gegen die Gültigkeit der 
@@ -24393,7 +24393,7 @@ nen829
 --- Seite 451 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 451 / 552 
-220
+220 
 2. 
 den Namen und den Wohnort des Ausstellers; 
 3. 
@@ -24494,7 +24494,7 @@ I. Bestellung
 --- Seite 453 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 453 / 552 
-220
+220 
 Art. 1159 
 1 Der Vertreter hat die Befugnisse, die ihm durch das Gesetz, die Anlei-
 hensbedingungen oder die Gläubigerversammlung übertragen werden. 
@@ -24594,7 +24594,7 @@ Allgemeinen
 --- Seite 455 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 455 / 552 
-220
+220 
 3 Entspricht der Schuldner diesem Begehren nicht, so kann das  
 Gericht die Gesuchsteller ermächtigen, von sich aus eine Gläubigerver-
 sammlung einzuberufen. Zwingend zuständig ist das Gericht am gegen-
@@ -24707,7 +24707,7 @@ Gemeinschaft
 --- Seite 457 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 457 / 552 
-220
+220 
 8. 
 Zustimmung zu einer Änderung der Bestimmungen über Be-
 schränkung der Obligationenausgabe im Verhältnis zum Ak-
@@ -24746,7 +24746,7 @@ in den Anleihensbedingungen vorgesehen noch mit ihm bei der Bege-
 bung der Obligation vereinbart worden sind. 
 2 Zu einer Vermehrung der Gläubigerrechte ist die Gläubigergemein-
 schaft ohne Zustimmung des Schuldners nicht befugt. 
- 
+  
 b. Bei mehreren 
 Gemeinschaften 
 c. Feststellung 
@@ -24812,7 +24812,7 @@ setzungen
 --- Seite 459 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 459 / 552 
-220
+220 
 2. 
 wenn der zur Abwendung einer Notlage des Schuldners gefasste 
 Beschluss sich als nicht notwendig herausstellt; 
@@ -24920,7 +24920,7 @@ nehmungen
 --- Seite 461 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 461 / 552 
-220
+220 
 3 Für die Einberufung der Gläubigerversammlung, die Beurkundung, 
 die Genehmigung und die Ausführung ihrer Beschlüsse ist das Bundes-
 gericht zuständig. 
@@ -24997,7 +24997,7 @@ D. Inkrafttreten
 --- Seite 463 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 463 / 552 
-220
+220 
  
 Übergangsbestimmungen der Änderung  
 vom 16. Dezember 2005846 
@@ -25084,7 +25084,7 @@ schüsse.
 Art. 7 
 Die Bestimmungen dieses Gesetzes zur Revisionsstelle gelten vom ers-
 ten Geschäftsjahr an, das mit dem Inkrafttreten dieses Gesetzes oder da-
-nach beginnt.    
+nach beginnt.        
 D. Partizipa-
 tionsscheine und 
 Genussscheine 
@@ -25098,7 +25098,7 @@ stelle
 --- Seite 465 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 465 / 552 
-220
+220 
 Art. 8 
 1 Gesellschaften mit beschränkter Haftung, die das Stimmrecht vor dem 
 Inkrafttreten dieses Gesetzes unabhängig vom Nennwert der Stamman-
@@ -25178,7 +25178,7 @@ der zweiten Anwendung müssen nur die Zahlen des Vorjahres angege-
 ben werden. Werden Zahlen der vorgängigen Geschäftsjahre genannt, 
 so kann auf die Stetigkeit der Darstellung und die Gliederung verzichtet 
 werden. Im Anhang ist auf diesen Umstand hinzuweisen. 
-   
+     
   
 850 AS 2012 6679; BBl 2008 1589 
 851 SR 210 
@@ -25192,7 +25192,7 @@ nungslegung
 --- Seite 467 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 467 / 552 
-220
+220 
 Übergangsbestimmungen der Änderung  
 vom 12. Dezember 2014852 
 Art. 1 
@@ -25291,7 +25291,7 @@ Rechts
 --- Seite 469 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 469 / 552 
-220
+220 
 Übergangsbestimmungen zur Änderung vom  
 21. Juni 2019858 
 Art. 1 
@@ -25312,7 +25312,7 @@ Die Artikel 4–8 gelten für Gesellschaften, die keine Beteiligungspapiere
 an einer Börse kotiert haben und deren Inhaberaktien nicht als Buchef-
 fekten ausgestaltet sind, sowie für Gesellschaften, die keine Eintragung 
 nach Artikel 622 Absatz 2bis verlangt haben. 
-  
+       
 Art. 4 
 1 Haben Aktiengesellschaften und Kommanditaktiengesellschaften 
 18 Monate nach Inkrafttreten von Artikel 622 Absatz 1bis noch Inhaber-
@@ -25409,7 +25409,7 @@ der Meldung
 --- Seite 471 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 471 / 552 
-220
+220 
 nach Inkrafttreten von Artikel 622 Absatz 1bis mit vorgängiger Zustim-
 mung der Gesellschaft beim Gericht ihre Eintragung in das Aktienbuch 
 der Gesellschaft beantragen. Das Gericht heisst den Antrag gut, wenn 
@@ -25514,7 +25514,7 @@ ternehmen
 --- Seite 473 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 473 / 552 
-220
+220 
 Übergangsbestimmung zur Änderung vom 19. Juni 2020862 
 Die Vorschriften des 6. Abschnitts und des 8. Abschnitts des 32. Titels 
 finden erstmals Anwendung auf das Geschäftsjahr, das ein Jahr nach 
@@ -25557,9 +25557,9 @@ Art. 1
 Art. 2 
 …868  
 Art. 3 
-…869  
+…869   
 Art. 4 
-…870  
+…870   
 Art. 5 
 …871  
 Art. 6 
@@ -25608,7 +25608,7 @@ Vorschriften
 --- Seite 475 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 475 / 552 
-220
+220 
 5. 
 das Bundesgesetz vom 13. Juni 1941875 über das Anstellungs-
 verhältnis der Handelsreisenden, 
@@ -25711,7 +25711,7 @@ C. Inkrafttreten
 --- Seite 477 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 477 / 552 
-220
+220 
 Übergangsbestimmungen zum XX. Titel888 
 1 Die Bestimmungen des neuen Rechts finden Anwendung auf alle 
 Bürgschaften, die nach dem Inkrafttreten dieses Gesetzes eingegangen 
@@ -25793,7 +25793,7 @@ zur Gründung und Unterstützung von Wohlfahrtseinrichtungen für An-
 gestellte und Arbeiter sowie für Genossenschafter erkennbar gewidmet, 
 so haben sie diese Fonds binnen fünf Jahren den Bestimmungen der Ar-
 tikel 673893 und 862894 anzupassen. 
-Art. 4895 
+Art. 4895  
   
 891 Eingefügt durch das BG vom 18. Dez. 1936, in Kraft seit 1. Juli 1937 (AS 53 185;  
 BBl 1928 I 205, 1932 I 217). 
@@ -25817,7 +25817,7 @@ fonds
 --- Seite 479 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 479 / 552 
-220
+220 
 Art. 5 
 1 Der Bundesrat ist berechtigt, wenn ausserordentliche wirtschaftliche 
 Verhältnisse es erfordern, Bestimmungen zu erlassen, die den Bilanz-
@@ -25827,7 +25827,7 @@ tes ist zu veröffentlichen.
 2 Wenn bei der Aufstellung einer Bilanz ein solcher Bundesratsbe-
 schluss zur Anwendung gekommen ist, ist dies in der Bilanz zu vermer-
 ken. 
-Art. 6896 
+Art. 6896    
 Art. 7 
 1 Durch Veränderungen, die nach den Vorschriften dieses Gesetzes in 
 den Haftungsverhältnissen der Genossenschafter eintreten, werden die 
@@ -25902,9 +25902,9 @@ Für Fälle, auf die die Bestimmungen der Verordnung vom 20. Februar
 1918898 betreffend die Gläubigergemeinschaft bei Anleihensobligatio-
 nen und der ergänzenden Bundesratsbeschlüsse899 angewendet worden 
 sind, gelten diese Vorschriften auch fernerhin. 
-Art. 14900 
+Art. 14900    
 Art. 15 
-…901  
+…901     
   
 898 [AS 34 231; 35 297; 36 623 893] 
 899 [AS 51 673; 53 454; 57 1514; 58 934; 62 1088; 63 1342] 
@@ -25929,12 +25929,12 @@ Konkursgesetzes
 --- Seite 481 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 481 / 552 
-220
+220 
 Art. 16 
 Die Vorschriften des Bankengesetzes vom 8. November 1934902 bleiben 
-vorbehalten.  
+vorbehalten.     
 Art. 17 
-…903  
+…903    
 Art. 18 
 Mit dem Inkrafttreten dieses Gesetzes sind die damit im Widerspruch 
 stehenden zivilrechtlichen Bestimmungen des Bundes, insbesondere die 
@@ -25951,7 +25951,7 @@ desrat festsetzen wird.905
 Schlussbestimmungen zum XXVI. Titel906 
 Art. 1 
 Der Schlusstitel des Zivilgesetzbuches907 gilt für dieses Gesetz. 
-   
+     
   
 902 SR 952.0 
 903 Die Änderungen können unter AS 53 185 konsultiert werden. 
@@ -26035,7 +26035,7 @@ scheine
 --- Seite 483 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 483 / 552 
-220
+220 
 Art. 4 
 In Ergänzung zu Artikel 685d Absatz 1 kann die Gesellschaft, aufgrund 
 statutarischer Bestimmung, Personen als Erwerber börsenkotierter Na-
@@ -26126,7 +26126,7 @@ Gesetzes.
 --- Seite 485 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 485 / 552 
-220
+220 
 Inhaltsverzeichnis 
 Das Obligationenrecht 
 Erste Abteilung: Allgemeine Bestimmungen 
@@ -26257,7 +26257,7 @@ Art. 40g
 --- Seite 487 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 487 / 552 
-220
+220 
 Zweiter Abschnitt:  
 Die Entstehung durch unerlaubte Handlungen 
 A. Haftung im Allgemeinen 
@@ -26388,7 +26388,7 @@ Art. 87
 --- Seite 489 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 489 / 552 
-220
+220 
 III. Quittung und Rückgabe des Schuldscheines 
 1. Recht des Schuldners 
 Art. 88 
@@ -26523,7 +26523,7 @@ Art. 137
 --- Seite 491 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 491 / 552 
-220
+220 
 b. Bei Handlungen des Gläubigers 
 Art. 138 
 V. Verjährung des Regressanspruchs 
@@ -26651,7 +26651,7 @@ Art. 183
 --- Seite 493 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 493 / 552 
-220
+220 
 Zweite Abteilung: Die einzelnen Vertragsverhältnisse 
 Sechster Titel: Kauf und Tausch 
 Erster Abschnitt: Allgemeine Bestimmungen 
@@ -26777,12 +26777,12 @@ Aufgehoben
 Art. 226 
 C. Aufgehoben 
 Art. 226a–228 
- 
+   
 
 --- Seite 495 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 495 / 552 
-220
+220 
 D. Versteigerung 
 I. Abschluss des Kaufes 
 Art. 229 
@@ -26839,7 +26839,7 @@ III. Verjährung und Klagerecht der Erben
 Art. 251 
 IV. Tod des Schenkers 
 Art. 252 
-   
+           
 
 --- Seite 496 ---
 Obligationenrecht 
@@ -26909,7 +26909,7 @@ Art. 259d
 --- Seite 497 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 497 / 552 
-220
+220 
 4. Schadenersatz 
 Art. 259e 
 5. Übernahme des Rechtsstreits 
@@ -27043,7 +27043,7 @@ Art. 272b
 --- Seite 499 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 499 / 552 
-220
+220 
 IV. Weitergeltung des Mietvertrags 
 Art. 272c 
 V. Kündigung während der Erstreckung 
@@ -27175,7 +27175,7 @@ Art. 311
 --- Seite 501 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 501 / 552 
-220
+220 
 Zweiter Abschnitt: Das Darlehen 
 A. Begriff 
 Art. 312 
@@ -27311,7 +27311,7 @@ Art. 331a
 --- Seite 503 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 503 / 552 
-220
+220 
 III. Abtretung und Verpfändung 
 Art. 331b 
 IV. Gesundheitliche Vorbehalte 
@@ -27448,7 +27448,7 @@ Art. 345a
 --- Seite 505 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 505 / 552 
-220
+220 
 III. Beendigung 
 1. Vorzeitige Auflösung 
 Art. 346 
@@ -27579,7 +27579,7 @@ Art. 366
 --- Seite 507 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 507 / 552 
-220
+220 
 4. Haftung für Mängel 
 a. Feststellung der Mängel 
 Art. 367 
@@ -27703,12 +27703,12 @@ F. Information und Datenschutz
 Art. 406g 
 G. Herabsetzung 
 Art. 406h 
-  
+       
 
 --- Seite 509 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 509 / 552 
-220
+220 
 Zweiter Abschnitt: Der Kreditbrief und der Kreditauftrag 
 A. Kreditbrief 
 Art. 407 
@@ -27842,7 +27842,7 @@ Art. 436
 --- Seite 511 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 511 / 552 
-220
+220 
 b. Vermutung des Eintrittes 
 Art. 437 
 c. Wegfall des Eintrittsrechtes 
@@ -27977,7 +27977,7 @@ Art. 489
 --- Seite 513 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 513 / 552 
-220
+220 
 II. Haftung der Stallwirte 
 Art. 490 
 III. Retentionsrecht 
@@ -28111,7 +28111,7 @@ Art. 538
 --- Seite 515 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 515 / 552 
-220
+220 
 VI. Entzug und Beschränkung der Geschäftsführung 
 Art. 539 
 VII. Geschäftsführende und nicht geschäftsführende Gesell-
@@ -28235,12 +28235,12 @@ D. Rechte und Pflichten der Liquidatoren
 Art. 585 
 E. Vorläufige Verteilung 
 Art. 586 
- 
+   
 
 --- Seite 517 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 517 / 552 
-220
+220 
 F. Auseinandersetzung 
 I. Bilanz 
 Art. 587 
@@ -28369,7 +28369,7 @@ Art. 634a
 --- Seite 519 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 519 / 552 
-220
+220 
 d. Nachträgliche Leistung 
 Art. 634b 
 3. Prüfung der Einlagen 
@@ -28512,7 +28512,7 @@ Art. 656d
 --- Seite 521 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 521 / 552 
-220
+220 
 3. Vertretung im Verwaltungsrat 
 Art. 656e 
 4. Vermögensrechte 
@@ -28650,7 +28650,7 @@ Art. 693
 --- Seite 523 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 523 / 552 
-220
+220 
 3. Entstehung des Stimmrechts 
 Art. 694 
 4. Ausschliessung vom Stimmrecht 
@@ -28794,7 +28794,7 @@ Art. 718a
 --- Seite 525 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 525 / 552 
-220
+220 
 3. Verträge zwischen der Gesellschaft und ihrem Vertreter 
 Art. 718b 
 4. Zeichnung 
@@ -28930,7 +28930,7 @@ Art. 741
 --- Seite 527 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 527 / 552 
-220
+220 
 III. Liquidationstätigkeit 
 1. Bilanz. Schuldenruf 
 Art. 742 
@@ -29052,7 +29052,7 @@ Art. 780
 --- Seite 529 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 529 / 552 
-220
+220 
 L. Erhöhung des Stammkapitals 
 Art. 781 
 M. Herabsetzung des Stammkapitals 
@@ -29188,7 +29188,7 @@ Art. 820
 --- Seite 531 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 531 / 552 
-220
+220 
 Vierter Abschnitt: Auflösung und Ausscheiden 
 A. Auflösung 
 I. Gründe 
@@ -29244,7 +29244,7 @@ V. Erwerb der Persönlichkeit
 Art. 838 
 D. Statutenänderung 
 Art. 838a 
-  
+      
 
 --- Seite 532 ---
 Obligationenrecht 
@@ -29315,7 +29315,7 @@ Art. 863
 --- Seite 533 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 533 / 552 
-220
+220 
 IV. Abfindungsanspruch 
 1. Nach Massgabe der Statuten 
 Art. 864 
@@ -29454,7 +29454,7 @@ Art. 916
 --- Seite 535 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 535 / 552 
-220
+220 
 B. Haftung gegenüber Genossenschaft, Genossenschaftern 
 und Gläubigern 
 Art. 917 
@@ -29578,7 +29578,7 @@ Art. 956
 --- Seite 537 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 537 / 552 
-220
+220 
 Zweiunddreissigster Titel:  
 Kaufmännische Buchführung, Rechnungslegung,  
 weitere Transparenz- und Sorgfaltspflichten 
@@ -29699,7 +29699,7 @@ Art. 964l
 --- Seite 539 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 539 / 552 
-220
+220 
 Fünfte Abteilung: Die Wertpapiere 
 Dreiunddreissigster Titel:  
 Die Namen-, Inhaber- und Ordrepapiere 
@@ -29823,7 +29823,7 @@ Art. 1001
 --- Seite 541 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 541 / 552 
-220
+220 
 2. Erfordernisse 
 Art. 1002 
 3. Form 
@@ -29956,7 +29956,7 @@ Art. 1056
 --- Seite 543 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 543 / 552 
-220
+220 
 c. Haftung des Ehrenannehmenden. Wirkung auf das Rück-
 griffsrecht 
 Art. 1057 
@@ -30085,7 +30085,7 @@ Art. 1105
 --- Seite 545 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 545 / 552 
-220
+220 
 7. Zinsvermerk 
 Art. 1106 
 8. Zahlstellen. Domizilcheck 
@@ -30209,7 +30209,7 @@ Art. 1150
 --- Seite 547 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 547 / 552 
-220
+220 
 II. Zahlungsversprechen an Ordre 
 Art. 1151 
 C. Andere indossierbare Papiere 
@@ -30335,7 +30335,7 @@ Art. 5
 --- Seite 549 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 549 / 552 
-220
+220 
 F. Nachschusspflicht 
 Art. 6 
 G. Revisionsstelle 
@@ -30450,7 +30450,7 @@ Art. 5
 --- Seite 551 ---
 Ergänzung des Schweizerischen Zivilgesetzbuches. BG 
 551 / 552 
-220
+220 
 Aufhebung eidgenössischer Vorschriften 
 Art. 6 
 Anpassung altrechtlicher Verhältnisse 

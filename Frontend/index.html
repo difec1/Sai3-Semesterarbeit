@@ -3,47 +3,412 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Chatbot</title>
-
-    <!-- Verlinkung zu externer CSS-Datei -->
+    <title>Gesetzestext-Chatbot</title>
     <link rel="stylesheet" href="style.css" />
-
-    <!-- Verlinkung zu externer JavaScript-Datei -->
-    <script src="script.js" defer></script>
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      rel="stylesheet"
+    />
   </head>
   <body>
-    <!-- Theme-Toggle oben rechts -->
-    <button class="toggle-theme" onclick="toggleTheme()">🌗</button>
+    <!-- Header mit Branding -->
+    <header class="header">
+      <div class="header-content">
+        <h1><i class="fas fa-balance-scale"></i> Gesetzestext-Assistent</h1>
+        <div class="header-controls">
+          <button class="info-btn" onclick="showInfo()">
+            <i class="fas fa-info-circle"></i>
+          </button>
+          <button class="toggle-theme" onclick="toggleTheme()">
+            <i class="fas fa-moon"></i>
+          </button>
+        </div>
+      </div>
+    </header>
 
-    <!-- Startbildschirm mit Button zum Chatstart -->
-    <div id="startScreen" class="centered">
-      <h1>Wie kann ich dir helfen?</h1>
-
-      <!-- Eingabefeld (Chat startet automatisch bei Enter) -->
-      <input
-        type="text"
-        id="initialInput"
-        placeholder="Stelle deine erste Frage oder gib deinen Namen ein..."
-        class="start-input"
-      />
-    </div>
-
-    <!-- Chatansicht (anfangs versteckt) -->
-    <div id="chatScreen" class="chat-container hidden">
-      <div class="chat-wrapper">
-        <!-- Nachrichtenbereich -->
-        <div class="messages" id="chatMessages"></div>
-
-        <!-- Eingabezeile mit Textfeld und Button -->
-        <div class="input-bar">
-          <input
-            type="text"
-            id="userInput"
-            placeholder="Nachricht eingeben..."
-          />
-          <button onclick="sendMessage()">Senden</button>
+    <!-- Info Modal -->
+    <div id="infoModal" class="modal hidden">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h2>Über diesen Chatbot</h2>
+          <button onclick="closeModal()" class="close-btn">
+            <i class="fas fa-times"></i>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p><strong>Funktionsweise:</strong></p>
+          <ul>
+            <li>Durchsucht deutsche Gesetzestexte</li>
+            <li>Antwortet nur basierend auf verfügbaren Dokumenten</li>
+            <li>Zeigt Quellen und Relevanz an</li>
+            <li>Minimiert Halluzinationen durch präzise Prompts</li>
+          </ul>
+          <p><strong>Verfügbare Quellen:</strong></p>
+          <div id="sourcesList">Lade...</div>
         </div>
       </div>
     </div>
+
+    <!-- Chat Container -->
+    <div class="chat-container">
+      <!-- Willkommensnachricht -->
+      <div id="welcomeMessage" class="welcome-message">
+        <div class="welcome-content">
+          <i class="fas fa-gavel welcome-icon"></i>
+          <h2>Wie kann ich Ihnen helfen?</h2>
+          <p>
+            Stellen Sie Fragen zu deutschen Gesetzestexten. Ich antworte nur
+            basierend auf verfügbaren Dokumenten.
+          </p>
+          <div class="example-questions">
+            <h3>Beispielfragen:</h3>
+            <button
+              class="example-btn"
+              onclick="askExample('Welche Ruhezeiten gelten für Nachtarbeit?')"
+            >
+              Welche Ruhezeiten gelten für Nachtarbeit?
+            </button>
+            <button
+              class="example-btn"
+              onclick="askExample('Was regelt das Arbeitsschutzgesetz?')"
+            >
+              Was regelt das Arbeitsschutzgesetz?
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Chat Messages -->
+      <div class="messages" id="chatMessages"></div>
+
+      <!-- Status Bar -->
+      <div id="statusBar" class="status-bar hidden">
+        <div class="status-content">
+          <div class="spinner"></div>
+          <span id="statusText">Suche in Dokumenten...</span>
+        </div>
+      </div>
+
+      <!-- Input Bar -->
+      <div class="input-bar">
+        <div class="input-container">
+          <textarea
+            id="userInput"
+            placeholder="Ihre Frage zu deutschen Gesetzen..."
+            rows="1"
+            maxlength="500"
+          ></textarea>
+          <div class="input-controls">
+            <span class="char-counter" id="charCounter">0/500</span>
+            <button id="sendButton" onclick="sendMessage()" disabled>
+              <i class="fas fa-paper-plane"></i>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      // =============================
+      // Globale Variablen
+      // =============================
+      let isFirstMessage = true;
+      const API_BASE = "http://localhost:5000";
+
+      // =============================
+      // Initialisierung
+      // =============================
+      document.addEventListener("DOMContentLoaded", () => {
+        loadTheme();
+        setupEventListeners();
+        loadAvailableSources();
+      });
+
+      function setupEventListeners() {
+        const input = document.getElementById("userInput");
+        const sendButton = document.getElementById("sendButton");
+        const charCounter = document.getElementById("charCounter");
+
+        // Auto-resize für Textarea
+        input.addEventListener("input", () => {
+          autoResize(input);
+          updateCharCounter();
+          toggleSendButton();
+        });
+
+        // Enter zum Senden (Shift+Enter für neue Zeile)
+        input.addEventListener("keydown", (e) => {
+          if (e.key === "Enter" && !e.shiftKey) {
+            e.preventDefault();
+            sendMessage();
+          }
+        });
+
+        // Fokus auf Input beim Laden
+        input.focus();
+      }
+
+      function autoResize(textarea) {
+        textarea.style.height = "auto";
+        textarea.style.height = Math.min(textarea.scrollHeight, 120) + "px";
+      }
+
+      function updateCharCounter() {
+        const input = document.getElementById("userInput");
+        const counter = document.getElementById("charCounter");
+        const length = input.value.length;
+
+        counter.textContent = `${length}/500`;
+        counter.classList.toggle("warning", length > 400);
+        counter.classList.toggle("error", length >= 500);
+      }
+
+      function toggleSendButton() {
+        const input = document.getElementById("userInput");
+        const button = document.getElementById("sendButton");
+        button.disabled = !input.value.trim();
+      }
+
+      // =============================
+      // Chat-Funktionalität
+      // =============================
+      async function sendMessage() {
+        const input = document.getElementById("userInput");
+        const message = input.value.trim();
+
+        if (!message) return;
+
+        // Willkommensnachricht ausblenden
+        if (isFirstMessage) {
+          document.getElementById("welcomeMessage").classList.add("fade-out");
+          setTimeout(() => {
+            document.getElementById("welcomeMessage").style.display = "none";
+          }, 300);
+          isFirstMessage = false;
+        }
+
+        // Benutzernachricht hinzufügen
+        addMessage(message, "user");
+
+        // Input zurücksetzen
+        input.value = "";
+        input.style.height = "auto";
+        updateCharCounter();
+        toggleSendButton();
+
+        // Status anzeigen
+        showStatus("Suche in Dokumenten...");
+
+        try {
+          const response = await fetch(`${API_BASE}/answer`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ question: message }),
+          });
+
+          const data = await response.json();
+
+          hideStatus();
+
+          if (response.ok) {
+            addBotMessage(data);
+          } else {
+            addMessage(
+              `Fehler: ${data.error || "Unbekannter Fehler"}`,
+              "bot error"
+            );
+          }
+        } catch (error) {
+          hideStatus();
+          addMessage(
+            "Verbindungsfehler. Bitte versuchen Sie es später erneut.",
+            "bot error"
+          );
+          console.error("API-Fehler:", error);
+        }
+      }
+
+      function askExample(question) {
+        document.getElementById("userInput").value = question;
+        updateCharCounter();
+        toggleSendButton();
+        sendMessage();
+      }
+
+      function addMessage(text, type) {
+        const container = document.getElementById("chatMessages");
+        const messageDiv = document.createElement("div");
+        messageDiv.className = `message ${type}`;
+
+        if (type === "user") {
+          messageDiv.innerHTML = `
+                    <div class="message-content">
+                        <i class="fas fa-user message-icon"></i>
+                        <div class="message-text">${escapeHtml(text)}</div>
+                    </div>
+                `;
+        }
+
+        container.appendChild(messageDiv);
+        messageDiv.scrollIntoView({ behavior: "smooth", block: "end" });
+      }
+
+      function addBotMessage(data) {
+        const container = document.getElementById("chatMessages");
+        const messageDiv = document.createElement("div");
+        messageDiv.className = "message bot";
+
+        // Confidence-Klasse hinzufügen
+        messageDiv.classList.add(`confidence-${data.confidence}`);
+
+        let sourcesHtml = "";
+        if (data.sources && data.sources.length > 0) {
+          sourcesHtml = `
+                    <div class="sources">
+                        <h4><i class="fas fa-book"></i> Quellen:</h4>
+                        ${data.sources
+                          .map(
+                            (source) => `
+                            <div class="source-item">
+                                <span class="source-name">${escapeHtml(
+                                  source.quelle
+                                )}</span>
+                                <span class="source-chunk">Abschnitt ${
+                                  source.chunk_id
+                                }</span>
+                                <span class="source-relevance">${
+                                  source.relevanz
+                                }</span>
+                            </div>
+                        `
+                          )
+                          .join("")}
+                    </div>
+                `;
+        }
+
+        const confidenceIcon = getConfidenceIcon(data.confidence);
+
+        messageDiv.innerHTML = `
+                <div class="message-content">
+                    <i class="fas fa-robot message-icon"></i>
+                    <div class="message-text">
+                        <div class="answer-content">
+                            ${escapeHtml(data.answer)}
+                        </div>
+                        ${sourcesHtml}
+                        <div class="confidence-indicator">
+                            ${confidenceIcon}
+                            <span class="confidence-text">${getConfidenceText(
+                              data.confidence
+                            )}</span>
+                        </div>
+                    </div>
+                </div>
+            `;
+
+        container.appendChild(messageDiv);
+        messageDiv.scrollIntoView({ behavior: "smooth", block: "end" });
+      }
+
+      function getConfidenceIcon(confidence) {
+        const icons = {
+          high: '<i class="fas fa-check-circle confidence-high"></i>',
+          medium: '<i class="fas fa-info-circle confidence-medium"></i>',
+          low: '<i class="fas fa-exclamation-triangle confidence-low"></i>',
+          honest: '<i class="fas fa-hand-paper confidence-honest"></i>',
+          error: '<i class="fas fa-times-circle confidence-error"></i>',
+        };
+        return icons[confidence] || icons.medium;
+      }
+
+      function getConfidenceText(confidence) {
+        const texts = {
+          high: "Hohe Relevanz",
+          medium: "Mittlere Relevanz",
+          low: "Niedrige Relevanz",
+          honest: "Keine passenden Dokumente",
+          error: "Technischer Fehler",
+        };
+        return texts[confidence] || "Unbekannt";
+      }
+
+      function showStatus(text) {
+        const statusBar = document.getElementById("statusBar");
+        const statusText = document.getElementById("statusText");
+
+        statusText.textContent = text;
+        statusBar.classList.remove("hidden");
+      }
+
+      function hideStatus() {
+        document.getElementById("statusBar").classList.add("hidden");
+      }
+
+      function escapeHtml(text) {
+        const div = document.createElement("div");
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      // =============================
+      // Theme & UI
+      // =============================
+      function loadTheme() {
+        const theme = localStorage.getItem("theme") || "dark";
+        const body = document.body;
+        const themeIcon = document.querySelector(".toggle-theme i");
+
+        body.classList.toggle("light", theme === "light");
+        themeIcon.className = theme === "light" ? "fas fa-sun" : "fas fa-moon";
+      }
+
+      function toggleTheme() {
+        const body = document.body;
+        const themeIcon = document.querySelector(".toggle-theme i");
+        const isLight = body.classList.toggle("light");
+
+        localStorage.setItem("theme", isLight ? "light" : "dark");
+        themeIcon.className = isLight ? "fas fa-sun" : "fas fa-moon";
+      }
+
+      function showInfo() {
+        document.getElementById("infoModal").classList.remove("hidden");
+      }
+
+      function closeModal() {
+        document.getElementById("infoModal").classList.add("hidden");
+      }
+
+      async function loadAvailableSources() {
+        try {
+          const response = await fetch(`${API_BASE}/sources`);
+          const data = await response.json();
+
+          const sourcesList = document.getElementById("sourcesList");
+          if (data.sources && data.sources.length > 0) {
+            sourcesList.innerHTML = data.sources
+              .map(
+                (source) =>
+                  `<span class="source-tag">${escapeHtml(source)}</span>`
+              )
+              .join("");
+          } else {
+            sourcesList.textContent = "Keine Quellen verfügbar";
+          }
+        } catch (error) {
+          document.getElementById("sourcesList").textContent =
+            "Fehler beim Laden der Quellen";
+        }
+      }
+
+      // Modal schließen bei Klick außerhalb
+      window.onclick = function (event) {
+        const modal = document.getElementById("infoModal");
+        if (event.target === modal) {
+          closeModal();
+        }
+      };
+    </script>
   </body>
 </html>
