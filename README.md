@@ -1,146 +1,120 @@
-# 🧠 Gesetzes-Chatbot (RAG-System)
+# 🧠 RAG-Bot – Schweizer Gesetzestexte einfach erklärt
 
-Dieses Projekt ist ein **Retrieval-Augmented Generation (RAG)**-System, das auf lokal gespeicherten Gesetzestexten basiert.
-Es kombiniert **Vektorsuche (ChromaDB)**, **lokale Embeddings (Ollama)** und **Antwortgenerierung via Together.ai (Mixtral-Modell)**.
-Über das mitgelieferte Frontend kann der Nutzer Fragen zu den enthaltenen PDFs stellen.
+Ein intelligenter Chatbot auf Basis von Retrieval-Augmented Generation (RAG), der Fragen zu Schweizer Gesetzen beantwortet. Der Bot durchsucht vektorbasierte Embeddings von Gesetzestexten (wie ZGB, OR, Arbeitsgesetz etc.) und liefert präzise Antworten mit Quellenangabe.
 
 ---
 
-## 🔧 Voraussetzungen
+## 🚀 Funktionen
 
-### 📦 Software
+- Nutzt ChromaDB für schnelle semantische Suche
+- Arbeitet mit lokalem Sprachmodell über Ollama
+- Beantwortet Fragen auf natürlicher Sprache
+- Zeigt verwendete Gesetzesabschnitte als Quellen an
+- Vertrauensindikator für jede Antwort
+- Lokale Ausführung – keine externen APIs erforderlich
 
-- Python 3.10 oder 3.11
-- Ollama (lokaler LLM/Embedding-Server)
-- ChromaDB (Vektor-Datenbank, lokal)
-- Together.ai API-Key (kostenlos)
+---
 
-### 📁 Verzeichnisstruktur (Auszug)
+## 📦 Projektstruktur
 
 ```
-├── data/
-│   ├── input/               → Originale PDFs
-│   ├── text/                → Extrahierter Text
-│   ├── chunks/              → Textblöcke (Chunks)
-│   └── embeddings.json      → Generierte Vektor-Daten
-├── scripts/                 → Alle Python-Skripte
-├── Frontend/                → HTML/CSS/JS-Frontend
-├── .env                     → API-Key (nicht committen!)
+├── app.py                  # Hauptserver mit Flask
+├── data/                   # Gesetzestexte (PDF)
+├── Frontend/               # Webinterface (HTML, JS, CSS)
+├── scripts/                # .env und Hilfsskripte
+├── process_pdfs.py         # PDF-Verarbeitung
+├── import_to_chroma.py     # Embedding-Import in ChromaDB
+├── start_docker.sh         # Automatischer Start (alternativ zu docker-compose)
+├── docker-compose.yml      # Container-Orchestrierung
+├── Dockerfile              # Build-Anweisungen
+├── requirements.txt        # Python-Abhängigkeiten
 ```
 
 ---
 
-## 🚀 Schritt-für-Schritt Inbetriebnahme (lokal)
+## 🛠️ Voraussetzungen
 
-### 1. Repository klonen
+- **Docker** und **Docker Compose** installiert  
+  (Download: [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop))
+- Ein GitHub-Konto zum Klonen des Repositories
+
+---
+
+## 🧑‍💻 Schritt-für-Schritt Anleitung zur Inbetriebnahme
+
+### 1. Projekt klonen
 
 ```bash
-git clone https://github.com/dein-nutzername/dein-repository.git
-cd dein-repository
+git clone https://github.com/DEIN_NUTZERNAME/Sai3-Semesterarbeit.git
+cd rag-gesetzesbot
 ```
 
-### 2. Virtuelle Umgebung erstellen
+### 2. Docker-Login ausführen
 
 ```bash
-python -m venv .venv
-source .venv/Scripts/activate   # Windows
-# source .venv/bin/activate     # macOS/Linux
+docker login
 ```
 
-### 3. Abhängigkeiten installieren
+> Melde dich mit deinem Docker Hub-Konto an. Wenn du noch keines hast, kannst du es kostenlos erstellen unter: [https://hub.docker.com/](https://hub.docker.com/)
+
+### 3. Container starten und Build ausführen
 
 ```bash
-pip install -r requirements.txt
+docker-compose up --build
 ```
 
-### 4. `.env`-Datei erstellen
-
-```env
-# Datei: .env
-TOGETHER_API_KEY=sk-...dein-key...
-```
-
-> ❗ Die Datei `.env` ist **nicht im Repository enthalten** (siehe `.gitignore`).
+> Der Chatbot wird auf [http://localhost:5000](http://localhost:5000) verfügbar sein.
 
 ---
 
-## 🔁 Daten vorbereiten
-
-### 5. PDFs in den Ordner `data/input/` verschieben
-
-Dann:
+### 4. System-Status prüfen und Ollama konfigurieren
 
 ```bash
-python scripts/extract_text.py
-python scripts/chunk_text.py
-python scripts/create_embeddings_json.py
+# Health-Check ausführen
+curl http://localhost:5000/health
 ```
 
----
-
-## 🧲 Embeddings in Chroma laden
-
-### 6. Starte Chroma (in neuem Terminal):
+Falls die Antwort `"ollama": "disconnected"` zeigt, muss das Sprachmodell installiert werden:
 
 ```bash
-uvicorn chromadb.app:app --host 127.0.0.1 --port 8000
+# Llama 3.2 Model installieren (einmalig erforderlich)
+docker exec -it ollama ollama pull llama3.2:3b
+
+# Installation verifizieren
+docker exec -it ollama ollama list
 ```
 
-Dann in deinem alten Terminal:
-
-```bash
-python scripts/import_embeddings_to_chroma_server.py
-```
+Nach erfolgreicher Installation sollte der Health-Check `"ollama": "connected"` anzeigen.
 
 ---
 
-## 🧠 Ollama starten (für Embeddings)
+## 🌐 Webinterface aufrufen
 
-```bash
-ollama run nomic-embed-text
-```
+Öffne nach dem Start in deinem Browser den localhost:5000
 
 ---
 
-## 🌐 Backend starten
+## 📁 Eigene Gesetzestexte hinzufügen
 
-```bash
-python scripts/app.py
-```
+Lege deine PDF-Dateien in den Ordner `data/` ab. Beim nächsten Start werden die Inhalte automatisch verarbeitet und eingebunden.
 
 ---
 
-## 💬 Frontend starten
+## 🧪 Beispiel-Fragen
 
-1. Öffne `Frontend/index.html` in VS Code
-2. Rechtsklick → **"Open with Live Server"**
-3. Gib im Browser eine Frage ein (z. B. _„Was steht im Arbeitsgesetz über Ruhezeiten?“_)
-
----
-
-## ✅ Beispielhafte Fragen
-
-- „Welche Ruhezeiten gelten bei Nachtarbeit?“
-- „Was regelt das Datenschutzgesetz im Arbeitsverhältnis?“
-- „Wie ist ein Werkvertrag im OR definiert?“
+- Was regelt das Arbeitsgesetz bei Nachtarbeit?
+- Welche Ruhezeiten gelten laut Gesetz?
+- Was steht im ZGB zur Handlungsfähigkeit?
 
 ---
 
-## 🛡 Sicherheit
+## 📫 Kontakt / Mitwirkende
 
-- API-Key liegt **nur in `.env`** und ist im `.gitignore` geschützt
-- Für Deployment wird empfohlen, den Key über Umgebungsvariablen zu setzen
-
----
-
-## 🧪 Weitere Skripte
-
-| Script                                  | Beschreibung                          |
-| --------------------------------------- | ------------------------------------- |
-| `extract_text.py`                       | Extrahiert Text aus PDFs              |
-| `chunk_text.py`                         | Teilt Text in überlappende Chunks     |
-| `create_embeddings_json.py`             | Erstellt Embeddings via Ollama        |
-| `import_embeddings_to_chroma_server.py` | Importiert Embeddings in ChromaDB     |
-| `app.py`                                | Flask-API zur Beantwortung von Fragen |
+Gruppe F – SAI3 Modul FS25  
+Aziri Arber, Beutler Florian, di Fede Carmelo, Vidakovic Milos
 
 ---
+
+## ⚖️ Lizenz
+
+Dieses Projekt dient rein zu Studienzwecken im Modul SAI3. Keine kommerzielle Nutzung.
